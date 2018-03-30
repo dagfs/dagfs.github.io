@@ -32,7 +32,7 @@ There is a book named *At Last a Life* that in summary says "It is OK to feel li
 
 Related videos
 * [How to connect with depressed friends](https://www.ted.com/talks/bill_bernat_how_to_connect_with_depressed_friends)
-* [Why we choose suicide | Mark Henick | TEDxToronto](https://www.youtube.com/watch?v=D1QoyTmeAYw)
+* [Why we choose suicide - Mark Henick - TEDxToronto](https://www.youtube.com/watch?v=D1QoyTmeAYw)
 * [Don't suffer from your depression in silence | Nikki Webber Allen](https://www.youtube.com/watch?v=shG0ezBeeJc)
 
 
