@@ -11,7 +11,7 @@
   if ('serviceWorker' in navigator) {
     console.log("sadasdasd")
     navigator.serviceWorker
-             .register('service-worker.js')
+             .register('./service-worker.js')
              .then(function() { console.log('Service Worker Registered'); });
   }
 })();
