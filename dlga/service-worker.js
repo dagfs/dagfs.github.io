@@ -3,11 +3,11 @@
 var dataCacheName = 'dlga-v1.2';
 var cacheName = 'dlga-v1.2';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/scripts/app.js',
-  '/scripts/data.json',
-  '/styles/inline.css',
+  './',
+  './index.html',
+  './scripts/app.js',
+  './scripts/data.json',
+  './styles/inline.css',
 ];
 
 self.addEventListener('install', function(e) {
