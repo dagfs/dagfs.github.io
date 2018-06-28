@@ -1,0 +1,10 @@
+var data = [
+  {
+    title: "SPEIDERBØNNEN",
+    text: "Kjære far i høye himmel, hør mitt hjertes stille bønn: Hvor jeg er i verdens vrimmel, la meg ferdes som din sønn. La meg leve deg til ære, hedre Norge, far og mor, andre folk til nytte være, lyde speiderlovens ord."
+  },
+  {
+    title: "LILJESANGEN",
+    text: "1. La vaie vårt banner med liljen, i storm og i regn og i sol. La kalle på motet og viljen, det tredelte speidersymbol.<br> Refr.: Vår lilje er merket som binder en broderskapskjede rundt jord, og liljen er merket som minner om løftets forpliktende ord.<br> <br>2. Et blad byder meg, jeg skal være sann korsmann for Herren, min Gud. I tro og i bønn skal jeg ære hans navn og hans hellige bud.<br><br> 3. Mitt land skal jeg fremme og bygge og tjene i arbeid og råd. Dets frihet og fred skal jeg trygge i offer, i innsats og dåd. <br><br> 4. Det annet blad gjelder min neste som trenger min hjelpende hånd. Jeg lovet å gjøre mitt beste i kristen barmhjertighets ånd. <br><br> 5. Det tredje av bladene setter min ferd opp mot speiderlovs krav. Min vandring i livet beretter hvor meget jeg makter derav." 
+  },
+  ];
