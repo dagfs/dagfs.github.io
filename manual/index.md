@@ -1,4 +1,4 @@
-# readme
+readme
 
 Life is complicated. This document contains a collection of thoughts, articles and observation of different aspects of life such as [self](#self), [relationships](#relationships), [work](#work).
 
