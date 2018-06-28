@@ -1,12 +1,12 @@
 var filesToCache = [
-  './',
+  '/dlga',
   './index.html',
   './scripts/app.js',
   './scripts/data.json',
   './styles/inline.css',
 ];
 
-var staticCacheName = 'pages-cache-v1';
+var staticCacheName = 'pages-cache-v11';
 
 self.addEventListener('install', function(event) {
   console.log('Attempting to install service worker and cache static assets');
