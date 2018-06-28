@@ -1,5 +1,7 @@
 # Manual
 
+https://9gag.com/gag/aGjn037
+
 This document is a collection of articles related to developing a manual of oneself that can help improve your relationships by communicating clearly how best to communicate with you.
 
 Just to be clear. This is not meant to be something where you can write "If you can not handle me at my worst, you don't deserve me at my best". If you find this true, then I do not think you will get anything out of the rest of this document.
