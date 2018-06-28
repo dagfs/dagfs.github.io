@@ -5,7 +5,7 @@ var filesToCache = [
   '/dlga/styles/inline.css',
 ];
 
-var staticCacheName = 'pages-cache-v12';
+var staticCacheName = 'pages-cache-v13';
 
 self.addEventListener('install', function(event) {
   console.log('Attempting to install service worker and cache static assets');
@@ -36,7 +36,7 @@ self.addEventListener('activate', function(e) {
   e.waitUntil(
     caches.keys().then(function(keyList) {
           return Promise.all(keyList.map(function(key) {
-        if(cacheName.indexOf(key) === -1) {
+        if(staticCacheName.indexOf(key) === -1) {
           return caches.delete(key);
         }
       }));
