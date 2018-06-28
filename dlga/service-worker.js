@@ -1,9 +1,9 @@
 var filesToCache = [
-  '/dlga',
-  './index.html',
-  './scripts/app.js',
-  './scripts/data.json',
-  './styles/inline.css',
+  '/dlga/',
+  '/dlga/index.html',
+  '/dlga/scripts/app.js',
+  '/dlga/scripts/data.json',
+  '/dlga/styles/inline.css',
 ];
 
 var staticCacheName = 'pages-cache-v11';
