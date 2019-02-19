@@ -1,22 +1,35 @@
 # Personvern hvorfor skal jeg faktisk bry meg?
 
+- [ ] Finne eget språk
+- [ ] Finne personlighetstype
+- [ ] Hvilke punkter fra menneskerettighetserklæringen kan være påvirket av personvern?
+- [ ] Hvilke poenger kan en dra med seg fra bøkene
+- [ ] Hvilke resusser skal en linke til
+- [ ] Hvilke artikkler skal en nevne?
+  - https://news.ycombinator.com/item?id=19196501
+  - grense beskyttelse av internett osv
 
-1. Mål?
+## Dis
+
+### 1. Mål?
+
 Hvorfor skal Ola Nordmann FAKTISK bry seg om sitt eget og andres personvern.
 
-2. Hvem? hva vet de fra før?
-Det er vel viktig siden vi snakker så mye om det, megn jeg vet ikke helt hva det vil si i praksis og jeg får jo ting for den informasjonen jeg gir fra meg.
+### 2. Hvem? hva vet de fra før?
 
-3. Hva vil jeg si?
-Jeg vil gi noen konkrete grunner til at Ola Nordmann vil bry seg om sitt eget personvern og gjøre et bevist valg når han gir fra seg informasjon og tar stilling til valg som påvirker eget eller andres personvern.
+> Det er vel viktig siden vi snakker så mye om det, men jeg vet ikke helt hva det vil si i praksis og jeg får jo ting for den informasjonen jeg gir fra meg.
 
+### 3. Hva vil jeg si?
 
-4. gjør klar
-5. skriv
-6. reflekter
+Personvern går under FN sin paragraf 12 om rett til privatliv. Men det smitter over til mange av de andre rettighetene vi som mennesker har.
 
 
-##Tanker
+### 4. gjør klar
+### 5. skriv
+### 6. reflekter
+
+
+## Tanker
 - Jeg har ikke noe å skjule
 - Elekstriske strømmålere
 - Forsvaret skal drive med grensevokting
