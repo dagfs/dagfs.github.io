@@ -21,6 +21,15 @@ Hvorfor skal Ola Nordmann FAKTISK bry seg om sitt eget og andres personvern.
 
 ### 3. Hva vil jeg si?
 
+#### Det er praktiske grunner til å bry seg
+Du får ikke endret personnummeret ditt og det kan gjøre mye skade ved spredning av dette.
+
+Du kan få rykte ditt ødelagt
+
+
+
+#### Det er samfunnsmessige grunner
+
 Personvern går under FN sin paragraf 12 om rett til privatliv. Men det smitter over til mange av de andre rettighetene vi som mennesker har.
 
 
