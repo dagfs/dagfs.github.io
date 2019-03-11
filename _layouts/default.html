@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
     <style>
     body, html{
@@ -90,10 +89,12 @@ body.presentation h1{
 body.presentation h2{
   margin:0;
   padding:1vh 1vw;
-  background:var(--color-main);
+  background: rgb(153,204,153);
+        background: linear-gradient(0deg, rgba(153,204,153,1) 0%, rgba(102,153,102,1) 100%);
   font-size:5vh;
 
   box-sizing: border-box;
+  border-bottom:1px solid black;
 }
 
 body.presentation .slide-body{
