@@ -1,3 +1,5 @@
+https://twitter.com/karolikl/status/1097976648832557062
+
 # Hvordan bli coacha
 
 ## Hvorfor bli coacha?
