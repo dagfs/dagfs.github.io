@@ -1,4 +1,4 @@
-#
+# Stuff
 
 ## WIP
 - [Dele ideer](https://dagfrode.no/articles/sharing_ideas)
