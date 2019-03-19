@@ -179,7 +179,8 @@ body.presentation .slide-body{
             currentSection += asHTML(content.children[i]);
           }
         }
-        slideCount--;
+        newContent += "\n</span>\n<span id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</span>\n";
+              
         content.innerHTML = newContent;
         
         document.addEventListener("keydown", keyDownTextField, false);

@@ -8,6 +8,8 @@
 - [ ] Hvilke artikkler skal en nevne?
   - https://news.ycombinator.com/item?id=19196501
   - grense beskyttelse av internett osv
+  https://news.ycombinator.com/item?id=19362793
+  https://medium.com/s/story/the-growing-cost-of-early-adoption-75050e80b004
 
 ## Dis
 
