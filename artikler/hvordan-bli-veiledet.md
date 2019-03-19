@@ -4,7 +4,7 @@ Har du opplevd at det kan være litt vrient å få tilbakemelding på hvordan du
 
 Det er mye som en kan gjøre selv for å tilrettelegge for å bli veiledet. Dette foredraget tar for seg ting du kan gjøre selv , samt hvordan en kan veilede noen til å veilede seg selv, og kanskje veilede seg selv ved noen av de verktøyene vi går igjennom i løpet av 20 raske slides!
 
-Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på (https://dagfrode.no/artikler/hvordan-bli-veiledet)[https://dagfrode.no/artikler/hvordan-bli-veiledet] som full artikkel.
+Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på [https://dagfrode.no/artikler/hvordan-bli-veiledet](https://dagfrode.no/artikler/hvordan-bli-veiledet) som full artikkel.
 
 **Trykk på P for presentasjon ;)**
 
