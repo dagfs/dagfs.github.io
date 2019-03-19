@@ -10,11 +10,12 @@
 
     <style>
     body, html{
-        --color-main:#9c9;
-        --color-secondary:#DEF;
-        --grey-one:#99a;
-        --grey-two:#9a9;
-        --grey:#344;
+        --color-main: rgba(102,153,102,1);
+        --color-secondary:#E65;
+        --color-3:#08b2e3;
+        --color-4:#efe9f4;
+        --color-5:#484d6d;
+
         word-wrap: break-word;
         background: rgba(102,153,102,1);
         padding:0;
@@ -32,13 +33,11 @@
     #header_wrap{
         background: rgb(153,204,153);
         background: linear-gradient(0deg, rgba(153,204,153,1) 0%, rgba(102,153,102,1) 100%);
-
     }
 
     #footer_wrap{
         background: rgb(153,204,153);
         background: linear-gradient(0deg, rgba(102,153,102,1) 0%, rgba(153,204,153,1) 100%);
-
     }
 
     #main_content, header, footer{
@@ -48,8 +47,18 @@
     }
 
     #main_content_wrap{
-      background:#EEE;
+      background:var(--color-4);
     }
+
+    header, footer{
+      text-shadow: rgb(153,204,153) 0 0 10px;
+    }
+
+    h1{
+      font-size:2em;
+    }
+
+  
 
 
 body.presentation #main_content{
@@ -68,7 +77,6 @@ body.presentation .slide{
 
 body.presentation .slide-body{
   padding:1vh 1vw;
-
 }
 
 body.presentation #header_wrap{
@@ -93,8 +101,10 @@ body.presentation h2{
         background: linear-gradient(0deg, rgba(153,204,153,1) 0%, rgba(102,153,102,1) 100%);
   font-size:5vh;
 
+  text-shadow: rgb(153,204,153) 0 0 10px;
+
   box-sizing: border-box;
-  border-bottom:1px solid black;
+  border-bottom:1px solid var(--color-5);
 }
 
 body.presentation .slide-body{
@@ -118,7 +128,7 @@ body.presentation .slide-body{
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        {{ content }}
+       {{ content }}
       </section>
     </div>
 
@@ -179,10 +189,10 @@ body.presentation .slide-body{
         function keyDownTextField(e) {
           e.preventDefault();
         var keyCode = e.keyCode;
-          if(keyCode==33) {
+          if(keyCode==33 || keyCode==37) {
             prev()
           }
-            if(keyCode==34) {
+            if(keyCode==34 || keyCode==39) {
               next()
             }
         
