@@ -1,6 +1,14 @@
-https://twitter.com/karolikl/status/1097976648832557062
 
-# Hvordan bli coacha
+
+# Hvordan bli veiledet
+
+Har du opplevd at det kan være litt vrient å få tilbakemelding på hvordan du kan forbedre deg? At det er situasjoner hvor du følte du kunne gjort det bedre, men ikke helt vet hvordan?
+
+Det er mye som en kan gjøre selv for å tilrettelegge for å bli veiledet, dette foredraget tar for seg dette samt hvordan en kan veilede noen til å veilede seg selv, og kanskje veilede seg selv ved noen av de verktøyene vi går igjennom i løpet av 20 raske slides! 
+
+Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på https://dagfrode.no/artikkler/hvordan-bli-veiledet som full artikkel.
+
+**Trykk på P for presentasjon ;)**
 
 ## Hvorfor bli coacha?
 For deg:
@@ -40,13 +48,9 @@ Så for å gjøre det enkelt for den du ber om denne *tjenesten*
 
 ## TODO
 
-- [ ] Rename filnavnet
-- [ ] 
-- [ ] 
-- [ ] 
-
 ## Linker å sjekke ut
 - [ ] https://medium.com/@BlairePalmer/how-to-be-coached-38c2103e444f 
 - [ ] https://www.inc.com/bruce-eckfeldt/coaching-is-a-powerful-management-tool-but-not-everyone-can-be-coached.html
 - [ ] https://blog.usejournal.com/so-you-want-to-be-coached-5eb35109d1e1
 - [ ] https://www.linkedin.com/learning/coaching-employees-through-difficult-situations/coaching-someone-who-doesn-t-want-to-be-coached
+- [ ] https://twitter.com/karolikl/status/1097976648832557062
