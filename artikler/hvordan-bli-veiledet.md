@@ -31,7 +31,7 @@ Da vet du at:
 - Du vil kunne gjøre lignende besluttninger på egenhånd
 - Du begynner å stille spørsmål til deg selv som hjelper deg
 
-## 2. Be om feedback
+## 2. Be om tilbakemeldinger
 
 Det er utfordrende å gi tilbakemeldinger. Følelser, mottagelse, har ikke vært oppmerksom på det en blir spurt om.
 
@@ -45,7 +45,117 @@ Så for å gjøre det enkelt for den du ber om denne _tjenesten_
 
 (Kan være lurt å tenke igjennom over hvordan en tar imot tilbud og forespørsler. Ved å annerkjenne personen positivt for å ha tilbudt/forespurt akkuratt deg om noe vil det være mer sannsynlig at de vil gjøre det igjen)
 
-## 3.
+## 3. Hvordan gi tilbakemeldinger
+
+### Positive
+
+Vær konkret. Hva gjorde personen bra og hvorfor var det bra?
+
+### Konstruktive
+
+#### **A**cations - Hva blir gjort bra / kan forbedres?
+
+#### **I**mpact - Hvordan oppfattes disse handlingene?
+
+#### **D**isired outcome - Hva kan bli gjort andeledes?
+
+### Negative
+
+Unngå
+
+## 4. Hvordan kan en effektiv veiledningsøkt se ut?
+
+### **G**oal
+
+Hva trenger du veiledning til og hva kan dere oppnå i denne økten?
+
+For eksemel en plan for hvordan forbedre møteeffektivitet.
+
+### **R**eality
+
+Avklar hvordan situasjonen er i dag
+
+Hva har blit prøvd ut? Er det et faktisk problem?
+
+### **O**ptions
+
+Hvilke muligheter har vi?
+
+### **W**rap up
+
+Bli enige om en plan som blir fulgt opp for å se at tiltakene en kom frem til fungerer.
+
+## 5. Personlighet
+
+Tenk over egen Big 5 og prøv å forstå deg selv bedre ut fra denne modellen. Se om det er mulig å endre taktikk med oppgaven for å spille på dine styrker.
+
+Hvis utfordringen ligger ved en annen person vil det å tenke igjennom hvilke personlighetstrekk personen har kunne være nyttig for å tilpasse din stil for å sammarbeide bedre. En kan også ta opp tema å diskutere litt hvilke verdier en har og hvordan en påvirker hverandre.
+
+**Kjæn-dæ-sjæl**
+
+## 6. Blokeringer
+
+### Har ikke tid
+
+har behov for kontroll. lag en klar plan
+
+### Er ikke åpen for å få tilbakemeldinger
+
+avklar hvordan tilbakemeldinger skal gjøres
+
+### Når jeg tenker meg om går det nok greit like vel
+
+her synder jeg
+
+hvis det ignoreres vil det gå seg til.
+
+### Det er vanskelig å spørre
+
+motsatt: kan såre noen
+
+## 7. Problem > Blokering > Mål
+
+### Problem
+
+### Blokkering
+
+#### Hos deg selv
+
+#### Hos andre
+
+#### I situasjonen
+
+#### Mål
+
+#### Tiltak
+
+Finn fremgangsmåte, og lag en plan
+
+## 8. Ferdighet / motivasjons matrisen
+
+Finn ut hvor du er i matrisen og hvilken veiledning du har behov for.
+
+Høy motivasjon | Veiled | Deliger
+Lav motivasjon | Direct | Motiver
+|Lav ferdighet | Høy ferdighet
+
+## x. Hvordan veilede andre
+
+har alt gitt dere verktøyene
+
+## The Tao of Coaching
+
+Sjekk ut boka
+
+## Definisjon av en arbeidsoppgave
+
+fra GTD
+
+### Hva skal gjøres?
+
+### Hvordan ser det ut når du er ferdig?
+
+### Hva er det neste steget som skal taes?
 
 ## TODO
 

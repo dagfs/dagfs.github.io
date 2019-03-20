@@ -115,6 +115,25 @@ body.presentation .slide-body{
   display: inline-block;
   padding:10px;
 }
+
+#timer{
+  position:fixed;
+  bottom:1em;
+  right:1em;
+  border-radius: 2em;
+  border:2px solid black;
+  font-size:2em;
+  width:1.3em;
+  height:1.3em;
+  padding:.3em;
+  background:#faa;
+  display:none;
+  text-align: center;
+}
+
+body.show-timer #timer{
+  display:block;
+}
     </style>
 {% seo %}
   </head>
@@ -133,6 +152,7 @@ body.presentation .slide-body{
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
        {{ content }}
+       <div id="timer">20</div>
       </section>
     </div>
 
@@ -171,10 +191,8 @@ body.presentation .slide-body{
         var newContent = "";
         var currentSection = "";
         for(var i = 0; i < content.children.length; i++){
-          console.log(content.children[i])
           if(["H1", "H2"].includes(content.children[i].nodeName)){
             if(currentSection){
-              console.log(newContent)
               newContent += "\n</span>\n<span id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</span>\n";
               slideCount++
             }
@@ -204,6 +222,11 @@ body.presentation .slide-body{
             if(keyCode==80) {
               togglePresentation();
             }
+            
+
+            if(keyCode==75) {
+              togglePC();
+            }
         }
         
         function togglePresentation(){
@@ -230,6 +253,48 @@ body.presentation .slide-body{
         function gotoSlide(slide){
         window.location.hash = "slide" + slide;
         }
+        var secondsLeft = 20;
+        var pcTimeout;
+        function togglePC(){
+          toggleTimerVisability();
+         if(!pcTimeout){
+           runPC()
+         } else {
+           clearTimeout(pcTimeout);
+           pcTimeout = undefined;
+         }
+        }
+
+        function runPC(){
+          pcTimeout = setTimeout(() => {
+            if(secondsLeft > 1){
+              secondsLeft--;
+              updateTimer();
+              runPC();
+            } else {
+              secondsLeft = 20;
+              updateTimer();
+              if(currentSlide < slideCount){
+                next();
+                runPC();
+              }
+            }
+          }, 1000)
+        }
+
+        function updateTimer(){
+          document.getElementById("timer").innerHTML = secondsLeft;
+        }
+
+        function toggleTimerVisability(){
+          if(document.body.classList.contains("show-timer")){
+            document.body.classList.remove("show-timer");
+          } else {
+            document.body.classList.add("show-timer");
+          }
+        }
+
+
         </script>
         
   </body>
