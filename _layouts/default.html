@@ -228,6 +228,8 @@ body.show-timer #timer{
               togglePC();
             }
         }
+
+        document.onfullscreenchange = togglePresentation;
         
         function togglePresentation(){
           presentation = !presentation;
