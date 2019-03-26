@@ -1,12 +1,26 @@
+<!--
+
+- Hva er målet med det jeg skal kommunisere? - Du må gjøre innsatts selv for å få mest mulig ut av veiledning
+- Hvem skal jeg kommunisere til? - nyoppstarta
+- Hva vil jeg si for å oppnå målet? - sandwitch(hvorfor, konkrete verktøy, oppfordring)
+- Gjør deg klar til å skrive - lag liste med tema og poenger
+- Skriv
+- Reflekter over tilbakemeldinger
+-->
+
 # Hvordan bli veiledet
 
-Har du opplevd at det kan være litt vrient å få tilbakemelding på hvordan du kan forbedre deg? At det er situasjoner hvor du følte du kunne gjort det bedre, men ikke helt vet hvordan?
+Har du opplevd at det kan være vrient å få tilbakemeldinger? At det er situasjoner hvor du har forbedringspotensiale, men ikke vet hvordan du kan forbedre deg?
 
-Det er mye som en kan gjøre selv for å tilrettelegge for å bli veiledet. Dette foredraget tar for seg ting du kan gjøre selv , samt hvordan en kan veilede noen til å veilede seg selv, og kanskje veilede seg selv ved noen av de verktøyene vi går igjennom i løpet av 20 raske slides!
+Det krever egen innsatts for å få mest mulig ut av veiledning. Dette foredraget tar for seg verktøy du kan bruke for effektiv veiledning, på egenhånd, med en veileder, eller for å veilede andre.
+
+En oppsummering av "The Tao of Coaching" på 20 raske slides
 
 Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på [https://dagfrode.no/artikler/hvordan-bli-veiledet](https://dagfrode.no/artikler/hvordan-bli-veiledet) som full artikkel.
 
 **Trykk på P for presentasjon ;)**
+
+**Trykk på k for PechaKucha**
 
 ## Hvorfor bli coacha?
 
@@ -138,6 +152,26 @@ Finn ut hvor du er i matrisen og hvilken veiledning du har behov for.
 Høy motivasjon | Veiled | Deliger
 Lav motivasjon | Direct | Motiver
 |Lav ferdighet | Høy ferdighet
+
+## 9. Motvilje
+
+Det er lett å føle en motvilje mot å ta imot veiledning. Dette handler gjerne om tilliten en har til personen som veileder. Her er det mulig å tenke på relasjonen dere har og hvordan den kan forsterkes.
+
+Kan du for eksempel spørre personen som du kan få veiledning fra om den har vært i en lignende situasjon? Eller på en annen måte bygge en tilnærming?
+
+## 10. Motivasjon
+
+## 11. Starte teams
+
+## 12. Endre perspektiv med spørsmål
+
+## 13. Ikke lek psykolog
+
+Fokuser på **hva** som er, ikke **hvorfor** det er sånn.
+
+## 14. Hjelp lederne dine utvikle seg ved å gi tilbakemeldinger
+
+Hva har du kjent på med måten teamet ledes? Er det noe du ikke har turt å ta opp i retro?
 
 ## x. Hvordan veilede andre
 
