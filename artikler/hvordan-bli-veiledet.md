@@ -14,7 +14,7 @@ Har du opplevd at det kan være vrient å få tilbakemeldinger? At det er situas
 
 Det krever egen innsatts for å få mest mulig ut av veiledning. Dette foredraget tar for seg verktøy du kan bruke for effektiv veiledning, på egenhånd, med en veileder, eller for å veilede andre.
 
-En oppsummering av "The Tao of Coaching" på 20 raske slides
+En oppsummering av boka "The Tao of Coaching" på 20 raske slides, beregnet på de som ønsker mer ut av egen veiledning, samt friske opp egne veilednings-kunster.
 
 Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på [https://dagfrode.no/artikler/hvordan-bli-veiledet](https://dagfrode.no/artikler/hvordan-bli-veiledet) som full artikkel.
 

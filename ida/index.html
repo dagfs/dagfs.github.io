@@ -1,0 +1,201 @@
+<html>
+  <head>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+
+      #sky {
+        background: -webkit-linear-gradient(#00111e 30%, #033d5e);
+        background: -moz-linear-gradient(#00111e 30%, #033d5e);
+        background: -o-linear-gradient(#00111e 30%, #033d5e);
+        background: linear-gradient(#00111e 30%, #033d5e);
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas
+      id="sky"
+      width="100"
+      height="100"
+      style="position: absolute; left: 0; top: 0; z-index: 0;"
+    ></canvas>
+    <canvas
+      id="blinking"
+      width="100"
+      height="100"
+      style="position: absolute; left: 0; top: 0; z-index: 1;"
+    ></canvas>
+    <canvas
+      id="ida"
+      width="100"
+      height="100"
+      style="position: absolute; left: 0; top: 0; z-index: 2;"
+    ></canvas>
+    <script>
+      var stars = [];
+      var c = document.getElementById("sky");
+      var ctx = c.getContext("2d");
+      var c_blinking = document.getElementById("blinking");
+      var ctx_blinking = c_blinking.getContext("2d");
+      var c_ida = document.getElementById("ida");
+      var ctx_ida = c_ida.getContext("2d");
+
+      c_blinking.height = window.innerHeight;
+      c_blinking.width = window.innerWidth;
+      c_ida.height = window.innerHeight;
+      c_ida.width = window.innerWidth;
+      var xMax = (c.width = window.innerWidth);
+      var yMax = (c.height = window.innerHeight);
+      function generateStars() {
+        var hmTimes = Math.round(xMax + yMax);
+
+        for (var i = 0; i <= hmTimes; i++) {
+          var randomX = Math.floor(Math.random() * xMax + 1);
+          var randomY = Math.floor(Math.random() * yMax + 1);
+          var randomSize = Math.random() * 2 + 1;
+          var randomOpacityOne = Math.floor(Math.random() * 9 + 1);
+          var randomOpacityTwo = Math.floor(Math.random() * 9 + 1);
+          var randomHue = Math.floor(Math.random() * 360 + 1);
+
+          var shadowBlur = Math.floor(Math.random() * 15 + 5);
+          var shadowColor = "white";
+          if (randomSize > 2.9) {
+            stars.push({
+              shadowBlur,
+              shadowColor,
+              randomHue,
+              randomOpacityOne,
+              randomOpacityTwo,
+              randomX,
+              randomY,
+              randomSize: randomSize + Math.random() * 2,
+              startSize: randomSize,
+              direction: 1,
+              speed: Math.random() * 0.2
+            });
+          } else {
+            ctx.fillStyle =
+              "hsla(" +
+              randomHue +
+              ", 30%, 80%, ." +
+              randomOpacityOne +
+              randomOpacityTwo +
+              ")";
+            ctx.fillRect(randomX, randomY, randomSize, randomSize);
+          }
+        }
+      }
+      generateStars();
+      function draw() {
+        ctx_blinking.clearRect(0, 0, xMax, yMax);
+        for (var i = 0; i < stars.length; i++) {
+          var s = stars[i];
+
+          ctx_blinking.shadowBlur = s.shadowBlur;
+          ctx_blinking.shadowColor = s.shadowColor;
+          s.randomSize = s.randomSize + s.direction * s.speed;
+          if (s.randomSize > s.startSize + 2 && s.direction > 0) {
+            s.direction = -1;
+          }
+          if (s.randomSize < s.startSize && s.direction < 0) {
+            s.direction = 1;
+          }
+          ctx_blinking.fillStyle =
+            "hsla(" +
+            s.randomHue +
+            ", 30%, 80%, ." +
+            s.randomOpacityOne +
+            s.randomOpacityTwo +
+            ")";
+          ctx_blinking.fillRect(
+            s.randomX,
+            s.randomY,
+            s.randomSize,
+            s.randomSize
+          );
+        }
+        setTimeout(draw, 100);
+      }
+      draw();
+
+      function star(x, y) {
+        var randomX = Math.floor(Math.random() * xMax + 1);
+        var randomY = Math.floor(Math.random() * yMax + 1);
+        var randomSize = Math.random() * 3 + 5;
+        var randomOpacityOne = Math.floor(Math.random() * 9 + 1);
+        var randomOpacityTwo = Math.floor(Math.random() * 9 + 1);
+        var randomHue = Math.floor(Math.random() * 360 + 1);
+
+        var shadowBlur = Math.floor(Math.random() * 15 + 5);
+        var shadowColor = "red";
+        return {
+          shadowBlur,
+          shadowColor,
+          randomHue,
+          randomOpacityOne,
+          randomOpacityTwo,
+          randomX,
+          randomY,
+          x: x * (xMax / 100),
+          y: y * (yMax / 100),
+          randomSize: randomSize + Math.random() * 2,
+          startSize: randomSize,
+          direction: 1,
+          speed: Math.random() * 0.2
+        };
+      }
+
+      function ida() {
+        var ida_stars = [
+          star(10, 10),
+          star(10, 20),
+          star(10, 30),
+
+          star(30, 10),
+          star(30, 20),
+          star(30, 30),
+          star(40, 10),
+          star(40, 30),
+          star(50, 25),
+          star(50, 15),
+
+          star(70, 30),
+          star(76, 20),
+          star(82, 10),
+          star(88, 20),
+          star(94, 30)
+        ];
+
+        for (var i = 0; i < ida_stars.length; i++) {
+          var s = ida_stars[i];
+
+          ctx_ida.shadowBlur = s.shadowBlur;
+          ctx_ida.shadowColor = s.shadowColor;
+          s.randomSize = s.randomSize + s.direction * s.speed;
+          if (s.randomSize > s.startSize + 2 && s.direction > 0) {
+            s.direction = -1;
+          }
+          if (s.randomSize < s.startSize && s.direction < 0) {
+            s.direction = 1;
+          }
+          ctx_ida.fillStyle =
+            "hsla(" +
+            s.randomHue +
+            ", 30%, 80%, ." +
+            s.randomOpacityOne +
+            s.randomOpacityTwo +
+            ")";
+          ctx_ida.fillRect(s.x, s.y, s.randomSize, s.randomSize);
+        }
+      }
+      ida();
+    </script>
+  </body>
+</html>
