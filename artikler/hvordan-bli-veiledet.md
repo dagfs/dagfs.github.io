@@ -6,6 +6,8 @@
 - Gjør deg klar til å skrive - lag liste med tema og poenger
 - Skriv
 - Reflekter over tilbakemeldinger
+
+se på https://nanna.bekk.no/confluence/display/BM/Dokumentasjon+fra+samlingene
 -->
 
 # Hvordan bli veiledet
