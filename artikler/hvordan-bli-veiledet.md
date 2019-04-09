@@ -8,6 +8,8 @@
 - Reflekter over tilbakemeldinger
 
 se på https://nanna.bekk.no/confluence/display/BM/Dokumentasjon+fra+samlingene
+https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf
+https://hbr.org/2019/03/the-feedback-fallacy
 -->
 
 # Hvordan bli veiledet
