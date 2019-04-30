@@ -23,3 +23,6 @@ https://docs.google.com/presentation/d/1Ye-2Xe6JBMzv7RYyP4AWUqQg64hHwktvfI8CjJyx
 
 
 https://projects.fivethirtyeight.com/personality-quiz/
+
+
+Kreativ type: https://mycreativetype.com/
