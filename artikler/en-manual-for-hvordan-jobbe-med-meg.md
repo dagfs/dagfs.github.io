@@ -19,3 +19,10 @@ Før fagdag ønsker jeg å gjennomføre en øvelse med utarbeiding av manual for
 https://docs.google.com/document/d/1K5PDngpNlx6eoGZFLhjWPVGB6_1Ig6FsBYE-ChzdFtA/edit#
 
 https://docs.google.com/presentation/d/1Ye-2Xe6JBMzv7RYyP4AWUqQg64hHwktvfI8CjJyx33I/edit#slide=id.p
+
+
+
+https://projects.fivethirtyeight.com/personality-quiz/
+
+
+Kreativ type: https://mycreativetype.com/
