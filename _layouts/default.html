@@ -222,11 +222,25 @@ body.show-timer #timer{
             if(keyCode==80) {
               togglePresentation();
             }
+
+            if(keyCode==116){
+              presentation = false;
+              togglePresentation();
+            }
+
+
+            if(keyCode==27){
+              presentation = true;
+              togglePresentation();
+            }
+      
             
 
-            if(keyCode==75) {
+            if(keyCode==75 || keyCode == 190) {
               togglePC();
             }
+
+            console.log(keyCode)
         }
 
         document.onfullscreenchange = togglePresentation;

@@ -22,7 +22,7 @@ Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på [https://d
 
 **Trykk på k for PechaKucha**
 
-## Hvorfor bli coacha?
+## 1. Hvorfor bli coacha?
 
 For deg:
 
@@ -30,12 +30,12 @@ For deg:
 - Bli mer selvstendig
 - Føle du bidrar mer
 
-For den som ceacher deg:
+For den som veileder deg:
 
 - Får utviklet selv også
 - Utvikler teamet
 
-## 1. Finn noen som stiller gode spørsmål
+## 2. Finn noen som stiller gode spørsmål
 
 Har du opplevd at en noen[kollega, en venn, eller en i familien] har stilt et spørsmål som har gjort veien videre klar?
 
@@ -45,7 +45,7 @@ Da vet du at:
 - Du vil kunne gjøre lignende besluttninger på egenhånd
 - Du begynner å stille spørsmål til deg selv som hjelper deg
 
-## 2. Be om tilbakemeldinger
+## 3. Be om tilbakemeldinger
 
 Det er utfordrende å gi tilbakemeldinger. Følelser, mottagelse, har ikke vært oppmerksom på det en blir spurt om.
 
@@ -59,13 +59,13 @@ Så for å gjøre det enkelt for den du ber om denne _tjenesten_
 
 (Kan være lurt å tenke igjennom over hvordan en tar imot tilbud og forespørsler. Ved å annerkjenne personen positivt for å ha tilbudt/forespurt akkuratt deg om noe vil det være mer sannsynlig at de vil gjøre det igjen)
 
-## 3. Hvordan gi tilbakemeldinger
+## 4. Hvordan gi tilbakemeldinger
 
-### Positive
+### Gi primert skryt (min 80%)
 
 Vær konkret. Hva gjorde personen bra og hvorfor var det bra?
 
-### Konstruktive
+### Ved behov gi konstruktive tilbakemeldinger (max 20%) - AID
 
 #### **A**cations - Hva blir gjort bra / kan forbedres?
 
@@ -73,11 +73,11 @@ Vær konkret. Hva gjorde personen bra og hvorfor var det bra?
 
 #### **D**isired outcome - Hva kan bli gjort andeledes?
 
-### Negative
+### Unngå negative (0%)
 
 Unngå
 
-## 4. Hvordan kan en effektiv veiledningsøkt se ut?
+## 5. Hvordan kan en effektiv veiledningsøkt se ut?
 
 ### **G**oal
 
@@ -99,7 +99,7 @@ Hvilke muligheter har vi?
 
 Bli enige om en plan som blir fulgt opp for å se at tiltakene en kom frem til fungerer.
 
-## 5. Personlighet
+## 6. Personlighet
 
 Tenk over egen Big 5 og prøv å forstå deg selv bedre ut fra denne modellen. Se om det er mulig å endre taktikk med oppgaven for å spille på dine styrker.
 
@@ -107,7 +107,7 @@ Hvis utfordringen ligger ved en annen person vil det å tenke igjennom hvilke pe
 
 **Kjæn-dæ-sjæl**
 
-## 6. Blokeringer
+## 7. Blokeringer
 
 ### Har ikke tid
 
@@ -127,7 +127,7 @@ hvis det ignoreres vil det gå seg til.
 
 motsatt: kan såre noen
 
-## 7. Problem > Blokering > Mål
+## 8. Problem > Blokering > Mål
 
 ### Problem
 
@@ -145,7 +145,7 @@ motsatt: kan såre noen
 
 Finn fremgangsmåte, og lag en plan
 
-## 8. Ferdighet / motivasjons matrisen
+## 9. Ferdighet / motivasjons
 
 Finn ut hvor du er i matrisen og hvilken veiledning du har behov for.
 
@@ -153,31 +153,31 @@ Høy motivasjon | Veiled | Deliger
 Lav motivasjon | Direct | Motiver
 |Lav ferdighet | Høy ferdighet
 
-## 9. Motvilje
+## 10. Motvilje mot å bli veiledet
 
 Det er lett å føle en motvilje mot å ta imot veiledning. Dette handler gjerne om tilliten en har til personen som veileder. Her er det mulig å tenke på relasjonen dere har og hvordan den kan forsterkes.
 
 Kan du for eksempel spørre personen som du kan få veiledning fra om den har vært i en lignende situasjon? Eller på en annen måte bygge en tilnærming?
 
-## 10. Motivasjon
+## 11. Motivasjon
 
-## 11. Starte teams
+## 12. Starte teams
 
-## 12. Endre perspektiv med spørsmål
+## 13. Endre perspektiv med spørsmål
 
-## 13. Ikke lek psykolog
+## 14. Ikke lek psykolog
 
 Fokuser på **hva** som er, ikke **hvorfor** det er sånn.
 
-## 14. Hjelp lederne dine utvikle seg ved å gi tilbakemeldinger
+## 15. Hjelp lederne dine utvikle seg ved å gi tilbakemeldinger
 
 Hva har du kjent på med måten teamet ledes? Er det noe du ikke har turt å ta opp i retro?
 
-## x. Hvordan veilede andre
+## 16. Hvordan veilede andre
 
 har alt gitt dere verktøyene
 
-## The Tao of Coaching
+## 17. The Tao of Coaching
 
 Sjekk ut boka
 
