@@ -1,6 +1,6 @@
 <!--
 
-- Hva er målet med det jeg skal kommunisere? - Du må gjøre innsatts selv for å få mest mulig ut av veiledning
+- Hva er målet med det jeg skal kommunisere? - Du må gjøre innsatts selv for å få mest mulig ut av veiledning - du vet gjerne selv hva du kan gjøre bedre, så vær fornøyd med og ta til deg positive tilbakemeldinger.
 - Hvem skal jeg kommunisere til? - nyoppstarta
 - Hva vil jeg si for å oppnå målet? - sandwitch(hvorfor, konkrete verktøy, oppfordring)
 - Gjør deg klar til å skrive - lag liste med tema og poenger
@@ -59,6 +59,12 @@ Så for å gjøre det enkelt for den du ber om denne _tjenesten_
 
 <!---->
 
+## 2. Be om tilbakemeldinger - 2 [presentation-only]
+
+### Bygg relasjon og motivasjon ved å snakke om problemstillinger en begge har vært borti.
+
+<!---->
+
 ## 3. Blokeringer
 
 ### Har ikke tid
@@ -98,6 +104,14 @@ Vær konkret. Hva gjorde personen bra og hvorfor var det bra?
 ### Unngå negative (0%)
 
 Unngå
+
+
+<!---->
+
+## 4. Hvordan gi tilbakemeldinger - 2 [presentation-only]
+
+### Ta til deg positive tilbakemeldinger
+### Du vet gjerne selv hva du kan gjøre bedre
 
 <!---->
 
@@ -142,6 +156,8 @@ Lav motivasjon | Direct | Motiver
 ### Lettere å unngå å demotivere enn å motivere
 
 ### Finn en måte å jobbe på som føles meningsfull ut. Intern, for teamet eller ekstern.
+
+
 
 <!---->
 
@@ -193,4 +209,12 @@ Sjekk ut boka
 
 ## TODO
 
-5 slides igjen
+14 slides
+6 igjen
+- 1 ekstra 4
+- 1 ekstra 11
+- 1 ekstra 2
+3 slides igjen
+
+
+10 slides med noe
