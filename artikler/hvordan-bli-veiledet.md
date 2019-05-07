@@ -89,6 +89,10 @@ motsatt: kan såre noen
 
 ## 4. Hvordan gi tilbakemeldinger
 
+---
+https://hbr.org/2019/03/the-feedback-fallacy
+---
+
 ### Gi primert skryt (min 80%)
 
 Vær konkret. Hva gjorde personen bra og hvorfor var det bra?
