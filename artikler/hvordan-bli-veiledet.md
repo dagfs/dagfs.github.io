@@ -148,7 +148,10 @@ Da vet du at:
 
 ## 7. Endre perspektiv med spørsmål
 
+### Tar litt lenger tid
 
+
+## Gir større læringsutbytte
 
 
 <!---->
@@ -302,7 +305,30 @@ https://hbr.org/2019/03/the-feedback-fallacy
 
 Sjekk ut boka
 
-## END
+
+## Muligheter for å veilede
+
+## Kunde fag på NTNU
+
+### IT2901 - Informatikk prosjektarbeid II - Vår
+
+### TDT4290 - Kundestyrt prosjekt - Høst
+
+
+## Erfaringer
+
+### Engasjernede
+
+### Lite som skal til for at gruppa beveger seg i positiv rettning
+
+### Bekreftelse og motivasjon
+
+
+## NTNU / IDI
+
+### Ønske om sammarbeid med bedrifter
+
+### STEM og jenter
 
 
 10 slides med noe
