@@ -30,42 +30,87 @@ Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på [https://d
 
 ## 1. Hvorfor bli veileda?
 
-For deg:
+### Hjelp til å oppnå mål
+Veiledning hjelper en med å utvikle ferdigheter en har og komme over utfordringer en står ovenfor og å oppnå mål, enten i prosjektet eller personlig.
 
-- Vokse
-- Bli mer selvstendig
-- Føle du bidrar mer
 
-For den som veileder deg:
-
-- Får utviklet selv også
-- Utvikler teamet
+### Øke motivasjon
+Ofte er det motivasjonen og ikke ferdighetene det står på. Ved å få litt hjelp kan en finne motivasjon til å løse de utfordringene en står ovenfor.
 
 <!---->
 
-## 2. Be om tilbakemeldinger
+## Utgangspunkt
+
+Du finner løsninger til det aller meste på egenhånd og lærer og utvikler deg selv konstant. Du vet som regel best hvordan du kan utvikle deg og hva som føles som riktig måte å gjøre ting på. Du har din egen stil for hvordan gjøre ting og det er viktig å finne og bruke den og ikke bare gjøre noen andre gjør. Du må gjøre ting på din måte.
+
+### Få litt hjelp fra andre for å spille seg selv god
+
+Noen ganger kan vi trenge litt hjelp, kanskje fordi vi sitter litt fast med noe vi ikke vet hvordan vi skal løse, eller at vi mangler motivasjon til å løse det. Det er da det er viktig å ha noen rundt seg en kan bruke for å spille seg selv god.
+
+<!---->
+
+## Tilbakemeldinger
 
 Det er utfordrende å gi tilbakemeldinger. Følelser, mottagelse, har ikke vært oppmerksom på det en blir spurt om.
 
 Så for å gjøre det enkelt for den du ber om denne _tjenesten_
 
-1. Velg hvem du ber om tilbakemelding fra ut fra tema. Pass på at dette er en person du stoler på.
-2. Gi personen beskjed i forkant slik at de kan forberede seg
-3. Styrk relasjonen mellom dere ved å kommenter ting du ønsker tilbakemelding på [og hva som motiverer deg - hvorfor?]
-4. Vis du tar til deg tilbakemeldingene, jobber med de og be gjerne om eksempler.
-5. Jobb med tilbakemeldingene og vi takknemlighet for den som ga deg feedback
+### 1. Hvem?
+Velg hvem du ber om tilbakemelding fra ut fra tema. Pass på at dette er en person du stoler på.
+
+### 2. Forbered
+Gi personen beskjed i forkant slik at de kan forberede seg
+
+
+
+<!---->
+
+## 2. Tilbakemeldinger - 2 [presentation-only]
+
+
+### 3. Relasjon
+Styrk relasjonen mellom dere ved å kommenter ting du ønsker tilbakemelding på [og hva som motiverer deg - hvorfor?]
+
+### 4. Motta tilbakemeldingen aktivt
+Vis du tar til deg tilbakemeldingene, jobber med de og be gjerne om eksempler.
+
+
+### 5. Jobb med tilbakemeldingen
+Jobb med tilbakemeldingene og vis takknemlighet for den som ga deg feedback
 
 (Kan være lurt å tenke igjennom over hvordan en tar imot tilbud og forespørsler. Ved å annerkjenne personen positivt for å ha tilbudt/forespurt akkuratt deg om noe vil det være mer sannsynlig at de vil gjøre det igjen)
 
 <!---->
 
-## 2. Be om tilbakemeldinger - 2 [presentation-only]
+## 5. Personlighet
 
-### Bygg relasjon og motivasjon ved å snakke om problemstillinger en begge har vært borti.
+Tenk over egen Big 5 og prøv å forstå deg selv bedre ut fra denne modellen. Se om det er mulig å endre taktikk med oppgaven for å spille på dine styrker.
+
+Hvis utfordringen ligger ved en annen person vil det å tenke igjennom hvilke personlighetstrekk personen har kunne være nyttig for å tilpasse din stil for å sammarbeide bedre. En kan også ta opp tema å diskutere litt hvilke verdier en har og hvordan en påvirker hverandre.
+
+
+<!---->
+
+## Vær klar på hva du vil ha hjelp med
+
+### Feil type hjelp
+Det å få hjelp eller tilbakemelding om feil ting kan være demotiverende. Så det er viktig å være tydelig på hva en ønsker tilbakemelding på.
+
+<!---->
+
+## 8. Ferdighet / motivasjons
+
+Finn ut hvor du er i matrisen og hvilken veiledning du har behov for.
+
+Høy motivasjon | Veiled | Deliger
+Lav motivasjon | Direct | Motiver
+|Lav ferdighet | Høy ferdighet
 
 <!---->
 
 ## 3. Blokeringer
+
+Det er en del blokkeringer som går igjen. Det å være klar over de og strategier for å overkomme de kan komme godt med! Noen av blokkeringene som går igjen er:
 
 ### Har ikke tid
 
@@ -77,7 +122,6 @@ avklar hvordan tilbakemeldinger skal gjøres
 
 ### Når jeg tenker meg om går det nok greit like vel
 
-her synder jeg
 
 hvis det ignoreres vil det gå seg til.
 
@@ -85,66 +129,8 @@ hvis det ignoreres vil det gå seg til.
 
 motsatt: kan såre noen
 
-<!---->
-
-## 4. Hvordan gi tilbakemeldinger
 
 
-### Gi primert skryt (min 80%)
-
-### Ved behov gi konstruktive tilbakemeldinger (max 20%) - AID
-
-#### **A**cations - Hva blir gjort bra / kan forbedres?
-
-#### **I**mpact - Hvordan oppfattes disse handlingene?
-
-#### **D**isired outcome - Hva kan bli gjort andeledes?
-
-### Unngå negative (0%)
-
-Unngå
-
-
-<!---->
-
-## 4. Hvordan gi tilbakemeldinger - 2 [presentation-only]
-
-### Hvorfor primert skryt?
-
-
-
-Tilbakemeldinger vi gir har ofte utgangspunkt i oss selv. Vi anntar at vi ser ting den vi gir tilbakemeldinger til ikke ser, at vi vet hva du bør kunne og bør lære deg det, eller at det er en riktig måte å gjøre ting på og hvis du ikke følger min måte gjør du det feil. Du vet dessuten gjerne hva du kunne gjort bedre selv. 
-
-Læring handler like mye om å utvikle potensialet som alt er som å tilegne seg noe nytt. En utvikler seg letter i områder en alt ser på som en styrke. Oppmerksomhet på våre styrker fra andre øker utviklingen av disse.
-
-
-
-<!---->
-
-## 4. Hvordan gi tilbakemeldinger - 3 [presentation-only]
-
-### Hvordan få mest ut av tilbakemeldingen?
-
-#### Prioriter å gi 
-
-Vær konkret. Hva gjorde personen bra og hvorfor var det bra?
-Gi skryt tett knyttet til det som var bra. 
-Snakk ut fra deg selv. Prøv å oppnå forståelse. 
-
-Hvis noen gir positive tilbakemeldinger be om uttdyping slik at du forstår hva de likte. 
-
-
-
-https://hbr.org/2019/03/the-feedback-fallacy
-<!---->
-
-## 5. Personlighet
-
-Tenk over egen Big 5 og prøv å forstå deg selv bedre ut fra denne modellen. Se om det er mulig å endre taktikk med oppgaven for å spille på dine styrker.
-
-Hvis utfordringen ligger ved en annen person vil det å tenke igjennom hvilke personlighetstrekk personen har kunne være nyttig for å tilpasse din stil for å sammarbeide bedre. En kan også ta opp tema å diskutere litt hvilke verdier en har og hvordan en påvirker hverandre.
-
-**Kjæn-dæ-sjæl**
 
 <!---->
 
@@ -162,15 +148,8 @@ Da vet du at:
 
 ## 7. Endre perspektiv med spørsmål
 
-<!---->
 
-## 8. Ferdighet / motivasjons
 
-Finn ut hvor du er i matrisen og hvilken veiledning du har behov for.
-
-Høy motivasjon | Veiled | Deliger
-Lav motivasjon | Direct | Motiver
-|Lav ferdighet | Høy ferdighet
 
 <!---->
 
@@ -257,28 +236,73 @@ Hva er utfordringene?
 #### **D**ecisional
 Hva gjør gruppa videre?
 
+
+
+
+<!---->
+
+## 4. Hvordan gi tilbakemeldinger
+
+
+### Gi primert skryt (min 80%)
+
+### Ved behov gi konstruktive tilbakemeldinger (max 20%) - AID
+
+#### **A**cations - Hva blir gjort bra / kan forbedres?
+
+#### **I**mpact - Hvordan oppfattes disse handlingene?
+
+#### **D**isired outcome - Hva kan bli gjort andeledes?
+
+### Unngå negative (0%)
+
+Unngå
+
+
+<!---->
+
+## 4. Hvordan gi tilbakemeldinger - 2 [presentation-only]
+
+### Hvorfor primert skryt?
+
+
+
+Tilbakemeldinger vi gir har ofte utgangspunkt i oss selv. Vi anntar at vi ser ting den vi gir tilbakemeldinger til ikke ser, at vi vet hva du bør kunne og bør lære deg det, eller at det er en riktig måte å gjøre ting på og hvis du ikke følger min måte gjør du det feil. Du vet dessuten gjerne hva du kunne gjort bedre selv. 
+
+Læring handler like mye om å utvikle potensialet som alt er som å tilegne seg noe nytt. En utvikler seg letter i områder en alt ser på som en styrke. Oppmerksomhet på våre styrker fra andre øker utviklingen av disse.
+
+
+
+<!---->
+
+## 4. Hvordan gi tilbakemeldinger - 3 [presentation-only]
+
+### Hvordan få mest ut av tilbakemeldingen?
+
+#### Prioriter å gi 
+
+Vær konkret. Hva gjorde personen bra og hvorfor var det bra?
+Gi skryt tett knyttet til det som var bra. 
+Snakk ut fra deg selv. Prøv å oppnå forståelse. 
+
+Hvis noen gir positive tilbakemeldinger be om uttdyping slik at du forstår hva de likte. 
+
+
+
+https://hbr.org/2019/03/the-feedback-fallacy
+<!---->
+
 <!---->
 
 ## 12. Ikke lek psykolog
 
 ### Fokuser på **hva** som er, ikke **hvorfor** det er sånn.
 
-## 13. Hvordan veilede andre
-
-har alt gitt dere verktøyene
-
 ## 14. The Tao of Coaching
 
 Sjekk ut boka
 
-## TODO
-
-14 slides
-6 igjen
-- 1 ekstra 4
-- 1 ekstra 11
-- 2 ekstra 2
-2 slides igjen
+## END
 
 
 10 slides med noe
