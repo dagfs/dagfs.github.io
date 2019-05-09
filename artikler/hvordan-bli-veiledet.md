@@ -163,7 +163,7 @@ Da vet du at:
 
 <!---->
 
-## 10. Starte teams
+## 10. Motivasjon gjennom teamet
 Pass på å bli kjent med teamet, skap en identitet 
 
 <!---->
