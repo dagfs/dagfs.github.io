@@ -89,13 +89,8 @@ motsatt: kan såre noen
 
 ## 4. Hvordan gi tilbakemeldinger
 
----
-https://hbr.org/2019/03/the-feedback-fallacy
----
 
 ### Gi primert skryt (min 80%)
-
-Vær konkret. Hva gjorde personen bra og hvorfor var det bra?
 
 ### Ved behov gi konstruktive tilbakemeldinger (max 20%) - AID
 
@@ -114,9 +109,33 @@ Unngå
 
 ## 4. Hvordan gi tilbakemeldinger - 2 [presentation-only]
 
-### Ta til deg positive tilbakemeldinger
-### Du vet gjerne selv hva du kan gjøre bedre
+### Hvorfor primert skryt?
 
+
+
+Tilbakemeldinger vi gir har ofte utgangspunkt i oss selv. Vi anntar at vi ser ting den vi gir tilbakemeldinger til ikke ser, at vi vet hva du bør kunne og bør lære deg det, eller at det er en riktig måte å gjøre ting på og hvis du ikke følger min måte gjør du det feil. Du vet dessuten gjerne hva du kunne gjort bedre selv. 
+
+Læring handler like mye om å utvikle potensialet som alt er som å tilegne seg noe nytt. En utvikler seg letter i områder en alt ser på som en styrke. Oppmerksomhet på våre styrker fra andre øker utviklingen av disse.
+
+
+
+<!---->
+
+## 4. Hvordan gi tilbakemeldinger - 3 [presentation-only]
+
+### Hvordan få mest ut av tilbakemeldingen?
+
+#### Prioriter å gi 
+
+Vær konkret. Hva gjorde personen bra og hvorfor var det bra?
+Gi skryt tett knyttet til det som var bra. 
+Snakk ut fra deg selv. Prøv å oppnå forståelse. 
+
+Hvis noen gir positive tilbakemeldinger be om uttdyping slik at du forstår hva de likte. 
+
+
+
+https://hbr.org/2019/03/the-feedback-fallacy
 <!---->
 
 ## 5. Personlighet
@@ -166,18 +185,31 @@ Lav motivasjon | Direct | Motiver
 <!---->
 
 ## 10. Starte teams
+Pass på å bli kjent med teamet, skap en identitet 
 
 <!---->
 
 ## 11. Hvordan kan en effektiv veiledningsøkt se ut?
 
-### **_GROW_**
+Det er mange rammeverk for å gi veiledning. Felles er at det er en strukturert tankeprosess som tar deg igjennom faktaene vi har og raskt kommer til et tiltak. Det å prøve ut noe er bedre enn å bli stående og hvis det ikke fungerer er det bare å skifte rettning.
+
+
+### Hva vet vi?
+
+### Hva er problemet?
+
+### Hvilke muligheter har vi?
+
+### Hva går vi for?
+
 
 <!---->
 
 ## 11. Hvordan kan en effektiv veiledningsøkt se ut? - 2 [presentation-only]
 
-### **G**oal
+### GROW
+
+#### **G**oal
 
 Hva trenger du veiledning til og hva kan dere oppnå i denne økten?
 
@@ -185,23 +217,51 @@ For eksemel en plan for hvordan forbedre møteeffektivitet.
 
 ### **R**eality
 
-Avklar hvordan situasjonen er i dag
-
 Hva har blit prøvd ut? Er det et faktisk problem?
 
-### **O**ptions
+#### **O**ptions
 
 Hvilke muligheter har vi?
 
-### **W**rap up
+#### **W**rap up
 
 Bli enige om en plan som blir fulgt opp for å se at tiltakene en kom frem til fungerer.
+
+
+
+### Present, Past, and future
+
+#### Present
+Tenk på 3 ting som fungerer bra nå. Dette er for å varme opp tankeprosessen.
+
+#### Past
+Tenk på lignende situasjoner tidligere, hvordan kom du deg ut av det?
+
+#### Future
+Hva vet du at du må gjøre?
+
+
+### ORID
+
+Rammeverkt for å fokusere en gruppe diskusjon for å avklare mål
+
+#### **O**bjective
+Hva vet gruppa?
+
+#### **R**eflective
+Hva føler gruppa om det de vet? Positivt? Negativt?
+
+#### **I**interpretive
+Hva er utfordringene?
+
+#### **D**ecisional
+Hva gjør gruppa videre?
 
 <!---->
 
 ## 12. Ikke lek psykolog
 
-Fokuser på **hva** som er, ikke **hvorfor** det er sånn.
+### Fokuser på **hva** som er, ikke **hvorfor** det er sånn.
 
 ## 13. Hvordan veilede andre
 
@@ -217,8 +277,8 @@ Sjekk ut boka
 6 igjen
 - 1 ekstra 4
 - 1 ekstra 11
-- 1 ekstra 2
-3 slides igjen
+- 2 ekstra 2
+2 slides igjen
 
 
 10 slides med noe
