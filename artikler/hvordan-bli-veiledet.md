@@ -7,9 +7,7 @@
 - Skriv
 - Reflekter over tilbakemeldinger
 
-se på https://nanna.bekk.no/confluence/display/BM/Dokumentasjon+fra+samlingene
-https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf
-https://hbr.org/2019/03/the-feedback-fallacy
+
 -->
 
 # Hvordan bli veiledet
@@ -28,7 +26,7 @@ Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på [https://d
 
 <!---->
 
-## 1. Hvorfor bli veileda?
+## Hvorfor bli veileda?
 
 ### Hjelp til å oppnå mål
 Veiledning hjelper en med å utvikle ferdigheter en har og komme over utfordringer en står ovenfor og å oppnå mål, enten i prosjektet eller personlig.
@@ -65,7 +63,7 @@ Gi personen beskjed i forkant slik at de kan forberede seg
 
 <!---->
 
-## 2. Tilbakemeldinger - 2 [presentation-only]
+## Tilbakemeldinger - 2 [presentation-only]
 
 
 ### 3. Relasjon
@@ -82,11 +80,11 @@ Jobb med tilbakemeldingene og vis takknemlighet for den som ga deg feedback
 
 <!---->
 
-## 5. Personlighet
+## Personlighet
 
-Tenk over egen Big 5 og prøv å forstå deg selv bedre ut fra denne modellen. Se om det er mulig å endre taktikk med oppgaven for å spille på dine styrker.
+### I Relasjonen
 
-Hvis utfordringen ligger ved en annen person vil det å tenke igjennom hvilke personlighetstrekk personen har kunne være nyttig for å tilpasse din stil for å sammarbeide bedre. En kan også ta opp tema å diskutere litt hvilke verdier en har og hvordan en påvirker hverandre.
+### I din måte å bli veileda på
 
 
 <!---->
@@ -98,7 +96,7 @@ Det å få hjelp eller tilbakemelding om feil ting kan være demotiverende. Så 
 
 <!---->
 
-## 8. Ferdighet / motivasjons
+## Ferdighet / motivasjons
 
 Finn ut hvor du er i matrisen og hvilken veiledning du har behov for.
 
@@ -108,7 +106,7 @@ Lav motivasjon | Direct | Motiver
 
 <!---->
 
-## 3. Blokeringer
+## Blokeringer
 
 Det er en del blokkeringer som går igjen. Det å være klar over de og strategier for å overkomme de kan komme godt med! Noen av blokkeringene som går igjen er:
 
@@ -134,7 +132,7 @@ motsatt: kan såre noen
 
 <!---->
 
-## 6. Finn noen som stiller gode spørsmål
+## Finn noen som stiller gode spørsmål
 
 Har du opplevd at en noen[kollega, en venn, eller en i familien] har stilt et spørsmål som har gjort veien videre klar?
 
@@ -146,17 +144,17 @@ Da vet du at:
 
 <!---->
 
-## 7. Endre perspektiv med spørsmål
+## Endre perspektiv med spørsmål
 
 ### Tar litt lenger tid
 
 
-## Gir større læringsutbytte
+### Gir større læringsutbytte
 
 
 <!---->
 
-## 9. Motivasjon
+## Motivasjon
 
 ### Lettere å unngå å demotivere enn å motivere
 
@@ -166,12 +164,12 @@ Da vet du at:
 
 <!---->
 
-## 10. Motivasjon gjennom teamet
+## Motivasjon gjennom teamet
 Pass på å bli kjent med teamet, skap en identitet 
 
 <!---->
 
-## 11. Hvordan kan en effektiv veiledningsøkt se ut?
+## Hvordan kan en effektiv veiledningsøkt se ut?
 
 Det er mange rammeverk for å gi veiledning. Felles er at det er en strukturert tankeprosess som tar deg igjennom faktaene vi har og raskt kommer til et tiltak. Det å prøve ut noe er bedre enn å bli stående og hvis det ikke fungerer er det bare å skifte rettning.
 
@@ -187,7 +185,7 @@ Det er mange rammeverk for å gi veiledning. Felles er at det er en strukturert 
 
 <!---->
 
-## 11. Hvordan kan en effektiv veiledningsøkt se ut? - 2 [presentation-only]
+## Hvordan kan en effektiv veiledningsøkt se ut? - 2 [presentation-only]
 
 ### GROW
 
@@ -244,7 +242,7 @@ Hva gjør gruppa videre?
 
 <!---->
 
-## 4. Hvordan gi tilbakemeldinger
+## Hvordan gi tilbakemeldinger
 
 
 ### Gi primert skryt (min 80%)
@@ -264,7 +262,7 @@ Unngå
 
 <!---->
 
-## 4. Hvordan gi tilbakemeldinger - 2 [presentation-only]
+## Hvordan gi tilbakemeldinger - 2 [presentation-only]
 
 ### Hvorfor primert skryt?
 
@@ -278,7 +276,7 @@ Læring handler like mye om å utvikle potensialet som alt er som å tilegne seg
 
 <!---->
 
-## 4. Hvordan gi tilbakemeldinger - 3 [presentation-only]
+## Hvordan gi tilbakemeldinger - 3 [presentation-only]
 
 ### Hvordan få mest ut av tilbakemeldingen?
 
@@ -297,11 +295,11 @@ https://hbr.org/2019/03/the-feedback-fallacy
 
 <!---->
 
-## 12. Ikke lek psykolog
+## Ikke lek psykolog
 
 ### Fokuser på **hva** som er, ikke **hvorfor** det er sånn.
 
-## 14. The Tao of Coaching
+## The Tao of Coaching
 
 Sjekk ut boka
 
@@ -331,4 +329,3 @@ Sjekk ut boka
 ### STEM og jenter
 
 
-10 slides med noe
