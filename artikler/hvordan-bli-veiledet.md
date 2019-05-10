@@ -82,9 +82,12 @@ Jobb med tilbakemeldingene og vis takknemlighet for den som ga deg feedback
 
 ## Personlighet
 
+
 ### I Relasjonen
 
 ### I din måte å bli veileda på
+
+### Styrker
 
 
 <!---->
@@ -162,10 +165,6 @@ Da vet du at:
 
 
 
-<!---->
-
-## Motivasjon gjennom teamet
-Pass på å bli kjent med teamet, skap en identitet 
 
 <!---->
 
@@ -298,6 +297,25 @@ https://hbr.org/2019/03/the-feedback-fallacy
 ## Ikke lek psykolog
 
 ### Fokuser på **hva** som er, ikke **hvorfor** det er sånn.
+
+## Hvor finne mer
+
+### Bøker
+
+#### Tao of coaching
+
+#### Effective feedback
+
+#### Difficult conversation
+
+### Artikkel om feedback
+
+https://hbr.org/2019/03/the-feedback-fallacy
+
+### Managerprogram
+https://nanna.bekk.no/confluence/display/BM/Dokumentasjon+fra+samlingene
+
+
 
 ## The Tao of Coaching
 
