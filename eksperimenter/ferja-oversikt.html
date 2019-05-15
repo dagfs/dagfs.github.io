@@ -1,0 +1,38 @@
+<style>
+  .plass {
+    -webkit-appearance: caret;
+  }
+
+  .plass:hover {
+    -webkit-appearance: menulist;
+  }
+
+  .dualog {
+    color: white;
+    background: green;
+  }
+
+  .annen {
+    color: white;
+    background: blue;
+  }
+</style>
+
+<div>
+  <select class="plass">
+    <option value="ikke">ikke</option>
+    <option value="dualog">dualog</option>
+    <option valg="annen">annen</option>
+    <option></option>
+  </select>
+</div>
+
+<script>
+  var plasser = document.getElementsByClassName("plass");
+  for (var i = 0; i < plasser.length; i++) {
+    plasser[i].onchange = changeColor;
+  }
+  function changeColor(e) {
+    e.target.className = "plass " + e.target.value;
+  }
+</script>
