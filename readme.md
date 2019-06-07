@@ -7,4 +7,6 @@ This is a place where I want to put my thoughts and ideas.
 - [Den lille grønne appen](dlga/index.html) - Digital versjon av sanger under liljen.
 - [Books I have read (and liked enough to share)](books/index.html)
 
+https://docs.google.com/presentation/d/1lozr17ARoBzZJva2LWVyVWRVRx15LJMNaQ9OboPbd0Q/edit?usp=sharing
+
 `bundle exec jekyll serve`
