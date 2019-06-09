@@ -298,6 +298,8 @@ https://hbr.org/2019/03/the-feedback-fallacy
 
 ### Fokuser på **hva** som er, ikke **hvorfor** det er sånn.
 
+https://ideas.ted.com/the-right-way-to-be-introspective-yes-theres-a-wrong-way/
+
 ## Hvor finne mer
 
 ### Bøker
