@@ -28,16 +28,23 @@ Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på [https://d
 
 ## Hvorfor bli veileda?
 
+<object data="1.svg" type="image/svg+xml">
+</object>
+
 ### Hjelp til å oppnå mål
+
 Veiledning hjelper en med å utvikle ferdigheter en har og komme over utfordringer en står ovenfor og å oppnå mål, enten i prosjektet eller personlig.
 
-
 ### Øke motivasjon
+
 Ofte er det motivasjonen og ikke ferdighetene det står på. Ved å få litt hjelp kan en finne motivasjon til å løse de utfordringene en står ovenfor.
 
 <!---->
 
 ## Utgangspunkt
+
+<object data="2.svg" type="image/svg+xml">
+</object>
 
 Du finner løsninger til det aller meste på egenhånd og lærer og utvikler deg selv konstant. Du vet som regel best hvordan du kan utvikle deg og hva som føles som riktig måte å gjøre ting på. Du har din egen stil for hvordan gjøre ting og det er viktig å finne og bruke den og ikke bare gjøre noen andre gjør. Du må gjøre ting på din måte.
 
@@ -49,31 +56,38 @@ Noen ganger kan vi trenge litt hjelp, kanskje fordi vi sitter litt fast med noe 
 
 ## Tilbakemeldinger
 
+<object data="3.svg" type="image/svg+xml">
+</object>
+
 Det er utfordrende å gi tilbakemeldinger. Følelser, mottagelse, har ikke vært oppmerksom på det en blir spurt om.
 
 Så for å gjøre det enkelt for den du ber om denne _tjenesten_
 
 ### 1. Hvem?
+
 Velg hvem du ber om tilbakemelding fra ut fra tema. Pass på at dette er en person du stoler på.
 
 ### 2. Forbered
+
 Gi personen beskjed i forkant slik at de kan forberede seg
-
-
 
 <!---->
 
 ## Tilbakemeldinger - 2 [presentation-only]
 
+<object data="4.svg" type="image/svg+xml">
+</object>
 
 ### 3. Relasjon
+
 Styrk relasjonen mellom dere ved å kommenter ting du ønsker tilbakemelding på [og hva som motiverer deg - hvorfor?]
 
 ### 4. Motta tilbakemeldingen aktivt
+
 Vis du tar til deg tilbakemeldingene, jobber med de og be gjerne om eksempler.
 
-
 ### 5. Jobb med tilbakemeldingen
+
 Jobb med tilbakemeldingene og vis takknemlighet for den som ga deg feedback
 
 (Kan være lurt å tenke igjennom over hvordan en tar imot tilbud og forespørsler. Ved å annerkjenne personen positivt for å ha tilbudt/forespurt akkuratt deg om noe vil det være mer sannsynlig at de vil gjøre det igjen)
@@ -82,6 +96,8 @@ Jobb med tilbakemeldingene og vis takknemlighet for den som ga deg feedback
 
 ## Personlighet
 
+<object data="5.svg" type="image/svg+xml">
+</object>
 
 ### I Relasjonen
 
@@ -89,17 +105,23 @@ Jobb med tilbakemeldingene og vis takknemlighet for den som ga deg feedback
 
 ### Styrker
 
-
 <!---->
 
 ## Vær klar på hva du vil ha hjelp med
 
+<object data="6.svg" type="image/svg+xml">
+</object>
+
 ### Feil type hjelp
+
 Det å få hjelp eller tilbakemelding om feil ting kan være demotiverende. Så det er viktig å være tydelig på hva en ønsker tilbakemelding på.
 
 <!---->
 
 ## Ferdighet / motivasjons
+
+<object data="7.svg" type="image/svg+xml">
+</object>
 
 Finn ut hvor du er i matrisen og hvilken veiledning du har behov for.
 
@@ -110,6 +132,9 @@ Lav motivasjon | Direct | Motiver
 <!---->
 
 ## Blokeringer
+
+<object data="8.svg" type="image/svg+xml">
+</object>
 
 Det er en del blokkeringer som går igjen. Det å være klar over de og strategier for å overkomme de kan komme godt med! Noen av blokkeringene som går igjen er:
 
@@ -123,19 +148,18 @@ avklar hvordan tilbakemeldinger skal gjøres
 
 ### Når jeg tenker meg om går det nok greit like vel
 
-
 hvis det ignoreres vil det gå seg til.
 
 ### Det er vanskelig å spørre
 
 motsatt: kan såre noen
 
-
-
-
 <!---->
 
 ## Finn noen som stiller gode spørsmål
+
+<object data="9.svg" type="image/svg+xml">
+</object>
 
 Har du opplevd at en noen[kollega, en venn, eller en i familien] har stilt et spørsmål som har gjort veien videre klar?
 
@@ -149,29 +173,32 @@ Da vet du at:
 
 ## Endre perspektiv med spørsmål
 
+<object data="10.svg" type="image/svg+xml">
+</object>
+
 ### Tar litt lenger tid
 
-
 ### Gir større læringsutbytte
-
 
 <!---->
 
 ## Motivasjon
 
+<object data="11.svg" type="image/svg+xml">
+</object>
+
 ### Lettere å unngå å demotivere enn å motivere
 
 ### Finn en måte å jobbe på som føles meningsfull ut. Intern, for teamet eller ekstern.
-
-
-
 
 <!---->
 
 ## Hvordan kan en effektiv veiledningsøkt se ut?
 
-Det er mange rammeverk for å gi veiledning. Felles er at det er en strukturert tankeprosess som tar deg igjennom faktaene vi har og raskt kommer til et tiltak. Det å prøve ut noe er bedre enn å bli stående og hvis det ikke fungerer er det bare å skifte rettning.
+<object data="12.svg" type="image/svg+xml">
+</object>
 
+Det er mange rammeverk for å gi veiledning. Felles er at det er en strukturert tankeprosess som tar deg igjennom faktaene vi har og raskt kommer til et tiltak. Det å prøve ut noe er bedre enn å bli stående og hvis det ikke fungerer er det bare å skifte rettning.
 
 ### Hva vet vi?
 
@@ -181,10 +208,12 @@ Det er mange rammeverk for å gi veiledning. Felles er at det er en strukturert 
 
 ### Hva går vi for?
 
-
 <!---->
 
 ## Hvordan kan en effektiv veiledningsøkt se ut? - 2 [presentation-only]
+
+<object data="13.svg" type="image/svg+xml">
+</object>
 
 ### GROW
 
@@ -206,43 +235,46 @@ Hvilke muligheter har vi?
 
 Bli enige om en plan som blir fulgt opp for å se at tiltakene en kom frem til fungerer.
 
-
-
 ### Present, Past, and future
 
 #### Present
+
 Tenk på 3 ting som fungerer bra nå. Dette er for å varme opp tankeprosessen.
 
 #### Past
+
 Tenk på lignende situasjoner tidligere, hvordan kom du deg ut av det?
 
 #### Future
-Hva vet du at du må gjøre?
 
+Hva vet du at du må gjøre?
 
 ### ORID
 
 Rammeverkt for å fokusere en gruppe diskusjon for å avklare mål
 
 #### **O**bjective
+
 Hva vet gruppa?
 
 #### **R**eflective
+
 Hva føler gruppa om det de vet? Positivt? Negativt?
 
 #### **I**interpretive
+
 Hva er utfordringene?
 
 #### **D**ecisional
+
 Hva gjør gruppa videre?
-
-
-
 
 <!---->
 
 ## Hvordan gi tilbakemeldinger
 
+<object data="14.svg" type="image/svg+xml">
+</object>
 
 ### Gi primert skryt (min 80%)
 
@@ -258,43 +290,46 @@ Hva gjør gruppa videre?
 
 Unngå
 
-
 <!---->
 
 ## Hvordan gi tilbakemeldinger - 2 [presentation-only]
 
+<object data="15.svg" type="image/svg+xml">
+</object>
+
 ### Hvorfor primert skryt?
 
-
-
-Tilbakemeldinger vi gir har ofte utgangspunkt i oss selv. Vi anntar at vi ser ting den vi gir tilbakemeldinger til ikke ser, at vi vet hva du bør kunne og bør lære deg det, eller at det er en riktig måte å gjøre ting på og hvis du ikke følger min måte gjør du det feil. Du vet dessuten gjerne hva du kunne gjort bedre selv. 
+Tilbakemeldinger vi gir har ofte utgangspunkt i oss selv. Vi anntar at vi ser ting den vi gir tilbakemeldinger til ikke ser, at vi vet hva du bør kunne og bør lære deg det, eller at det er en riktig måte å gjøre ting på og hvis du ikke følger min måte gjør du det feil. Du vet dessuten gjerne hva du kunne gjort bedre selv.
 
 Læring handler like mye om å utvikle potensialet som alt er som å tilegne seg noe nytt. En utvikler seg letter i områder en alt ser på som en styrke. Oppmerksomhet på våre styrker fra andre øker utviklingen av disse.
-
-
 
 <!---->
 
 ## Hvordan gi tilbakemeldinger - 3 [presentation-only]
 
+<object data="16.svg" type="image/svg+xml">
+</object>
+
 ### Hvordan få mest ut av tilbakemeldingen?
 
-#### Prioriter å gi 
+#### Prioriter å gi
 
 Vær konkret. Hva gjorde personen bra og hvorfor var det bra?
-Gi skryt tett knyttet til det som var bra. 
-Snakk ut fra deg selv. Prøv å oppnå forståelse. 
+Gi skryt tett knyttet til det som var bra.
+Snakk ut fra deg selv. Prøv å oppnå forståelse.
 
-Hvis noen gir positive tilbakemeldinger be om uttdyping slik at du forstår hva de likte. 
-
-
+Hvis noen gir positive tilbakemeldinger be om uttdyping slik at du forstår hva de likte.
 
 https://hbr.org/2019/03/the-feedback-fallacy
+
 <!---->
 
 <!---->
 
 ## Ikke lek psykolog
+
+<object data="17.svg" type="image/svg+xml">
+</object>
 
 ### Fokuser på **hva** som er, ikke **hvorfor** det er sånn.
 
@@ -315,14 +350,12 @@ https://ideas.ted.com/the-right-way-to-be-introspective-yes-theres-a-wrong-way/
 https://hbr.org/2019/03/the-feedback-fallacy
 
 ### Managerprogram
+
 https://nanna.bekk.no/confluence/display/BM/Dokumentasjon+fra+samlingene
-
-
 
 ## The Tao of Coaching
 
 Sjekk ut boka
-
 
 ## Muligheter for å veilede
 
@@ -332,7 +365,6 @@ Sjekk ut boka
 
 ### TDT4290 - Kundestyrt prosjekt - Høst
 
-
 ## Erfaringer
 
 ### Engasjernede
@@ -341,11 +373,8 @@ Sjekk ut boka
 
 ### Bekreftelse og motivasjon
 
-
 ## NTNU / IDI
 
 ### Ønske om sammarbeid med bedrifter
 
 ### STEM og jenter
-
-
