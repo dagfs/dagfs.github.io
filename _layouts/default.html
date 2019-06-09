@@ -217,15 +217,15 @@ body.show-timer #timer{
               child.innerHTML = child.innerHTML.replace("[presentation-only]", "");
             }
             if(currentSection){
-              newContent += "\n</span>\n<span id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</span>\n";
+              newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
               slideCount++
             }
-            currentSection = asHTML(child) + '\n<span class="slide-body">\n';
+            currentSection = asHTML(child) + '\n<div class="slide-body">\n';
           } else {
             currentSection += asHTML(child);
           }
         }
-        newContent += "\n</span>\n<span id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</span>\n";
+        newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
               
         content.innerHTML = newContent;
         
