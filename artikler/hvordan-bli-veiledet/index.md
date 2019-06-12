@@ -18,11 +18,12 @@ Det krever egen innsatts for å få mest mulig ut av veiledning. Dette foredrage
 
 En oppsummering av boka "The Tao of Coaching" på 20 raske slides, beregnet på de som ønsker mer ut av egen veiledning, samt friske opp egne veilednings-kunster.
 
-Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på [https://dagfrode.no/artikler/hvordan-bli-veiledet](https://dagfrode.no/artikler/hvordan-bli-veiledet) som full artikkel.
+Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på [https://dagfrode.no/artikler/hvordan-bli-veiledet](https://dagfrode.no/artikler/hvordan-bli-veiledet) som full artikkel. 
 
 **Trykk på P for presentasjon ;)**
 
 **Trykk på k for PechaKucha**
+
 
 <!---->
 
@@ -30,14 +31,15 @@ Bonus: Presentasjonen med verktøyene nevnt blir tilgjengeligjort på [https://d
 
 <object data="1.svg" type="image/svg+xml">
 </object>
+Det er mye veiledning kan hjelpe med. Primært er det to områder vi gjerne søker veiledning for, hjelp til å oppnå et mål, eller hjelp med å øke motivasjon.
 
 ### Hjelp til å oppnå mål
 
-Veiledning hjelper en med å utvikle ferdigheter en har og komme over utfordringer en står ovenfor og å oppnå mål, enten i prosjektet eller personlig.
+Veiledning hjelper en med å utvikle ferdigheter en har og komme over utfordringer en står ovenfor og å oppnå mål, enten i prosjektet eller personlig. Det kan være snakk om å få hjelp til å videreutvikle ferdigheter en alt har, tilegne seg nye ferdigheter, eller identifisere ferdigheter en trenger å invistere i. Ved å få hjelp av en person som har erfaring innenfor det område du prøver å utvikle vil en kunne utvikle seg mer effektivt enn om en prøver å gå opp løpa på nytt. En bør merke seg at det er nødvendig å finne sin egen stil, det er derfor ikke sikkert at måten den du blir veiledet av passer for deg.
 
 ### Øke motivasjon
 
-Ofte er det motivasjonen og ikke ferdighetene det står på. Ved å få litt hjelp kan en finne motivasjon til å løse de utfordringene en står ovenfor.
+Ofte er det motivasjonen og ikke ferdigheter som er til hinder. Ved å få litt hjelp kan en finne motivasjon til å løse de utfordringene en står ovenfor. Ved å ta opp utfordringer og frustrasjoner med arbeidet med andre, vil en kunne oppdage at "alle" har opplevd tilsvarende problemer, det gir også god mulighet for bonding da en kan dele problemer og vise medfølelse. Det er vanskeligere å motivere enn å forhindre demotivering. Det er derfor ofte lurt å ta opp momenter i arbeidet du føler er demotiverende, og se om det er mulig å endre det som skaper demotivasjon, eller din holdning til det du opplever demotiverende.
 
 <!---->
 
