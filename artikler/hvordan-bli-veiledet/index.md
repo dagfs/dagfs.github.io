@@ -48,11 +48,9 @@ Ofte er det motivasjonen og ikke ferdigheter som er til hinder. Ved å få litt 
 <object data="2.svg" type="image/svg+xml">
 </object>
 
-Du finner løsninger til det aller meste på egenhånd og lærer og utvikler deg selv konstant. Du vet som regel best hvordan du kan utvikle deg og hva som føles som riktig måte å gjøre ting på. Du har din egen stil for hvordan gjøre ting og det er viktig å finne og bruke den og ikke bare gjøre noen andre gjør. Du må gjøre ting på din måte.
+Før en blir for opptatt av tilbakemeldinger og veiledning er det viktig å huske på utgangspunktet ditt. Du finner løsninger til det aller meste på egenhånd, og du lærer og utvikler deg selv konstant. Du vet som regel best hvordan du kan utvikle deg og hva som føles som den riktig måte å gjøre ting på. Du har din egen stil for hvordan gjøre ting og det er viktig å finne og bruke den og ikke bare gjøre noen andre gjør. Du må gjøre ting på din måte.
 
-### Få litt hjelp fra andre for å spille seg selv god
-
-Noen ganger kan vi trenge litt hjelp, kanskje fordi vi sitter litt fast med noe vi ikke vet hvordan vi skal løse, eller at vi mangler motivasjon til å løse det. Det er da det er viktig å ha noen rundt seg en kan bruke for å spille seg selv god.
+Veiledning handler ofte om å få hjelp til å spille seg selv god. Noen ganger kan vi trenge litt hjelp, kanskje fordi vi sitter litt fast med noe vi ikke vet hvordan vi skal løse, eller at vi mangler motivasjon til å løse det. Det er da det er viktig å ha noen rundt seg en kan bruke for å spille seg selv god.
 
 <!---->
 
@@ -63,7 +61,7 @@ Noen ganger kan vi trenge litt hjelp, kanskje fordi vi sitter litt fast med noe 
 
 Det er utfordrende å gi tilbakemeldinger. Følelser, mottagelse, har ikke vært oppmerksom på det en blir spurt om.
 
-Så for å gjøre det enkelt for den du ber om denne _tjenesten_
+Så for å gjøre det enkelt for den du ber om denne _tjenesten_ er det viktig å huske på et par ting:
 
 ### 1. Hvem?
 
@@ -77,8 +75,7 @@ Gi personen beskjed i forkant slik at de kan forberede seg
 
 ## Tilbakemeldinger - 2 [presentation-only]
 
-<object data="4.svg" type="image/svg+xml">
-</object>
+
 
 ### 3. Relasjon
 
@@ -93,6 +90,9 @@ Vis du tar til deg tilbakemeldingene, jobber med de og be gjerne om eksempler.
 Jobb med tilbakemeldingene og vis takknemlighet for den som ga deg feedback
 
 (Kan være lurt å tenke igjennom over hvordan en tar imot tilbud og forespørsler. Ved å annerkjenne personen positivt for å ha tilbudt/forespurt akkuratt deg om noe vil det være mer sannsynlig at de vil gjøre det igjen)
+
+<object data="4.svg" type="image/svg+xml">
+</object>
 
 <!---->
 
@@ -127,9 +127,9 @@ Det å få hjelp eller tilbakemelding om feil ting kan være demotiverende. Så 
 
 Finn ut hvor du er i matrisen og hvilken veiledning du har behov for.
 
-Høy motivasjon | Veiled | Deliger
+<!--Høy motivasjon | Veiled | Deliger
 Lav motivasjon | Direct | Motiver
-|Lav ferdighet | Høy ferdighet
+|Lav ferdighet | Høy ferdighet-->
 
 <!---->
 
