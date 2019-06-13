@@ -298,10 +298,11 @@ Unngå
 
 ## Hvordan gi tilbakemeldinger - 2 [presentation-only]
 
+### Hvorfor primert skryt?
+
 <object data="15.svg" type="image/svg+xml">
 </object>
 
-### Hvorfor primert skryt?
 
 Tilbakemeldinger vi gir har ofte utgangspunkt i oss selv. Vi anntar at vi ser ting den vi gir tilbakemeldinger til ikke ser, at vi vet hva du bør kunne og bør lære deg det, eller at det er en riktig måte å gjøre ting på og hvis du ikke følger min måte gjør du det feil. Du vet dessuten gjerne hva du kunne gjort bedre selv.
 
@@ -311,10 +312,11 @@ Læring handler like mye om å utvikle potensialet som alt er som å tilegne seg
 
 ## Hvordan gi tilbakemeldinger - 3 [presentation-only]
 
+### Hvordan få mest ut av tilbakemeldingen?
+
 <object data="16.svg" type="image/svg+xml">
 </object>
 
-### Hvordan få mest ut av tilbakemeldingen?
 
 #### Prioriter å gi
 
