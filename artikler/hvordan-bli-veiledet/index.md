@@ -359,7 +359,8 @@ https://hbr.org/2019/03/the-feedback-fallacy
 <iframe style="transform: scale(0.75); max-width:100%; width:700px; height:400px;" src="https://dagfrode.no/artikler/hvordan-bli-veiledet/#slide18"></iframe>
 
 ## The Tao of Coaching
-
+<div>
 ![](https://images.gr-assets.com/books/1435765962l/25132093.jpg)
+</div>
 
 Boka "The TAO of Coaching" er skrevet som en historie hvor en blir introdusert til veiledning gjennom historien for så å få hvert tema oppsummert i slutten av hvert kapittel. Boka er skrevet med fokus på veiledning av andre, men det er vikrig å huske på at en selv er nødt til å være innstilt til å bli veileda for at det skal fungere bra!
