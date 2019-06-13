@@ -356,6 +356,8 @@ https://hbr.org/2019/03/the-feedback-fallacy
 
 https://nanna.bekk.no/confluence/display/BM/Dokumentasjon+fra+samlingene
 
+<iframe style="transform: scale(0.75);" src="https://dagfrode.no/artikler/hvordan-bli-veiledet/"></iframe>
+
 ## The Tao of Coaching
 
-Sjekk ut boka
+Sjekk ut boka!
