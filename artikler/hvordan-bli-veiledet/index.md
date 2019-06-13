@@ -126,9 +126,11 @@ Det å få hjelp eller tilbakemelding om feil ting kan være demotiverende. Så 
 
 Finn ut hvor du er i matrisen og hvilken veiledning du har behov for.
 
-<!--Høy motivasjon | Veiled | Deliger
+Høy motivasjon | Veiled | Deliger
 Lav motivasjon | Direct | Motiver
-|Lav ferdighet | Høy ferdighet-->
+|Lav ferdighet | Høy ferdighet
+
+Vi snakket inledningsvis om ferdighet / motivasjon og hva en trenger hjelp med. 
 
 <!---->
 
@@ -139,7 +141,6 @@ Lav motivasjon | Direct | Motiver
 
 Det er en del blokkeringer som går igjen. Det å være klar over de og strategier for å overkomme de kan komme godt med! Noen av blokkeringene som går igjen er:
 
-<!--Kanskje denne? https://blog.trello.com/common-defense-mechanisms-preventing-productivity?utm_source=newsletter&utm_medium=email&utm_campaign=trello-june2019_newsletter1 -->
 
 ### Har ikke tid
 
@@ -356,7 +357,7 @@ https://hbr.org/2019/03/the-feedback-fallacy
 
 https://nanna.bekk.no/confluence/display/BM/Dokumentasjon+fra+samlingene
 
-<iframe style="transform: scale(0.75);" src="https://dagfrode.no/artikler/hvordan-bli-veiledet/"></iframe>
+<iframe style="transform: scale(0.75); width:100%; height:300px;" src="https://dagfrode.no/artikler/hvordan-bli-veiledet/index.html#19"></iframe>
 
 ## The Tao of Coaching
 
