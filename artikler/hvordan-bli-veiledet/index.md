@@ -139,6 +139,8 @@ Lav motivasjon | Direct | Motiver
 
 Det er en del blokkeringer som går igjen. Det å være klar over de og strategier for å overkomme de kan komme godt med! Noen av blokkeringene som går igjen er:
 
+<!--Kanskje denne? https://blog.trello.com/common-defense-mechanisms-preventing-productivity?utm_source=newsletter&utm_medium=email&utm_campaign=trello-june2019_newsletter1 -->
+
 ### Har ikke tid
 
 har behov for kontroll. lag en klar plan
