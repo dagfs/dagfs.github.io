@@ -358,25 +358,3 @@ https://nanna.bekk.no/confluence/display/BM/Dokumentasjon+fra+samlingene
 ## The Tao of Coaching
 
 Sjekk ut boka
-
-## Muligheter for å veilede
-
-## Kunde fag på NTNU
-
-### IT2901 - Informatikk prosjektarbeid II - Vår
-
-### TDT4290 - Kundestyrt prosjekt - Høst
-
-## Erfaringer
-
-### Engasjernede
-
-### Lite som skal til for at gruppa beveger seg i positiv rettning
-
-### Bekreftelse og motivasjon
-
-## NTNU / IDI
-
-### Ønske om sammarbeid med bedrifter
-
-### STEM og jenter
