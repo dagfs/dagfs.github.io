@@ -354,7 +354,7 @@ https://ideas.ted.com/the-right-way-to-be-introspective-yes-theres-a-wrong-way/
 https://hbr.org/2019/03/the-feedback-fallacy
 
 
-<iframe style="transform: scale(0.75); width:100%; height:500px;" src="https://dagfrode.no/artikler/hvordan-bli-veiledet/#slide18"></iframe>
+<iframe style="transform: scale(0.75); width:700px; height:400px;" src="https://dagfrode.no/artikler/hvordan-bli-veiledet/#slide18"></iframe>
 
 ## The Tao of Coaching
 
