@@ -79,7 +79,8 @@ Gi personen beskjed i forkant slik at de kan forberede seg
 
 ### 3. Relasjon
 
-Styrk relasjonen mellom dere ved å kommenter ting du ønsker tilbakemelding på [og hva som motiverer deg - hvorfor?]
+Styrk relasjonen mellom dere ved å kommenter ting du ønsker tilbakemelding på [og hva som motiverer deg - hvorfor?].
+
 
 ### 4. Motta tilbakemeldingen aktivt
 
@@ -101,11 +102,11 @@ Jobb med tilbakemeldingene og vis takknemlighet for den som ga deg feedback
 <object data="5.svg" type="image/svg+xml">
 </object>
 
-### I Relasjonen
+Vi er alle forskjellige, det er derfor lurt å tenke igjennom personlighetstrekk ved deg selv og den du ber om veiledning å legge til rette for dette. Det kan være ting det er lurt å huske på å kommunikkasjonen, kanskje den du ber om hjelp fra foretrekker å tenke og formulere tilbakemeldinger skriftlig, eller at de foretrekker å ta det i person. 
 
-### I din måte å bli veileda på
+Det er ogaå lurt å tenke over om måten personen du får tilbakemeldinger fra vil kunne fungere godt for deg. Du er nødt til å utvikle din egen stil, en er derfor nødt til å tenke over tilbakemeldinger og kanskje stille en del spørsmål hvis en fikk forslag til hvordan en kunne gjøre noe anderledes. Ofte vet andre når det er noe som kan endres, men de vet gjerne ikke hvordan det kan best endres.
 
-### Styrker
+Som regel får du mer ut av å viderutvikle ferdighetene dine enn å lære deg helt nye ferdigheter. Så se gjerne tilbakemeldinger ut fra et perspektiv hvor du kan bruke en ferdighet du har til å svare på tilbakemeldingen.
 
 <!---->
 
@@ -114,9 +115,7 @@ Jobb med tilbakemeldingene og vis takknemlighet for den som ga deg feedback
 <object data="6.svg" type="image/svg+xml">
 </object>
 
-### Feil type hjelp
-
-Det å få hjelp eller tilbakemelding om feil ting kan være demotiverende. Så det er viktig å være tydelig på hva en ønsker tilbakemelding på.
+Det å få hjelp eller tilbakemelding om feil ting kan være demotiverende. Så det er viktig å være tydelig på hva en ønsker tilbakemelding på. Er det hjelp til å identifisere en løsning, er det motivasjon og positive tilbakemeldinger, er det konstruktiv kritikk, eller noe annet du er på jakt etter? Ved å bruke et par minutter på å tenke 
 
 <!---->
 
