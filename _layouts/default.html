@@ -57,6 +57,10 @@
     h1{
       font-size:2em;
     }
+      
+      .slide-body{
+      margin-bottom:5rem;
+      }
 
   
 .presentation-only{
@@ -82,6 +86,8 @@ body.presentation .slide{
 
 body.presentation .slide-body{
   padding:1vh 1vw;
+  
+      margin-bottom:0;
 }
 
 body.presentation #header_wrap{
@@ -115,10 +121,31 @@ body.presentation h2{
   box-sizing: border-box;
   border-bottom:1px solid var(--color-5);
 }
-
+      
+      body.presentation h3{
+        display:none;
+      }
+      
+        body.presentation h4, body.presentation h5{
+    display:none;
+      }
+      object{
+        max-width: 100%;
+      }     
+      
+      body.presentation object{
+        max-height: 100%;
+        max-width: 100%;
+        margin:0 auto;
+      }     
+      
 body.presentation .slide-body{
   display: inline-block;
   padding:10px;
+}
+      
+      body.presentation table, body.presentation ul{
+  display: none;
 }
 
 #timer{
@@ -206,15 +233,15 @@ body.show-timer #timer{
               child.innerHTML = child.innerHTML.replace("[presentation-only]", "");
             }
             if(currentSection){
-              newContent += "\n</span>\n<span id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</span>\n";
+              newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
               slideCount++
             }
-            currentSection = asHTML(child) + '\n<span class="slide-body">\n';
+            currentSection = asHTML(child) + '\n<div class="slide-body">\n';
           } else {
             currentSection += asHTML(child);
           }
         }
-        newContent += "\n</span>\n<span id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</span>\n";
+        newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
               
         content.innerHTML = newContent;
         
