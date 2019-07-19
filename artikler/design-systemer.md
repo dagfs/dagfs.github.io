@@ -4,9 +4,9 @@ Hva er et design system?
 
 Unintentional design artikkel
 
-Link til hvordan designe componenter -------------
+Link til hvordan designe componenter ------------- https://dev.to/selbekk/the-10-component-commandments-2a7f
 
-Video om design systemer ---------------------
+Video om design systemer --------------------- http://bradfrost.com/blog/post/the-technical-side-of-design-systems-at-css-day-in-amsterdam/
 
 Hva tenker vi design systemer er? Komponent bibliotek ++
 
@@ -21,3 +21,8 @@ når gir det mening? Hvor store prosjekter?
 hva er fordelene? hva er ulempene?
 
 input fra andreas
+
+
+http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/
+
+http://bradfrost.com/blog/post/the-technical-side-of-design-systems-at-css-day-in-amsterdam/
