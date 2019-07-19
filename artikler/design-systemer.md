@@ -22,6 +22,8 @@ hva er fordelene? hva er ulempene?
 
 input fra andreas
 
+om API design: http://sigdoc.acm.org/wp-content/uploads/2019/01/CDQ18002_Meng_Steinhardt_Schubert.pdf
+
 
 http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/
 
