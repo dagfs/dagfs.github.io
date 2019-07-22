@@ -1,5 +1,52 @@
 # Design systemer
 
+## 1. Hva jobber dere med? [10min]
+
+### Og hvordan jobber dere?
+
+### Teknologi?
+
+## 2. Refleksjon [5min]
+
+### Hvilke utfordringer er det med, å jobbe i tverfaglige team? Med frontendutvikling? I eksisterende prosjekter? I nye prosjekter?
+
+## 3. Diskusjon [15min]
+
+## 4. Video om Design system [20min]
+
+## Pause!
+
+## 5. Tranch intro
+
+https://tranch-app.herokuapp.com/
+
+Intro til casen vi skal jobbe med.
+
+Tranch er et transportselskap som tilbyr kollektivtransport transport. De jobber med å lage nye nettsider som i første omgang skal bruke til å ansette flere i bedriften.
+
+De har blitt solgt ideen om å utvikle et designsystem i takt med nettsiden, da de kommer til å trenge andre systemer i fremtiden.
+
+De har et team med designere og utviklere og en prosjekteier som skal jobbe med nettsiden.
+
+Oppgavene består i å sette seg inn i det som alt er gjort. I design systemet. Finne veien videre og videreutvikle nettsiden.
+
+Konkret trenger nettsiden:
+
+- Et skjema for folk å kunne søke om stilling som togsjofør
+  - Navn
+  - Nummer
+  - epost
+  - Kjønn
+  - Fødselsdato
+- Et skjema for folk til å føke om busjofør
+  - Navn
+  - Nummer
+  - epost
+  - Har serfikat
+  - Fødselsdato
+- En footer med info om coockies som ble lagt til for at footeren fungerer samt (c)
+-
+
 ## Frontend utvikling
 
 Frontend utvikling bestør av flere deler, en skal lage god semanntikk i HTML, få innholdet til å se pent ut med CSS og implementere funksjonalitet i siden med JavaScript. Den siste delen har eksplodert i den siste tiden og drukner gjerne de to første.
@@ -43,6 +90,7 @@ Delight in ux
 - ikke bevege mus
 - ikke huske ting
 - ikke lese ting
+- https://www.youtube.com/watch?v=Hx02SaL_IH0
 
 Unintentional design artikkel
 
