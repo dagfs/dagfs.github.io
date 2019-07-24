@@ -22,6 +22,8 @@
 
 [https://tranch-app.herokuapp.com/](https://tranch-app.herokuapp.com/)
 
+[https://github.com/dagfs/design-system](https://github.com/dagfs/design-system)
+
 Intro til casen vi skal jobbe med.
 
 Tranch er et transportselskap som tilbyr kollektivtransport transport. De jobber med å lage nye nettsider som i første omgang skal bruke til å ansette flere i bedriften.
