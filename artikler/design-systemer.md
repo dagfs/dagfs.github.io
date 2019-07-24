@@ -14,11 +14,13 @@
 
 ## 4. Video om Design system [20min]
 
+[https://www.youtube.com/watch?v=Hx02SaL_IH0](https://www.youtube.com/watch?v=Hx02SaL_IH0)
+
 ## Pause!
 
 ## 5. Tranch intro
 
-https://tranch-app.herokuapp.com/
+[https://tranch-app.herokuapp.com/](https://tranch-app.herokuapp.com/)
 
 Intro til casen vi skal jobbe med.
 
