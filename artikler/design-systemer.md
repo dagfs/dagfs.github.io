@@ -1,3 +1,5 @@
+
+
 # Design systemer
 
 ## 1. Hva jobber dere med? [10min]
@@ -139,3 +141,6 @@ https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 Skal ses:
 https://www.invisionapp.com/design-system-manager/expert-advice/heartache-design-scale/
 https://www.youtube.com/watch?time_continue=2113&v=TgWyyoofKIA
+
+
+Sjekk ut https://www.forumone.com/ideas/what-is-design-system/
