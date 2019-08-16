@@ -144,3 +144,8 @@ https://www.youtube.com/watch?time_continue=2113&v=TgWyyoofKIA
 
 
 Sjekk ut https://www.forumone.com/ideas/what-is-design-system/
+
+### Systemer
+- [https://design.nav.no/](https://design.nav.no/)
+- [https://design.sparebank1.no/](https://design.sparebank1.no/)
+- [https://storybook.bekk.no](https://storybook.bekk.no)
