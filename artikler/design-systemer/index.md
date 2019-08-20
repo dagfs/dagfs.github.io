@@ -81,9 +81,8 @@ Vi har alt gode verktøy for å dokumentere APIer, det gir derfor mening å se p
 
 ## Hva er et design system?
 
-https://www.invisionapp.com/inside-design/guide-to-design-systems/
-
-komponentblibliotek, men beskrivelse på hvordan komponenter skal benyttes, pluss branding,
+- [https://www.invisionapp.com/inside-design/guide-to-design-systems/](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+- [https://medium.muz.li/what-is-a-design-system-1e43d19e7696](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
 
 https://www.youtube.com/watch?v=Hx02SaL_IH0
 
