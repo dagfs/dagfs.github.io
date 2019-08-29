@@ -122,9 +122,7 @@ body.presentation h2{
   border-bottom:1px solid var(--color-5);
 }
       
-      body.presentation h3{
-        display:none;
-      }
+     
       
         body.presentation h4, body.presentation h5{
     display:none;
@@ -250,7 +248,6 @@ body.show-timer #timer{
         var presentation = false;
         
         function keyDownTextField(e) {
-          e.preventDefault();
         var keyCode = e.keyCode;
           if(keyCode==33 || keyCode==37) {
             prev()

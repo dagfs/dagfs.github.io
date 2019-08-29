@@ -1,3 +1,5 @@
+
+
 # Design systemer
 
 ## 1. Hva jobber dere med? [10min]
@@ -14,11 +16,15 @@
 
 ## 4. Video om Design system [20min]
 
+[https://www.youtube.com/watch?v=Hx02SaL_IH0](https://www.youtube.com/watch?v=Hx02SaL_IH0)
+
 ## Pause!
 
 ## 5. Tranch intro
 
-https://tranch-app.herokuapp.com/
+[https://tranch-app.herokuapp.com/](https://tranch-app.herokuapp.com/)
+
+[https://github.com/dagfs/design-system](https://github.com/dagfs/design-system)
 
 Intro til casen vi skal jobbe med.
 
@@ -75,9 +81,8 @@ Vi har alt gode verktøy for å dokumentere APIer, det gir derfor mening å se p
 
 ## Hva er et design system?
 
-https://www.invisionapp.com/inside-design/guide-to-design-systems/
-
-komponentblibliotek, men beskrivelse på hvordan komponenter skal benyttes, pluss branding,
+- [https://www.invisionapp.com/inside-design/guide-to-design-systems/](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+- [https://medium.muz.li/what-is-a-design-system-1e43d19e7696](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
 
 https://www.youtube.com/watch?v=Hx02SaL_IH0
 
@@ -135,3 +140,12 @@ https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 Skal ses:
 https://www.invisionapp.com/design-system-manager/expert-advice/heartache-design-scale/
 https://www.youtube.com/watch?time_continue=2113&v=TgWyyoofKIA
+
+
+Sjekk ut https://www.forumone.com/ideas/what-is-design-system/
+
+### Systemer
+- [https://design.nav.no/](https://design.nav.no/)
+- [https://design.sparebank1.no/](https://design.sparebank1.no/)
+- [https://storybook.bekk.no](https://storybook.bekk.no)
+- [https://rizzo.lonelyplanet.com/styleguide/](https://rizzo.lonelyplanet.com/styleguide/)
