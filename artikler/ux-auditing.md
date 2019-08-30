@@ -7,6 +7,9 @@ Gir det mening å gjøre det?
 
 > vanskelig kan byttes ut med irriterende
 
+## Folk er laget for å være late
+https://raywilliams.ca/are-we-hardwired-to-think-and-feel-negatively/
+
 ## Det er slitsomt å lese
 
 https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/
