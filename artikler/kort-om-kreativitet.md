@@ -10,33 +10,44 @@ Hvis du finner det lettere å være kreativ og kanskje får litt bedre forståel
 Artikel og foils: https://dagfrode.no/artikler/kort-om-kreativitet
 
 ## s2. Serendipity
+Åpen state
 
-## John Cleeses forutsettninger for kreativitet
+## s3. John Cleeses forutsettninger for kreativitet
 
-## s3 - 1. Plass [presentation-only]
+https://docs.google.com/document/d/1oGKRuxoZspvAONvkiOhus6RLMd-ycHpHT_XgaoSmPTE/edit#heading=h.vbskvghc8mhg
+
+## s4 - 1. Plass [presentation-only]
 ### 1. Plass
 
-## s4 - 2. Tid [presentation-only]
+## s5 - 2. Tid [presentation-only]
 ### 2. Tid
 
-## s5 - 3. Tid [presentation-only]
+## s6 - 3. Tid [presentation-only]
 ### 3. Tid
 
-## s6 - 4. Selvtillit [presentation-only]
+## s7 - 4. Selvtillit [presentation-only]
 ### 4. Selvtillit
 
-## s7 - 5. Humor [presentation-only]
+## s8 - 5. Humor [presentation-only]
 ### Humor
 
 [John Cleese on creativity]
 
-## s8 - Prokrastinering
+## s9 - Prokrastinering
 [Surprising habits of original thinkers]
+utsette å ta besluttningen så lenge en kan.
+
+
+## s10 - hva har dette å si for jobben vår?
+
+## s11 - utvikling er i seg selv kreativt [presentation-only]
+### utvikling er i seg selv kreativt
+[Hackers and painters]:
+
 
 
 Her kommer lyntalen hvis det blir noe av den ;) 
 
-https://docs.google.com/document/d/1oGKRuxoZspvAONvkiOhus6RLMd-ycHpHT_XgaoSmPTE/edit#heading=h.vbskvghc8mhg
-
 [John Cleese on creativity]: https://genius.com/John-cleese-lecture-on-creativity-annotated
 [Surprising habits of original thinkers]: https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers?language=en 
+[Hackers and painters]: http://www.paulgraham.com/hp.html
