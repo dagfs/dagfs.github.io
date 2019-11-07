@@ -34,6 +34,9 @@ Random input is a method where a list of random input, usually words, but photos
 
 Provocation works similarly as random input. By providing a provocation that might seem illogical, and taking the time to resonate on the provocation and look at the implications it causes, one can come up with ideas outside of our usual patterns. This can be thought of like 30 seconds of madness. Give your random crazy thoughts the same treatment as the ideas you feel seems logical.
 
+## Summary
+Creativity is challenging perceptions, concepts, and boundaries. Our understanding of creativity affects how much we can do with it. You can help others unlock their creative potential lby sharing your understanding of creativity!
+
 
 https://app.grammarly.com/ddocs/624403016
 
