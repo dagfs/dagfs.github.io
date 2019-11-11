@@ -1,4 +1,4 @@
-# Serious creativity
+# Creativity thinking
 
 Edward De Bono has researched creativity for more than 50 years and collected his knowledge in the book *Serious creativity*. This article is a summary of some of the key points as I have come to understand them. 
 
