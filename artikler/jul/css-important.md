@@ -24,6 +24,7 @@ Starting with the selector with the lowes specifity first.
 causes problems
 can often be done with just adding a bit of specifity instead.
 
+>Using !important in your CSS usually means you're narcissistic & selfish or lazy. Respect the devs to come... https://css-tricks.com/when-using-important-is-the-right-choice/
 
 For more on CSS specifity
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
