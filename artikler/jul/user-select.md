@@ -4,7 +4,7 @@ When creating a creating a website, you are trying to solve some real world prob
 
 The following table containts some cells that are easy to copy and some that is a bit harder to copy.
 
-<iframe height="232" style="width: 100%;" scrolling="no" title="css/user-select/1" src="https://codepen.io/dagfs/embed/abbXmyG?height=232&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+<iframe height="300" style="width: 100%;" scrolling="no" title="css/user-select/1" src="https://codepen.io/dagfs/embed/abbXmyG?height=300&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/dagfs/pen/abbXmyG'>css/user-select/1</a> by Dag
   (<a href='https://codepen.io/dagfs'>@dagfs</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
@@ -21,7 +21,7 @@ table {
 }
 ```
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="css/user-select/2" src="https://codepen.io/dagfs/embed/gOOqwGY?height=265&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+<iframe height="300" style="width: 100%;" scrolling="no" title="css/user-select/2" src="https://codepen.io/dagfs/embed/gOOqwGY?height=300&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/dagfs/pen/gOOqwGY'>css/user-select/2</a> by Dag
   (<a href='https://codepen.io/dagfs'>@dagfs</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
@@ -37,7 +37,7 @@ table td {
 }
 ```
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="css/user-select/3" src="https://codepen.io/dagfs/embed/mddvrBZ?height=265&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+<iframe height="300" style="width: 100%;" scrolling="no" title="css/user-select/3" src="https://codepen.io/dagfs/embed/mddvrBZ?height=300&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/dagfs/pen/mddvrBZ'>css/user-select/3</a> by Dag
   (<a href='https://codepen.io/dagfs'>@dagfs</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
@@ -74,12 +74,10 @@ bare kjør polyfill om det er en nettleser som ikke støtter stylinga
 
 ```
 
-<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="result" data-user="dagfs" data-slug-hash="NWWoRzR" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="css/user-select/4">
-  <span>See the Pen <a href="https://codepen.io/dagfs/pen/NWWoRzR">
-  css/user-select/4</a> by Dag (<a href="https://codepen.io/dagfs">@dagfs</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<iframe height="300" style="width: 100%;" scrolling="no" title="css/user-select/4" src="https://codepen.io/dagfs/embed/NWWoRzR?height=300&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/dagfs/pen/NWWoRzR'>css/user-select/4</a> by Dag
+  (<a href='https://codepen.io/dagfs'>@dagfs</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 
 
