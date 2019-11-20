@@ -16,6 +16,17 @@ These are wrong and are holding us back. It seems like there is a scale going fr
 
 *The misconception regarding conditions that makes you creative is not entirely wrong. Everyday hassles inhibit us from being creative, and eliminating them by arranging the right conditions makes it easier to be creative. 
 
+<div>
+<div style="width:50%;">
+  <h2>Logical Thinking</h2>
+<img src="https://dagfrode.no/artikler/jul/serious-creativity/logical-thinking.png"/>
+</div>
+
+<div style="width:50%;">
+  <h2>Creative Thinking</h2>
+<img src="https://dagfrode.no/artikler/jul/serious-creativity/creative-thinking.png"/>
+</div>
+</div>
 
 ## What is the difference between logical and creative thinking?
 To look at the difference, we first need to know a bit about how the brain works. 
