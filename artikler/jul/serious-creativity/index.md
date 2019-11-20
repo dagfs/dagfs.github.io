@@ -1,6 +1,6 @@
 # Creativity thinking
 
-Edward De Bono has researched creativity for more than 50 years and collected his knowledge in the book *Serious creativity*. This article is a summary of some of the key points as I have come to understand them. 
+Edward De Bono has researched creativity for more than 50 years and collected his knowledge in the book *Serious creativity*. This article is a summary of some of the key points as I have come to understand them.
 
 ## What is creativity?
 We all have perceptions, concepts, and boundaries, creativity is about challenging these. Creativity is about breaking patterns and giving us an alternative approach to logical thinking in pursuit of solving problems. With creativity, we move beyond what is and into what could be. 
@@ -17,15 +17,15 @@ These are wrong and are holding us back. It seems like there is a scale going fr
 *The misconception regarding conditions that makes you creative is not entirely wrong. Everyday hassles inhibit us from being creative, and eliminating them by arranging the right conditions makes it easier to be creative. 
 
 <div>
-<div style="width:50%;">
+<span style="width:50%;">
   <h2>Logical Thinking</h2>
-<img src="https://dagfrode.no/artikler/jul/serious-creativity/logical-thinking.png"/>
-</div>
+<img style="max-width:100%;" src="https://dagfrode.no/artikler/jul/serious-creativity/logical-thinking.png"/>
+</span>
 
-<div style="width:50%;">
+<span style="width:50%;">
   <h2>Creative Thinking</h2>
-<img src="https://dagfrode.no/artikler/jul/serious-creativity/creative-thinking.png"/>
-</div>
+<img style="max-width:100%;" src="https://dagfrode.no/artikler/jul/serious-creativity/creative-thinking.png"/>
+</span>
 </div>
 
 ## What is the difference between logical and creative thinking?
