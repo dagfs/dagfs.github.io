@@ -1,4 +1,4 @@
-# Key takeaways from Edward De Bono’s “Serious creativity””
+# Key takeaways from Edward De Bono’s "Serious creativity"
 
 In his book _Serious creativity_, [Edward De Bono](https://www.debono.com/) presents his knowledge from more than 50 years of research on creativity. In it, he presents creativity as a skill that can be tought. Following are some of the key takeaways from the book.
 
