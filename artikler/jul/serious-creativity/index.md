@@ -16,15 +16,15 @@ These are wrong and are holding us back. It seems like there is a scale going fr
 
 *The misconception regarding conditions that makes you creative is not entirely wrong. Everyday hassles inhibit us from being creative, and eliminating them by arranging the right conditions makes it easier to be creative. 
 
-<div>
-<span style="width:50%;">
+<div style="text-align:top;">
+<span style="width:49%; display:inline-block;text-align:top;">
   <h2>Logical Thinking</h2>
 <img style="max-width:100%;" src="https://dagfrode.no/artikler/jul/serious-creativity/logical-thinking.png"/>
 </span>
 
-<span style="width:50%;">
+<span style="width:49%; display:inline-block;text-align:top;">
   <h2>Creative Thinking</h2>
-<img style="max-width:100%;" src="https://dagfrode.no/artikler/jul/serious-creativity/creative-thinking.png"/>
+<img style="max-width:100%; " src="https://dagfrode.no/artikler/jul/serious-creativity/creative-thinking.png"/>
 </span>
 </div>
 
