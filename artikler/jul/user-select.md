@@ -55,22 +55,22 @@ First we add a class to the elements we want to be possible to select by only cl
 Then we add the following polyfill to be loaded at the end of our document.
 
 ```js
-// TODO
-
-bare kjør polyfill om det er en nettleser som ikke støtter stylinga
-
   // based on https://stackoverflow.com/a/20079910
   //Supports IE9+
-   function userSelectAll(event) {
+function userSelectAll(event) {
     window.getSelection()
       .selectAllChildren(
         event.target
       );
-  }
+}
+
+// Use CSS.suports to only run polyfill for browsers not supporting the property
+if(!CSS || CSS.suports || !CSS.supports("user-select", "all")){
   var elementsToSelectOnClick = document.querySelectorAll(".user-select-all");
   for(var i = 0; i < elementsToSelectOnClick.length; i++){
     elementsToSelectOnClick[i].onclick = userSelectAll;
   }
+}
 
 ```
 
@@ -79,10 +79,3 @@ bare kjør polyfill om det er en nettleser som ikke støtter stylinga
   (<a href='https://codepen.io/dagfs'>@dagfs</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-
-
-## TODO
-
-- i table head bytt ut td med th
-- style tabellene
-- bare kjør polyfill om det er en nettleser som ikke støtter stylinga
