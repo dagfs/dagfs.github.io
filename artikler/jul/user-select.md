@@ -1,4 +1,4 @@
-# user-select:all;
+# Gotta Select’em all
 
 When creating a website, you are trying to solve some real-world problems. People don't come to your site to look at the website. There might be exciting content or important information they need. Often the information they need is copied into some other application.
 
@@ -13,7 +13,7 @@ For the next few minutes, we shall explore how we can make all the cells with da
 
 ## User select:all;
 
-By adding some CSS to the table, we can make all the text in the cells selectable by a sing click. This solution currently works for firefox and Chrome.
+By adding some CSS to the table, we can make all the text in the cells are selectable by a sinlge click. This solution currently works for firefox and Chrome. 
 
 The CSS we have added to the table is:
 
