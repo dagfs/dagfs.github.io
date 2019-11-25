@@ -47,20 +47,51 @@ Then how do we break these limiting patterns? There are many techniques we can u
 
 Provocation works similarly to random input. By providing a provocation that might seem illogical, and taking the time to think about the implications of the provocation, you can come up with ideas outside of our usual patterns. This can be thought of like 30 seconds of madness. 
 
+Let us try it! We are getting close to the hollidays. What about:
+
+**PO: we do not buy _each other_ presents this year**
+
+Does that statement sound like madness? A bit. Let us see what we can come up with if we accept this for 30 seconds and think about what effects it could have.
+
+Ideas:
+- Maybe we could buy **ourselves** presents? We know what we want and need and can spend out own money on it.
+- Maybe we could make stuff for each other?
+- What about spending the money we would have used on precents on a trip instead?
+- Or maybe give it to a good cause?
+- Or use it on the house / car / other big thing we need fixed
+- Or invest it so the money can grow for a few years and be used as part of mom and dads retirement?
+
+We could proabably go on for some time. Just be accepting the provocation and trying to figure out how it could affect our lives instead of resisting it, we can come up with new ideas that might bring value as they are. Or we can find a middleground that are more realistic. 
+
 ### Random input
 
 
 <img class="wide-image" src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1952&q=80"/>
 
 
-
 Random input is a method where a list of random input, usually words, but photos could work too, is collected and shared one item at a time. The person ideating thinks of a problem and uses the random input to affect the ideas they generate. The random input helps you break the logical patterns you are used to following and forces you to take detours through other topics that might seem unrelated but can spark new ideas.
 
+How can we use this in practice? Lets say we want to give someone a precent and are stuck. We can then create a list of topics related to gifts. 
+
+It can look something something like:
+- Sports gear
+- Activity
+- Clothing
+- Necessities
 
 
+This list could have been more random, but as we are are looking for gifts this should be enough. By writing down 5 ideas, or as many as you can come up with for each word you should be able to come up with a few ideas that should solve your need. 
 
-## Creativity: a challenge to our perceptions, consepts and boundaries
-Creativity challenges our perceptions, concepts, and boundaries. Our understanding of creativity affects how we use it. Knowing creativity is a skill that can be tought and used in serious situations enhances our options when solving problems. 
+Ideas:
+- Football
+- Bike
+- Going to the movies
+- Lazer tag
+- Sweatter
+- Socks
+- Shampo
+
+Applying some of these techniques and knowing that creativity is just a way of thinging, lets us see more solutions and therefore often solve problems better. Creativity challenges lets us our perceptions, concepts, and boundaries. Our understanding of creativity affects how we use it. Knowing creativity is a skill that can be tought and used in serious situations enhances our options when solving problems. 
 
 
 
