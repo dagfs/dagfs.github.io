@@ -9,7 +9,7 @@ The following table contains some cells that are easy to copy, and some that are
   (<a href='https://codepen.io/dagfs'>@dagfs</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-For the next few minutes, we shall explore how we can make all the cells with data easy to copy for most of the browsers in use today!
+For the next few minutes, we will explore how we can make all the cells with data easy to copy for most of the browsers in use today!
 
 ## User select:all;
 
@@ -23,7 +23,7 @@ table {
 }
 ```
 
-When you click on some content in an element with the style `user-select: all;`, the browser knows it shall treat all the content as one atom. This styling lets the user click anywhere in the element and get all of the text selected.
+When you click on some content in an element with the style `user-select: all;`, the browser knows it should treat all the content as one atom. This styling lets the user click anywhere in the element and get all of the text selected.
 
 Let us see how this works in practice: 
 
