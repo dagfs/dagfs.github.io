@@ -1,4 +1,4 @@
-# Gotta Select’em all
+# Gotta Select 'em all
 
 When creating a website, you are trying to solve some real-world problems. People don't come to your site to look at the website. There might be exciting content or important information they need. Often the information they need is copied into some other application.
 
@@ -13,7 +13,7 @@ For the next few minutes, we shall explore how we can make all the cells with da
 
 ## User select:all;
 
-By adding some CSS to the table, we can make all the text in the cells are selectable by a sinlge click. This solution currently works for firefox and Chrome. 
+By adding some CSS to the table, we can make all the text in the cells are selectable by a single click. This solution currently works for Firefox and Chrome. 
 
 The CSS we have added to the table is:
 
@@ -49,9 +49,9 @@ table td {
   (<a href='https://codepen.io/dagfs'>@dagfs</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-## Polyfill-ich
+## Polyfill-ish
 
-We now have a solution that lets chrome and firefox users understand that they can select the content of a cell, but we want to support the rest of the internet too.
+We now have a solution that lets Chrome and Firefox users understand that they can select the content of a cell, but we want to support the rest of the internet too.
 
 First, we add a class to the elements we want to be possible to select by only clicking on the element.
 
@@ -79,7 +79,7 @@ if(!CSS || CSS.suports || !CSS.supports("user-select", "all")){
   }
 }
 
-```
+`"
 
 The final result should work for most browsers. 
 
@@ -88,4 +88,4 @@ The final result should work for most browsers.
   (<a href='https://codepen.io/dagfs'>@dagfs</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-It is nice to know we can manage without adding any libraries for the smaller stuff like this :D Some CSS and a bit of JavaScript goes a long way. It is also lovely to see that a simple solution can bring a lot of value for your users, but you have to make sure they are communicated clearly!
+It is nice to know we can do a lot without having to rely on libraries :smiley: Some CSS and a bit of JavaScript goes a long way. It is also lovely to see that a simple solution can bring much value to your users, but you have to make sure they are communicated clearly!
