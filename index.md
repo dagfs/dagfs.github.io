@@ -1,6 +1,6 @@
-# Artikler
+## Artikler
 
-## [bekk.christmas](https://bekk.christmas/)
+### [bekk.christmas](https://bekk.christmas/)
 In 2019 we wrote 288 articles for 12 christmas calendars. I somehow ended up writing 8:
 
 **[ux.christmas](https://ux.christmas/)**
@@ -21,12 +21,10 @@ In 2019 we wrote 288 articles for 12 christmas calendars. I somehow ended up wri
 
 
 
-## WIP
+## Presentasjoner
 
-- [Dele ideer](/artikler/sharing_ideas)
-- [Hvorfor skal jeg faktisk bry meg om personvern?](/artikler/privacy_why_care)
-- [Hvordan bli veiledet](/artikler/hvordan-bli-veiledet)
+[Hvordan bli veiledet](https://dagfrode.no/artikler/hvordan-bli-veiledet/)
 
-- [Design systemer](/artikler/design-systemer)
+## Utstilling
 
-
+Seriøs kreativitet
