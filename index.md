@@ -18,7 +18,8 @@ In 2019 we wrote 288 articles for 12 christmas calendars. I somehow ended up wri
 - [Weeding the Grid](https://css.christmas/2019/18)
 
 
-
+## Podcasts
+- [Drypp - Hvordan optimaliserer vi hjemmekontoret?](https://open.spotify.com/show/6SVNY97zuPWcVdvE2FSNRL)
 
 
 ## Presentasjoner
