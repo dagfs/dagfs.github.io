@@ -9,7 +9,7 @@ jobs:
     name: deploy
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checckout@v1
-      - uses: ./.github/actions/build-dis-site
+      - uses: actions/checkout@v1
+      - uses: ./.github/actions/build-dist-site
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
