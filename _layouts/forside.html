@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/article.css"> 
-    <link rel="stylesheet" type="text/css" href="/assets/css/frontpage.css"> 
-    <link rel="stylesheet" type="text/css" href="/assets/css/presentation.css"> 
+    <link rel="stylesheet" type="text/css" href="../assets/css/article.css"> 
+    <link rel="stylesheet" type="text/css" href="../assets/css/frontpage.css"> 
+    <link rel="stylesheet" type="text/css" href="../assets/css/presentation.css"> 
  
     <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet"> 
@@ -21,22 +21,67 @@
     <!-- HEADER -->
     <div id="header_wrap" >
         <header >
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-        </header>
+          <div id="project_title">Dag's Mind Cabin</div>
+          <div id="project_tagline">Where I collect my thoughts</div>
+ </header>
     </div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" >
-      <section id="main_content">
-       {{ content }}
+      <section id="main_content" >
+
+          <div id="slide0" class="slide">
+          <h2 id="artikler">Artikler</h2>
+          <div class="slide-body">
+            <div class="front-image" >
+          <img src='../assets/images/bekk.christmas.png' >
+              <div class="front-image-content">
+              <h3 id="bekkchristmas"><a href="https://bekk.christmas/">bekk.christmas</a></h3><p>In 2019 we wrote 288 articles for 12 christmas calendars. I somehow ended up writing 8:</p><p><strong><a href="https://ux.christmas/">ux.christmas</a></strong></p><ul>
+            <li><a href="https://ux.christmas/2019/2">Key takeaways from Edward De Bono’s “Serious creativity”</a></li>
+          </ul><p><strong><a href="https://javascript.christmas/">javasript.christmas</a></strong></p><ul>
+            <li><a href="https://javascript.christmas/2019/12">Vanilla SPA</a> - Creating a single page appication with vanilla JavaScript</li>
+          </ul><p><strong><a href="https://css.christmas/">css.christmas</a></strong></p><ul>
+            <li><a href="https://css.christmas/2019/1">And then there was CSS</a></li>
+            <li><a href="https://css.christmas/2019/5">Gotta Select’em all</a></li>
+            <li><a href="https://css.christmas/2019/12">CSS Christmas card - Part 1: Cutting corners</a></li>
+            <li><a href="https://css.christmas/2019/13">CSS Christmas card - Part 2: But can you use this?</a></li>
+            <li><a href="https://css.christmas/2019/14">CSS Christmas card - Part 3: Shaking it up</a></li>
+            <li><a href="https://css.christmas/2019/18">Weeding the Grid</a></li>
+          </ul>
+        </div>
+      </div>
+          </div>
+          
+          </div>
+          <div id="slide1" class="slide">
+          <h2 id="podcasts">Podcasts</h2>
+          <div class="slide-body">
+          <ul>
+            <li><a href="https://open.spotify.com/show/6SVNY97zuPWcVdvE2FSNRL">Drypp - Hvordan optimaliserer vi hjemmekontoret?</a></li>
+          </ul>
+          </div>
+          
+          </div>
+          <div id="slide2" class="slide">
+          <h2 id="presentasjoner">Presentasjoner</h2>
+          <div class="slide-body">
+          <p><a href="./a.html">Hvordan bli veiledet</a></p>
+          </div>
+          
+          </div>
+          <div id="slide3" class="slide">
+          <h2 id="utstilling">Utstilling</h2>
+          <div class="slide-body">
+          <p>Seriøs kreativitet</p>
+          </div>
+          </div>
        <div id="timer">20</div>
       </section>
     </div>
 
     <!-- FOOTER  -->
-        <div id="footer_wrap" >
-    <footer >
+        <div id="footer_wrap" class="outer">
+    <footer class="inner">
 
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
