@@ -1,5 +1,4 @@
 name: deploy
-
 on:
   push:
     branches:
@@ -8,8 +7,7 @@ on:
 jobs:
   build:
     name: deploy
-    runs-on:ubuntu-18.04
-
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/checckout@v1
       - uses: ./.github/actions/build-dis-site
