@@ -1,4 +1,4 @@
-#What is good code
+# What is good code
 
 * Error handeling strategy
 * Easy to maintain
