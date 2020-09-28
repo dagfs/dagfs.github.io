@@ -1,0 +1,3 @@
+- Runars artikkel
+- bok
+- https://dl.acm.org/doi/fullHtml/10.1145/2736348
