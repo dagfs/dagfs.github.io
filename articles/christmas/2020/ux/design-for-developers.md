@@ -101,3 +101,5 @@ users dont remember things https://www.joelonsoftware.com/category/uibook/ chapt
 
 [10 Graphic Design Rules You Should Never Break](https://www.business2community.com/web-design/10-graphic-design-rules-never-break-01935942)
 [Affordances, Signifiers, and Clickabilit](https://www.codecademy.com/articles/ui-design-affordances-signifiers-clickability)
+
+hva med nå?
