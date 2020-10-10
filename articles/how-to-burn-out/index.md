@@ -50,7 +50,9 @@ https://www.npr.org/2019/10/11/764654765/olivia-remes-what-are-simple-strategies
 https://www.npr.org/programs/ted-radio-hour/764651758/erasing-the-stigma
 
 ## Handeling stress
-What happends when you experience more stress than you can handle is in Norway and they look at you and tell you to take 2 weeks of and see if you manage to build some overskudd and to see if your mind just restores itself. 
+What happends when you experience more stress than you can handle is in Norway and they look at you and tell you to take 2 weeks of and see if you manage to build some overskudd and to see if your mind just restores itself. You get told to do something "lystbetont". First of, you might have lost your connection to old ways of releaving stress and recovering. You might be depressed causing few things to feel joyfull. I will take Scott Adams suggestion from "How to fail at nearly everything and still win big" and do things that gives you energy. This might be things you used to enjoy or new activities you find that gives you energy. 
+
+In is reccomended to get exercise as exercise helps the body metabolixe stress related hormones [source]. Having one or more hobbies related to workout or sports is therefore preferable. But you need hobies that does not require exercise as at times you will be prevented from exercising or you might have to face more stress than you are able to recover from by working out.
 
 ## Why you need hobbies
 You need some activities you do for fund and for mastery. You do them and are happy with your result and you do not judge it as it is not meant to be perfect. It is just something you do to relax and restore.
