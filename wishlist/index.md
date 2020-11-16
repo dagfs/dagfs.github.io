@@ -1,13 +1,27 @@
-Ting jeg har lyst på
+# Ønskeliste
+
+## Opplevelser jeg har lyst på
+- Julebad
+- Nyttårsbad
+- Fisketur
+- Meditasjons retreat
+- Yoga retreat
+- Telttur
+- Helg med lillebrødre
+- Brettspill med venner og familie
+- Sommerferieuke med hele familien
+
+## Ting jeg har lyst på
 
 - [SD kort](https://www.kjell.com/no/produkter/data/minnekort/sandisk-ultra-micro-sd-kort-128-gb-p97603) - 120gb read write 100mb - ~250
 - [Co2 sensor](https://www.banggood.com/no/MH-Z19B-Infrared-CO2-Sensor-For-CO2-Monitor-NDIR-Gas-Sensor-CO2-Gas-Sensor-0-5000PPM-p-1248315.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=NO&utm_content=minha&utm_campaign=minha-no-no-pc&currency=NOK&createTmp=1&utm_source=googleshopping&utm_medium=cpc_union&utm_content=xibei&utm_campaign=xibei-ssc-no-all-0302&ad_id=337428064977&gclid=Cj0KCQiA7qP9BRCLARIsABDaZzgAmqGAow7fTf_A7_RD0_B44c9bZODgpTLQ8chv8WOME9M1-VoeSDQaAlVXEALw_wcB&cur_warehouse=CN) - ~300
 - [Munn til munn duk](https://www.boots.no/product/facemask-munn-til-munn-maske-1-stk-produkt895787)
-- [USB loddebolt](https://www.jula.no/catalog/verktoy-og-maskiner/sveising-og-lodding/lodding/elektriske-loddeverktoy/loddepenn-009851/#tab02) - 300
+- [kompakt gass loddebolt](https://www.jula.no/catalog/verktoy-og-maskiner/sveising-og-lodding/lodding/gassdrevet-loddeverktoy/loddepenn-213005/) - 500
+- [ Skrustikke ](https://www.clasohlson.com/no/Stanley-bordskrustikke/p/40-7835) - 300 
 
 
 ## Bøker
-
+Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret hvordan du tenker og bøker du ofte har gitt bort.
 - Every tool is a hammer
 - The design of everyday things
 - The inner game of tennis
@@ -28,7 +42,9 @@ Ting jeg har lyst på
 -->
 
 ## Ting jeg kan tenke meg en dag
-- [Remarkable]() - 6000 nok
+- Remarkable - 6000 nok
+- Treningskklokke som støtter HVR, wattmåler for sykkel og har en optisk sensor som klarer å lese pulsen sånn nogen lunde.
+- Barberhøvel av bedre kvalitet hvor en kan skifte ut bladene
 
 
 
