@@ -12,3 +12,9 @@ sudo snap install slack --classic
 
 1. `ssh-keygen -t ed25519`
 2. `xclip -sel clip < ~/.ssh/id_ed25519.pub`
+
+
+## Node
+sudo apt install npm
+sudo npm i -g n
+sudo n stable
