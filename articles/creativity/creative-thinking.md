@@ -1,5 +1,13 @@
 # Creative thinking (for developers)
 
+<div class="slide">
+    Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. 
+    I have been trough trough more workshops than I can count on two hands and one foot. 
+    Each of the workshops has had multiple warmup exercises and a series of steps to helps us ideate. 
+    These exercises and steps has not always seemed to make sense and I've hard to embrase them as
+    I haven't understood them.
+</div>
+
 Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. 
 I have been trough trough more workshops than I can count on two hands and one foot. 
 Each of the workshops has had multiple warmup exercises and a series of steps to helps us ideate. 
@@ -18,7 +26,15 @@ be creative, and learn a bit about how to collaborate creativly.
 ## Define creativity
 
 Just to make sure we are on the same page, I want to try to explain what I mean 
-when I think og creativity.
+when I think of creativity.
+
+<slide>
+## Define creativity
+
+> the use of imagination or original ideas to create something; inventiveness.
+>
+>-- <cite>Oxford Languages</cite>
+</slide>
 
 Oxford Languages defined creativity as:
 > the use of imagination or original ideas to create something; inventiveness.
@@ -31,6 +47,14 @@ remix of ideas. This is highlighted by *Kirby Ferguson* in his documentary [Ever
 To dig deeper in this defenition. Ideas are toughts, and thougts [TODO finn er fornuftig kilde] and thoughts are the results of different external and internal stimulus. 
 
 Putting these two togheter one can argue creativity is generating ideas based on what you know combined with some external stimulus, such as a problem to solve. One thing to add, is that we seldom go for the first idea that pops into our head. We need to do a few iterations.
+
+<slide>
+## Define creativity
+
+> Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.
+>
+> -- <cite>Scott Adams</cite>
+</slide>
 
 There is a somewhat know quote about creativity by Dilbert creator *Scott Adams*
 > Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.
@@ -45,7 +69,12 @@ What we often mean when we say failing, is simply iterating. It often takes a fe
 
 ## Embrase you creativity
 
-
+ - vounerability
+ - im not creative
+ - richard feynman - do things becouse they are fun and they will lead to something usefull
+ - adam savage - to create something you have to obsess over it. to show other something you have created puts you in a vounerable position.
+ - Learn to be comfortable to kill your babies or let them grow up another way than you imagined. That is why we do what we do in workshops to get comfortable sharing our ideas and learning to build on each other as to rais ideas in a group.
+ - You are not your brain - du er ikke tankene dine
 ## creativity  tools
 
 snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det å bruke ord hjelper, hvordan det å lage flere ideer hjelper
@@ -54,29 +83,7 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 ## creative at work
 snakk om hvordan det som produseres på workshops ofte er external input til designere i den kreative prosessen da de lærer masse og tar med det de lærer + det de kan for å lage nye løsninger. 
 
-<!-- 
-Dette ble mindre interesant
 
-## Ways of thinking
-reductional
-creative / lateral
-others
-
-https://thepeakperformancecenter.com/educational-learning/thinking/types-of-thinking-2/
-
-look into others.
-
-## reductional thinking
-
-## creative thinking -->
-
-## blokkeringer <- finn engelsk ord for det
- - vounerability
- - im not creative
- - richard feynman - do things becouse they are fun and they will lead to something usefull
- - adam savage - to create something you have to obsess over it. to show other something you have created puts you in a vounerable position.
- - Learn to be comfortable to kill your babies or let them grow up another way than you imagined. That is why we do what we do in workshops to get comfortable sharing our ideas and learning to build on each other as to rais ideas in a group.
- - You are not your brain - du er ikke tankene dine
 
 
 
@@ -96,6 +103,8 @@ look into others.
  - Se igjennom john cleese 5 faktorer
  - se https://www.ted.com/playlists/20/where_do_ideas_come_from
  - Lese i de bono creatvite work
+ - hackers and painters
+ - 6 thinking hats
  
  
  ## Fra javazone submission

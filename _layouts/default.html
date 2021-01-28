@@ -59,31 +59,11 @@
         }
         var currentSlide = 0;
         var slideCount = 0;
-        var content = document.getElementById("main_content");
-        var newContent = "";
-        var currentSection = "";
-        for(var i = 0; i < content.children.length; i++){
-          const child = content.children[i];
-
-          if(["H1", "H2"].includes(content.children[i].nodeName)){
-            console.log(child.innerHTML)
-            if(child.innerHTML.indexOf("[presentation-only]")> -1){
-              console.log(child)
-              child.classList.add("presentation-only");
-              child.innerHTML = child.innerHTML.replace("[presentation-only]", "");
-            }
-            if(currentSection){
-              newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
-              slideCount++
-            }
-            currentSection = asHTML(child) + '\n<div class="slide-body">\n';
-          } else {
-            currentSection += asHTML(child);
-          }
+        var slides = document.getElementsByTagName("slide");
+        for(var s = 0; s < slides.length; s++){
+          slides[s].id = `slide${s}`;
         }
-        newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
-              
-        content.innerHTML = newContent;
+             
         
         document.addEventListener("keydown", keyDownTextField, false);
         
