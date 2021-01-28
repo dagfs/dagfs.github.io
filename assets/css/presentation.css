@@ -32,11 +32,13 @@
     display:none;
     }
     
-    body.presentation .slide-body > p{
+    body.presentation p{
     display:none;
     } 
     
- 
+    body.presentation blockquote,   body.presentation blockquote p{
+    display:block;
+    }
     
     
     body.presentation #footer_wrap{
