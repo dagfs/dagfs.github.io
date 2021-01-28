@@ -53,6 +53,7 @@ What we often mean when we say failing, is simply iterating. It often takes a fe
  - adam savage - to create something you have to obsess over it. to show other something you have created puts you in a vounerable position.
  - Learn to be comfortable to kill your babies or let them grow up another way than you imagined. That is why we do what we do in workshops to get comfortable sharing our ideas and learning to build on each other as to rais ideas in a group.
  - You are not your brain - du er ikke tankene dine
+ 
 ## creativity  tools
 
 snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det å bruke ord hjelper, hvordan det å lage flere ideer hjelper
