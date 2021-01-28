@@ -53,7 +53,7 @@ What we often mean when we say failing, is simply iterating. It often takes a fe
  - adam savage - to create something you have to obsess over it. to show other something you have created puts you in a vounerable position.
  - Learn to be comfortable to kill your babies or let them grow up another way than you imagined. That is why we do what we do in workshops to get comfortable sharing our ideas and learning to build on each other as to rais ideas in a group.
  - You are not your brain - du er ikke tankene dine
- 
+
 ## creativity  tools
 
 snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det å bruke ord hjelper, hvordan det å lage flere ideer hjelper
@@ -61,9 +61,6 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 
 ## creative at work
 snakk om hvordan det som produseres på workshops ofte er external input til designere i den kreative prosessen da de lærer masse og tar med det de lærer + det de kan for å lage nye løsninger. 
-
-
-
 
 
  ## Creative thinking is a skill you can cultivate
@@ -75,7 +72,6 @@ snakk om hvordan det som produseres på workshops ofte er external input til des
  - concepts - we often limit ourself by thinking of the conecept of our solution to narrowly
  - others
 
-
  ## TODO
  - Se igjennom artikkel 
  - Se igjennom postere
@@ -84,8 +80,7 @@ snakk om hvordan det som produseres på workshops ofte er external input til des
  - Lese i de bono creatvite work
  - hackers and painters
  - 6 thinking hats
- 
- 
+  
  ## Fra javazone submission
  
  beskrivelse
