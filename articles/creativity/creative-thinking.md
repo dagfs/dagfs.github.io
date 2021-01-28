@@ -35,6 +35,7 @@ Putting these two togheter one can argue creativity is generating ideas based on
 ## Define creativity [presentation-only]
 
 There is a somewhat know quote about creativity by Dilbert creator *Scott Adams*
+
 > Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.
 >
 > -- <cite>Scott Adams</cite>
