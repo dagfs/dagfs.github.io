@@ -1,11 +1,13 @@
 # Creative thinking (for developers)
 
 <div class="slide">
+
     Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. 
     I have been trough trough more workshops than I can count on two hands and one foot. 
     Each of the workshops has had multiple warmup exercises and a series of steps to helps us ideate. 
     These exercises and steps has not always seemed to make sense and I've hard to embrase them as
     I haven't understood them.
+
 </div>
 
 Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. 
@@ -35,6 +37,7 @@ when I think of creativity.
 > the use of imagination or original ideas to create something; inventiveness.
 >
 >-- <cite>Oxford Languages</cite>
+
 </div>
 
 Oxford Languages defined creativity as:
@@ -56,6 +59,7 @@ Putting these two togheter one can argue creativity is generating ideas based on
 > Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.
 >
 > -- <cite>Scott Adams</cite>
+
 </div>
 
 There is a somewhat know quote about creativity by Dilbert creator *Scott Adams*
