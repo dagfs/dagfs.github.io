@@ -56,6 +56,8 @@ Putting these two togheter one can argue creativity is generating ideas based on
 
 ## Define creativity
 
+## test
+
 > Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.
 >
 > -- <cite>Scott Adams</cite>
