@@ -32,6 +32,8 @@ To dig deeper in this defenition. Ideas are toughts, and thougts [TODO finn er f
 
 Putting these two togheter one can argue creativity is generating ideas based on what you know combined with some external stimulus, such as a problem to solve. One thing to add, is that we seldom go for the first idea that pops into our head. We need to do a few iterations.
 
+## Define creativity [presentation-only]
+
 There is a somewhat know quote about creativity by Dilbert creator *Scott Adams*
 > Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.
 >
