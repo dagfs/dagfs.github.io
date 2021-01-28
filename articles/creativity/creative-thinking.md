@@ -1,15 +1,5 @@
 # Creative thinking (for developers)
 
-<div class="slide">
-
-    Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. 
-    I have been trough trough more workshops than I can count on two hands and one foot. 
-    Each of the workshops has had multiple warmup exercises and a series of steps to helps us ideate. 
-    These exercises and steps has not always seemed to make sense and I've hard to embrase them as
-    I haven't understood them.
-
-</div>
-
 Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. 
 I have been trough trough more workshops than I can count on two hands and one foot. 
 Each of the workshops has had multiple warmup exercises and a series of steps to helps us ideate. 
@@ -30,16 +20,6 @@ be creative, and learn a bit about how to collaborate creativly.
 Just to make sure we are on the same page, I want to try to explain what I mean 
 when I think of creativity.
 
-<span>
-
-## Define creativity
-
-> the use of imagination or original ideas to create something; inventiveness.
->
->-- <cite>Oxford Languages</cite>
-
-</span>
-
 Oxford Languages defined creativity as:
 > the use of imagination or original ideas to create something; inventiveness.
 >
@@ -51,18 +31,6 @@ remix of ideas. This is highlighted by *Kirby Ferguson* in his documentary [Ever
 To dig deeper in this defenition. Ideas are toughts, and thougts [TODO finn er fornuftig kilde] and thoughts are the results of different external and internal stimulus. 
 
 Putting these two togheter one can argue creativity is generating ideas based on what you know combined with some external stimulus, such as a problem to solve. One thing to add, is that we seldom go for the first idea that pops into our head. We need to do a few iterations.
-
-<span>
-
-## Define creativity
-
-## test
-
-> Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.
->
-> -- <cite>Scott Adams</cite>
-
-</span>
 
 There is a somewhat know quote about creativity by Dilbert creator *Scott Adams*
 > Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.

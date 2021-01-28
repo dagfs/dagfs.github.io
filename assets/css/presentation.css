@@ -32,9 +32,11 @@
     display:none;
     }
     
-    body.presentation p{
+    body.presentation .slide-body > p{
     display:none;
-    }
+    } 
+    
+ 
     
     
     body.presentation #footer_wrap{
@@ -62,7 +64,7 @@
       
      
       
-        body.presentation h3, body.presentation h4, body.presentation h5{
+body.presentation h3, body.presentation h4, body.presentation h5{
     display:none;
       }
       object{
