@@ -28,14 +28,14 @@ be creative, and learn a bit about how to collaborate creativly.
 Just to make sure we are on the same page, I want to try to explain what I mean 
 when I think of creativity.
 
-<slide>
+<div>
 
 ## Define creativity
 
 > the use of imagination or original ideas to create something; inventiveness.
 >
 >-- <cite>Oxford Languages</cite>
-</slide>
+</div>
 
 Oxford Languages defined creativity as:
 > the use of imagination or original ideas to create something; inventiveness.
@@ -49,14 +49,14 @@ To dig deeper in this defenition. Ideas are toughts, and thougts [TODO finn er f
 
 Putting these two togheter one can argue creativity is generating ideas based on what you know combined with some external stimulus, such as a problem to solve. One thing to add, is that we seldom go for the first idea that pops into our head. We need to do a few iterations.
 
-<slide>
+<div>
 
 ## Define creativity
 
 > Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.
 >
 > -- <cite>Scott Adams</cite>
-</slide>
+</div>
 
 There is a somewhat know quote about creativity by Dilbert creator *Scott Adams*
 > Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.
