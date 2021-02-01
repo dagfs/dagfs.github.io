@@ -16,7 +16,7 @@
 {% seo %}
   </head>
 
-  <body class="presentation">
+  <body >
 
     <!-- HEADER -->
     <div id="header_wrap" >
@@ -34,7 +34,7 @@
         
     <h1 id="creative-thinking-for-developers">Creative thinking (for developers)</h1>
     
-    <p>1</p>
+
     
     <p>Over the years I’ve been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations.
       I have been trough trough more workshops than I can count on two hands and one foot.
@@ -201,7 +201,7 @@
     {% endif %}
 
     <script>
-
+var presenterWindow = null;
         function asHTML(node){
           var wrap = document.createElement('div');
           wrap.appendChild(node.cloneNode(true));
@@ -216,7 +216,6 @@
           const child = content.children[i];
 
           if(["H1", "H2"].includes(content.children[i].nodeName)){
-            console.log(child.innerHTML)
             if(child.innerHTML.indexOf("[presentation-only]")> -1){
               console.log(child)
               child.classList.add("presentation-only");
@@ -238,6 +237,7 @@
         document.addEventListener("keydown", keyDownTextField, false);
         
         var presentation = false;
+          var presenterMode = false;
         
         function keyDownTextField(e) {
         var keyCode = e.keyCode;
@@ -276,6 +276,10 @@
           presentation = !presentation;
           if(presentation){
             document.body.classList.add("presentation");
+            if(confirm("Open presenter window?")){
+              openPresenterWindow();
+
+            }
           } else {
             document.body.classList.remove("presentation");
           }
@@ -294,7 +298,8 @@
         }
         
         function gotoSlide(slide){
-        window.location.hash = "slide" + slide;
+          window.location.hash = "slide" + slide;
+          presenterWindow.location.hash = "slide" + slide;
         }
         var secondsLeft = 20;
         var pcTimeout;
@@ -337,7 +342,24 @@
           }
         }
 
+        function openPresenterWindow(){
+          if (presenterWindow == null || presenterWindow.closed){
+            presenterWindow = open(window.location.href, '_blank', "width=200,height=100");
+            console.log(presenterWindow);
+            setTimeout(startPresenterMode, 5000);
+          }
+          else {
+            presenterWindow.focus();
+          };
+        }
 
+  
+
+  function startPresenterMode(){
+        presenterWindow.document.body.classList.add("presentation");
+        presenterWindow.document.body.classList.add("presenter-mode");
+      
+  }
         </script>
         
   </body>

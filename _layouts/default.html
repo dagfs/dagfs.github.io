@@ -52,142 +52,165 @@
 
     <script>
 
-        function asHTML(node){
-          var wrap = document.createElement('div');
-          wrap.appendChild(node.cloneNode(true));
-          return wrap.innerHTML;
-        }
-        var currentSlide = 0;
-        var slideCount = 0;
-        var content = document.getElementById("main_content");
-        var newContent = "";
-        var currentSection = "";
-        for(var i = 0; i < content.children.length; i++){
-          const child = content.children[i];
+     var presenterWindow = null;
+      function asHTML(node) {
+        var wrap = document.createElement('div');
+        wrap.appendChild(node.cloneNode(true));
+        return wrap.innerHTML;
+      }
+      var currentSlide = 0;
+      var slideCount = 0;
+      var content = document.getElementById("main_content");
+      var newContent = "";
+      var currentSection = "";
+      for (var i = 0; i < content.children.length; i++) {
+        const child = content.children[i];
 
-          if(["H1", "H2"].includes(content.children[i].nodeName)){
-            console.log(child.innerHTML)
-            if(child.innerHTML.indexOf("[presentation-only]")> -1){
-              console.log(child)
-              child.classList.add("presentation-only");
-              child.innerHTML = child.innerHTML.replace("[presentation-only]", "");
-            }
-            if(currentSection){
-              newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
-              slideCount++
-            }
-            currentSection = asHTML(child) + '\n<div class="slide-body">\n';
-          } else {
-            currentSection += asHTML(child);
+        if (["H1", "H2"].includes(content.children[i].nodeName)) {
+          if (child.innerHTML.indexOf("[presentation-only]") > -1) {
+            console.log(child)
+            child.classList.add("presentation-only");
+            child.innerHTML = child.innerHTML.replace("[presentation-only]", "");
           }
+          if (currentSection) {
+            newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
+            slideCount++
+          }
+          currentSection = asHTML(child) + '\n<div class="slide-body">\n';
+        } else {
+          currentSection += asHTML(child);
         }
-        newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
-              
-        content.innerHTML = newContent;
-        
-        document.addEventListener("keydown", keyDownTextField, false);
-        
-        var presentation = false;
-        
-        function keyDownTextField(e) {
+      }
+      newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
+
+      content.innerHTML = newContent;
+
+      document.addEventListener("keydown", keyDownTextField, false);
+
+      var presentation = false;
+      var presenterMode = false;
+
+      function keyDownTextField(e) {
         var keyCode = e.keyCode;
-          if(keyCode==33 || keyCode==37) {
-            prev()
+        if (keyCode == 33 || keyCode == 37) {
+          prev()
+        }
+        if (keyCode == 34 || keyCode == 39) {
+          next()
+        }
+
+        if (keyCode == 80) {
+          togglePresentation();
+        }
+
+        if (keyCode == 116) {
+          presentation = false;
+          togglePresentation();
+        }
+
+
+        if (keyCode == 27) {
+          presentation = true;
+          togglePresentation();
+        }
+
+
+
+        if (keyCode == 75 || keyCode == 190) {
+          togglePC();
+        }
+      }
+
+      document.onfullscreenchange = togglePresentation;
+
+      function togglePresentation() {
+        presentation = !presentation;
+        if (presentation) {
+          document.body.classList.add("presentation");
+          if (confirm("Open presenter window?")) {
+            openPresenterWindow();
+
           }
-            if(keyCode==34 || keyCode==39) {
-              next()
-            }
-        
-            if(keyCode==80) {
-              togglePresentation();
-            }
-
-            if(keyCode==116){
-              presentation = false;
-              togglePresentation();
-            }
-
-
-            if(keyCode==27){
-              presentation = true;
-              togglePresentation();
-            }
-      
-            
-
-            if(keyCode==75 || keyCode == 190) {
-              togglePC();
-            }
+        } else {
+          document.body.classList.remove("presentation");
         }
+      }
 
-        document.onfullscreenchange = togglePresentation;
-        
-        function togglePresentation(){
-          presentation = !presentation;
-          if(presentation){
-            document.body.classList.add("presentation");
-          } else {
-            document.body.classList.remove("presentation");
-          }
-        }
-        
-        function prev(){
-          currentSlide--;
-          if(currentSlide < 0) currentSlide = 0;
-          gotoSlide(currentSlide);
-        }
-        
-        function next(){
-            currentSlide++;
-            if(currentSlide > slideCount) currentSlide = slideCount;
-            gotoSlide(currentSlide);
-        }
-        
-        function gotoSlide(slide){
+      function prev() {
+        currentSlide--;
+        if (currentSlide < 0) currentSlide = 0;
+        gotoSlide(currentSlide);
+      }
+
+      function next() {
+        currentSlide++;
+        if (currentSlide > slideCount) currentSlide = slideCount;
+        gotoSlide(currentSlide);
+      }
+
+      function gotoSlide(slide) {
         window.location.hash = "slide" + slide;
+        presenterWindow.location.hash = "slide" + slide;
+      }
+      var secondsLeft = 20;
+      var pcTimeout;
+      function togglePC() {
+        toggleTimerVisability();
+        if (!pcTimeout) {
+          runPC()
+        } else {
+          clearTimeout(pcTimeout);
+          pcTimeout = undefined;
         }
-        var secondsLeft = 20;
-        var pcTimeout;
-        function togglePC(){
-          toggleTimerVisability();
-         if(!pcTimeout){
-           runPC()
-         } else {
-           clearTimeout(pcTimeout);
-           pcTimeout = undefined;
-         }
-        }
+      }
 
-        function runPC(){
-          pcTimeout = setTimeout(() => {
-            if(secondsLeft > 1){
-              secondsLeft--;
-              updateTimer();
-              runPC();
-            } else {
-              secondsLeft = 20;
-              updateTimer();
-              if(currentSlide < slideCount){
-                next();
-                runPC();
-              }
-            }
-          }, 1000)
-        }
-
-        function updateTimer(){
-          document.getElementById("timer").innerHTML = secondsLeft;
-        }
-
-        function toggleTimerVisability(){
-          if(document.body.classList.contains("show-timer")){
-            document.body.classList.remove("show-timer");
+      function runPC() {
+        pcTimeout = setTimeout(() => {
+          if (secondsLeft > 1) {
+            secondsLeft--;
+            updateTimer();
+            runPC();
           } else {
-            document.body.classList.add("show-timer");
+            secondsLeft = 20;
+            updateTimer();
+            if (currentSlide < slideCount) {
+              next();
+              runPC();
+            }
           }
+        }, 1000)
+      }
+
+      function updateTimer() {
+        document.getElementById("timer").innerHTML = secondsLeft;
+      }
+
+      function toggleTimerVisability() {
+        if (document.body.classList.contains("show-timer")) {
+          document.body.classList.remove("show-timer");
+        } else {
+          document.body.classList.add("show-timer");
         }
+      }
+
+      function openPresenterWindow() {
+        if (presenterWindow == null || presenterWindow.closed) {
+          presenterWindow = open(window.location.href, '_blank', "width=200,height=100");
+          console.log(presenterWindow);
+          setTimeout(startPresenterMode, 5000);
+        }
+        else {
+          presenterWindow.focus();
+        };
+      }
 
 
+
+      function startPresenterMode() {
+        presenterWindow.document.body.classList.add("presentation");
+        presenterWindow.document.body.classList.add("presenter-mode");
+
+      }
         </script>
         
   </body>
