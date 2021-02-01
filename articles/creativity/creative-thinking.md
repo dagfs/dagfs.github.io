@@ -1,7 +1,5 @@
 # Creative thinking (for developers)
 
-1
-
 Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. 
 I have been trough trough more workshops than I can count on two hands and one foot. 
 Each of the workshops has had multiple warmup exercises and a series of steps to helps us ideate. 
@@ -56,24 +54,28 @@ What we often mean when we say failing, is simply iterating. It often takes a fe
  - adam savage - to create something you have to obsess over it. to show other something you have created puts you in a vounerable position.
  - Learn to be comfortable to kill your babies or let them grow up another way than you imagined. That is why we do what we do in workshops to get comfortable sharing our ideas and learning to build on each other as to rais ideas in a group.
  - You are not your brain - du er ikke tankene dine
-
-## creativity  tools
-
-snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det å bruke ord hjelper, hvordan det å lage flere ideer hjelper
+ - frykt for å tape ansikt
 
 
 ## creative at work
 snakk om hvordan det som produseres på workshops ofte er external input til designere i den kreative prosessen da de lærer masse og tar med det de lærer + det de kan for å lage nye løsninger. 
 
+## creativity  tools
 
- ## Creative thinking is a skill you can cultivate
-
- ## Creative thinking tools
+snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det å bruke ord hjelper, hvordan det å lage flere ideer hjelper
 
  - anchering - start another place
  - come up with 3  to 5 solutions instead of the two one commonly comes upp with
  - concepts - we often limit ourself by thinking of the conecept of our solution to narrowly
  - others
+
+
+
+
+
+
+
+
 
  ## TODO
  - Se igjennom artikkel 

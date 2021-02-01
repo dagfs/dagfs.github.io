@@ -1,0 +1,6 @@
+blockquote{
+    border-left:5px solid #db8;
+    background-color:rgba(255,255,255,.1);
+    padding:5px 5px 5px 20px;
+    margin:10px;
+}
