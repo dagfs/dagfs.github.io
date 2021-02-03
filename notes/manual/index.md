@@ -1,4 +1,4 @@
-#collection of some of liefs puzzle pieces
+# collection of some of liefs puzzle pieces
 
 Life is complicated. This document contains a collection of thoughts, articles and observation of different aspects of life such as [self](#self), [relationships](#relationships), [work](#work).
 

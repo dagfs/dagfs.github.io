@@ -10,6 +10,8 @@
     <link rel="stylesheet" type="text/css" href="../assets/css/article.css"> 
     <link rel="stylesheet" type="text/css" href="../assets/css/frontpage.css"> 
     <link rel="stylesheet" type="text/css" href="../assets/css/presentation.css"> 
+    <link rel="stylesheet"
+      href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
  
     <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet"> 
@@ -34,7 +36,12 @@
         
     <h1 id="creative-thinking-for-developers">Creative thinking (for developers)</h1>
     
-
+<div class="wip">
+  <i class="las la-exclamation-triangle main-icon"></i>
+  <br/>
+  <span class="main"><i class="las la-wrench"></i> This article is under construction.</span> 
+  <br />It's content, structure or url might change without notice or changelog.
+</div>
     
     <p>Over the years I’ve been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations.
       I have been trough trough more workshops than I can count on two hands and one foot.
@@ -199,6 +206,20 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <script>
+      var wip = `<div class="wip">
+                <i class="las la-exclamation-triangle main-icon"></i>
+                <br />
+                <span class="main"><i class="las la-wrench"></i> This article is under construction.</span>
+                <br />It's content, structure or url might change without notice or changelog.
+    </div>`;
+      if (window.location.href.indexOf("wip") > -1) {
+          var wrap = document.createElement('div');
+        wrap.innerHTML = wip;
+        document.getElementById("main_content").prepend(wrap);
+      }
+    </script>
 
     <script>
 var presenterWindow = null;

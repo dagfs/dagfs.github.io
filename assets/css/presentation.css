@@ -5,6 +5,9 @@
     display: none;
     }
     
+    body.presentation .wip{
+      display: none;
+    }
     body.presentation .presentation-only{
     display: block;
     }

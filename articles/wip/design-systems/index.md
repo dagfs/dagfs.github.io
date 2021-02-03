@@ -1,10 +1,19 @@
 # Design system talk
 
+    <link rel="stylesheet"
+      href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+      
+<div>
+<i class="las la-exclamation-triangle"></i>
+</div>
+
 https://github.com/sturobson/Awesome-Design-Tokens
 
 https://www.youtube.com/watch?v=Hx02SaL_IH0
 
 http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/
+
+https://www.youtube.com/watch?v=qaFG5lhibeU&amp;feature=youtu.be
 
 ## Frontend utvikling
 

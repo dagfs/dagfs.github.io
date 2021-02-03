@@ -4,3 +4,21 @@ blockquote{
     padding:5px 5px 5px 20px;
     margin:10px;
 }
+
+.wip{
+    background-color: #db8;
+    color:black;
+    width:80%;
+    text-align: center;
+    padding:20px;
+    margin:10px auto;
+    border:5px dashed lightcyan;
+}
+
+.wip .main{
+    font-size: 25px;
+}
+
+.main-icon{
+    font-size: 50px;
+}
