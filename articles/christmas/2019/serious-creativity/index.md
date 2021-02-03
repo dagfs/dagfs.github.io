@@ -20,12 +20,12 @@ These represent a narrow, incomplete view of creativity and are holding us back.
 <div style="text-align:top;">
 <span style="width:49%; display:inline-block;text-align:top;">
   <h2>Logical Thinking</h2>
-<img style="max-width:100%;" src="https://dagfrode.no/artikler/jul/serious-creativity/logical-thinking.png"/>
+<img style="max-width:100%;" src="./logical-thinking.png"/>
 </span>
 
 <span style="width:49%; display:inline-block;text-align:top;">
   <h2>Creative Thinking</h2>
-<img style="max-width:100%; " src="https://dagfrode.no/artikler/jul/serious-creativity/creative-thinking.png"/>
+<img style="max-width:100%; " src="./creative-thinking.png"/>
 </span>
 </div>
 
