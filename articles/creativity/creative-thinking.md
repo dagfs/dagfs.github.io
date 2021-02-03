@@ -7,22 +7,25 @@
   <br />It's content, structure or url might change without notice or changelog.
 </div>
 
-Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. 
-I have been trough trough more workshops than I can count on two hands and one foot. 
-Each of the workshops has had multiple warmup exercises and a series of steps to helps us ideate. 
-These exercises and steps has not always seemed to make sense and I've hard to embrase them as
+Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. I have been trough trough more workshops than I can count on two hands and one foot. 
+Each of the workshops has had multiple warmup exercises and a series of steps to helps us ideate. These exercises and steps has not always seemed to make sense and I've hard to embrase them as
 I haven't understood them.
 
-Yet I have always had much fun exploring my own ideas and think of myself as creative. Despite this 
-I regularly meet roadblocks that seems to hinder my creativity when I need it the most. Being demotivated, 
-tired, or stressed is some of the situations that seem to be a big hinderance to generating new ideas and solutions.
+Yet I have always had much fun exploring my own ideas and think of myself as creative. Despite this I regularly meet roadblocks that seems to hinder my creativity when I need it the most. Being demotivated, tired, or stressed is some of the situations that seem to be a big hinderance to generating new ideas and solutions.
 
-To better understand my own creativity and creativity at work, I have read and tought a lot about the topic.
-In this article I aim to share what I have learned to help you embrase you creativity, learn to use a series of tools to 
-be creative, and learn a bit about how to collaborate creativly. 
+To better understand my own creativity and creativity at work, I have read and tought a lot about the topic. In this article I aim to share what I have learned to help you embrase you creativity, learn to use a series of tools to be creative, and learn a bit about how to collaborate creativly. 
 
+## What is creative thinking?
+Creative thinking is typically described as the counter to logical, to find the difference, we first need to know a bit about how the brain works. 
+The brain is a self-organizing information system. That is, it collects and organizes information on the fly. Previous knowledge as well and the order of new information affect how this new information is stored.
 
-## Define creativity
+Knowing this shows that our concept of "logical thinking" is fragile. In logical thinking, we start with a problem and navigate the information we have about that problem until we find a solution. This usually is efficient as we have solved similar problems before, but when there are new problems, we might get stuck trying out old solutions or finding no solution at all. 
+
+Creative thinking helps us break free from these patterns and navigate our knowledge in different ways. By using techniques such as "random input" and "provocation" we can change where we start our thinking process and therefore end up with other solutions than we could by thinking about the problem in they way we usually do.
+
+Knowing this does not make you more creative, but it makes the necesity of creativity aperant. It can also help you understand how and why some of the tools often used in creative processes work and to make it easier to put up with what can feel like nonlogical nonscence. 
+
+## Define creativity - usikker på denne delen
 
 Just to make sure we are on the same page, I want to try to explain what I mean 
 when I think of creativity.
@@ -50,8 +53,11 @@ There is a somewhat know quote about creativity by Dilbert creator *Scott Adams*
 Failing is overused and popuralized by Silicon Valley [todo kilde - Adam savage?]. 
 What we often mean when we say failing, is simply iterating. It often takes a few tries to get things right. That does not mean you fail for each iterations. The goal of the first few iterations is simply to learn.
 
-> Creativity is solving a problem trough an iterative process where both the problem and the solutions can evolve. Art is knowing when to stop iterating and what to keep. 
+> Creativity is solving a problem trough an iterative process where both the problem and the solutions evolve. Art is knowing when to stop iterating and what to keep. 
 
+> Creativity is an iterative process where both the problem and the solution evolve resulting in new ideas and solutions. 
+
+As in any iterative process we learn something by participating in it.
 
 ## Embrase you creativity
 
@@ -64,8 +70,14 @@ What we often mean when we say failing, is simply iterating. It often takes a fe
  - frykt for å tape ansikt
 
 
+
+
 ## creative at work
 snakk om hvordan det som produseres på workshops ofte er external input til designere i den kreative prosessen da de lærer masse og tar med det de lærer + det de kan for å lage nye løsninger. 
+
+There is a lot of talk about how to more creative. Most of it discusses how we in daily life inhibit ourself from being creative, with full schedules, lacking confidence in our own ideas, or simply by taking ourself to seriously. In his [Lecture on creativity](https://genius.com/John-cleese-lecture-on-creativity-annotated), John Cleese talks about these factors and how they are neccesarry to achieve in an open state where new ideas can be explored. Edward De Bono simmilary talks about how certain factors inhibits us from being creative and how releasing these factors allowes us to achive our natural level of creativity.
+
+In workshops we spend some time to release these factors. We schedule a time where we work on the problem. We give ourself time to work on the problem during this alocated time. We have a dedicated space and some nurishments. We try to include humor and create a light harthed mood. We let everyone on in the workshop share something they draw or present some ideas related to something completly different to get everyone in the right mood, and to show that it is safe to share, that there is no judging at this point in the process and certenly not of you for proposing ideas. We try to create a trust in the team, to create a snappyness (find ted talk) where the team build on each others ideas till the resulting idea is a combination of many and it is hard to recognice who contributed what. 
 
 ## creativity  tools
 
