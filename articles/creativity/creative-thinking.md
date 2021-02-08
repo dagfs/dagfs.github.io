@@ -53,7 +53,7 @@ Knowing this does not make you more creative, but it makes the necesity of creat
  - You are not your brain - du er ikke tankene dine
  - frykt for å tape ansikt
 
-## Embrase you creativity [presentation]
+## Embrase you creativity [presentation-only]
 > TODO bilde av reveale your toughts
 
 
@@ -67,20 +67,30 @@ snakk om hvordan det som produseres på workshops ofte er external input til des
 There is a lot of talk about how to more creative. Most of it discusses how we in daily life inhibit ourself from being creative, with full schedules, lacking confidence in our own ideas, or simply by taking ourself to seriously. In his [Lecture on creativity](https://genius.com/John-cleese-lecture-on-creativity-annotated), John Cleese talks about these factors and how they are neccesarry to achieve in an open state where new ideas can be explored. Edward De Bono simmilary talks about how certain factors inhibits us from being creative and how releasing these factors allowes us to achive our natural level of creativity.
 
 In workshops we spend some time to release these factors. We schedule a time where we work on the problem. We give ourself time to work on the problem during this alocated time. We have a dedicated space and some nurishments. We try to include humor and create a light harthed mood. We let everyone on in the workshop share something they draw or present some ideas related to something completly different to get everyone in the right mood, and to show that it is safe to share, that there is no judging at this point in the process and certenly not of you for proposing ideas. We try to create a trust in the team, to create a snappyness (find ted talk) where the team build on each others ideas till the resulting idea is a combination of many and it is hard to recognice who contributed what.
-## Time
+## Time[presentation-only]
+### Time
 > todo calendar
-## Time
+
+## Time[presentation-only]
+### Time
 > todo clock
-## Space
+
+## Space[presentation-only]
+### Space
 > todo workspace or space or something
-## Confidence
+
+## Confidence[presentation-only]
+### Confidence
 > sharing your ideas and getting it back developed
-## Humor
+
+## Humor[presentation-only]
+### Humor
 > todo image
 
  
 
-## Double diamond
+## Double diamond[presentation-only]
+### Double diamond
 > todo image
 
 ## Creative thinking tools
@@ -97,9 +107,11 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 
 ## How do they work?[presentation-only]
 > todo image
+
 ## Random input[presentation-only]
 ### Random input
 > todo image
+
 ## Provocation[presentation-only]
 ### Provocation
 > todo image
@@ -107,9 +119,11 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 ## Alternatives[presentation-only]
 ### Alternatives
 > todo image
+
 ## Concepts[presentation-only]
 ### Concepts
 > todo image
+
 ## Call for action[presentation-only]
 ### Call for action
 > todo image
