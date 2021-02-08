@@ -89,7 +89,7 @@ Ideas:
 - Laser tag
 - Sweater
 - Socks
-- Shampo
+- Shampoo
 
 Applying some of these techniques and the knowledge that creativity is just a way of thinking lets us see more solutions and, therefore, often solve problems better. Creativity challenges let us our perceptions, concepts, and boundaries. Our understanding of creativity affects how we use it. Knowing creativity is a skill that can be taught and used in serious situations enhances our options when solving problems. 
 
