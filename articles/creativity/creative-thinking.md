@@ -75,6 +75,9 @@ In workshops we spend some time to release these factors. We schedule a time whe
 ### Time
 > todo clock
 
+<object data="8.svg" type="image/svg+xml">
+</object>
+
 ## Space[presentation-only]
 ### Space
 > todo workspace or space or something
@@ -131,6 +134,7 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 
 
  ## TODO
+ 
  - Se igjennom artikkel 
  - Se igjennom postere
  - Se igjennom john cleese 5 faktorer
