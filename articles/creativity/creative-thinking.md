@@ -78,6 +78,9 @@ In workshops we spend some time to release these factors. We schedule a time whe
 <object data="8.svg" type="image/svg+xml">
 </object>
 
+<object data="test.svg" type="image/svg+xml">
+</object>
+
 ## Space[presentation-only]
 ### Space
 > todo workspace or space or something
