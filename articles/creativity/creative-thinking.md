@@ -70,20 +70,21 @@ In workshops we spend some time to release these factors. We schedule a time whe
 ## Time[presentation-only]
 ### Time
 > todo calendar
+<object data="time_calendar.svg" type="image/svg+xml">
+</object>
 
 ## Time[presentation-only]
 ### Time
 > todo clock
 
-<object data="8.svg" type="image/svg+xml">
-</object>
 
-<object data="test.svg" type="image/svg+xml">
-</object>
 
 ## Space[presentation-only]
 ### Space
 > todo workspace or space or something
+
+<object data="space.svg" type="image/svg+xml">
+</object>
 
 ## Confidence[presentation-only]
 ### Confidence
@@ -98,6 +99,8 @@ In workshops we spend some time to release these factors. We schedule a time whe
 ## Double diamond[presentation-only]
 ### Double diamond
 > todo image
+<object data="double_diamond.svg" type="image/svg+xml">
+</object>
 
 ## Creative thinking tools
 > todo image
@@ -118,13 +121,22 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 ### Random input
 > todo image
 
+<object data="random.svg" type="image/svg+xml">
+</object>
+
 ## Provocation[presentation-only]
 ### Provocation
 > todo image
 
+<object data="provocation.svg" type="image/svg+xml">
+</object>
+
 ## Alternatives[presentation-only]
 ### Alternatives
 > todo image
+
+<object data="alternatives.svg" type="image/svg+xml">
+</object>
 
 ## Concepts[presentation-only]
 ### Concepts
