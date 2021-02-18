@@ -47,8 +47,6 @@
     display:none;
     } 
     
-   
-    
     
     body.presentation #footer_wrap{
     display:none;
@@ -71,21 +69,15 @@
 body.presentation h3, body.presentation h4, body.presentation h5{
     display:none;
       }
-      object{
-        max-width: 100%;
-        max-height: 80vh;
-      }     
+    
       
       body.presentation object{
-        max-height: 100%;
         max-width: 100%;
+    max-height: 80vh;
         margin:0 auto;
       }     
       
-    body.presentation .slide-body{
-        display: inline-block;
-        padding:10px;
-    }
+  
       
     body.presentation table, body.presentation ul{
         display: none;
