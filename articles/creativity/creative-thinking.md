@@ -41,9 +41,15 @@ Knowing this does not make you more creative, but it makes the necesity of creat
 
 > TODO
 
+<object data="chair.svg" type="image/svg+xml">
+</object>
+
 ## Embrase you creativity
 
 > TODO Image of kill your babies
+
+<object data="grow.svg" type="image/svg+xml">
+</object>
 
  - vounerability
  - im not creative
