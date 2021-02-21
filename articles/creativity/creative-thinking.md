@@ -62,10 +62,15 @@ Knowing this does not make you more creative, but it makes the necesity of creat
 ## Embrase you creativity [presentation-only]
 > TODO bilde av reveale your toughts
 
+<object data="curtain.svg" type="image/svg+xml">
+</object>
 
 ## creative at work
 
 > TODO image of creative is a process,  release preasure to be your natural creative self
+
+ <object data="pressure.svg" type="image/svg+xml">
+</object>
 
 snakk om hvordan det som produseres på workshops ofte er external input til designere i den kreative prosessen da de lærer masse og tar med det de lærer + det de kan for å lage nye løsninger. 
 
@@ -83,7 +88,8 @@ In workshops we spend some time to release these factors. We schedule a time whe
 ### Time
 > todo clock
 
-
+<object data="time.svg" type="image/svg+xml">
+</object>
 
 ## Space[presentation-only]
 ### Space
@@ -96,11 +102,15 @@ In workshops we spend some time to release these factors. We schedule a time whe
 ### Confidence
 > sharing your ideas and getting it back developed
 
+ <object data="confidence.svg" type="image/svg+xml">
+</object>
+
 ## Humor[presentation-only]
 ### Humor
 > todo image
 
- 
+ <object data="well_in_that_case.svg" type="image/svg+xml">
+</object>
 
 ## Double diamond[presentation-only]
 ### Double diamond
@@ -110,6 +120,9 @@ In workshops we spend some time to release these factors. We schedule a time whe
 
 ## Creative thinking tools
 > todo image
+
+ <object data="tools.svg" type="image/svg+xml">
+</object>
 
 snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det å bruke ord hjelper, hvordan det å lage flere ideer hjelper
 
@@ -126,6 +139,9 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 ## Random input[presentation-only]
 ### Random input
 > todo image
+
+<object data="die.svg" type="image/svg+xml">
+</object>
 
 <object data="random.svg" type="image/svg+xml">
 </object>
