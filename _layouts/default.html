@@ -165,8 +165,9 @@
       }
 
       function gotoSlide(slide) {
-        window.location.hash = "slide" + slide;
         if(presenterWindow) presenterWindow.location.hash = "slide" + slide;
+        window.location.hash = "slide" + slide;
+
       }
       var secondsLeft = 20;
       var pcTimeout;
