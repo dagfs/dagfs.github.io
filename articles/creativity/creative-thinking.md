@@ -18,7 +18,6 @@ Yet I have always had much fun exploring my own ideas and think of myself as cre
 To better understand my own creativity and creativity at work, I have read and tought a lot about the topic. In this article I aim to share what I have learned to help you embrase you creativity, learn to use a series of tools to be creative, and learn a bit about how to collaborate creativly. 
 
 ## What is creative thinking?
-> TODO brain
 
 <object data="brain.svg" type="image/svg+xml">
 </object>
@@ -26,7 +25,6 @@ To better understand my own creativity and creativity at work, I have read and t
 Creative thinking is typically described as the counter to logical, to find the difference, we first need to know a bit about how the brain works. 
 
 ## What is creative thinking? [presentation-only]
-> TODO locial brain
 
 <object data="low-creativity.svg" type="image/svg+xml">
 </object>
@@ -37,7 +35,6 @@ Knowing this shows that our concept of "logical thinking" is fragile. In logical
 
 
 ## What is creative thinking? [presentation-only]
-> TODO creative brain
 
 <object data="creativity.svg" type="image/svg+xml">
 </object>
@@ -48,14 +45,10 @@ Knowing this does not make you more creative, but it makes the necesity of creat
 
 ## Why is creative thinking important?
 
-> TODO
-
 <object data="chair.svg" type="image/svg+xml">
 </object>
 
 ## Embrase you creativity
-
-> TODO Image of kill your babies
 
 <object data="grow.svg" type="image/svg+xml">
 </object>
@@ -69,14 +62,12 @@ Knowing this does not make you more creative, but it makes the necesity of creat
  - frykt for å tape ansikt
 
 ## Embrase you creativity [presentation-only]
-> TODO bilde av reveale your toughts
+
 
 <object data="curtain.svg" type="image/svg+xml">
 </object>
 
 ## creative at work
-
-> TODO image of creative is a process,  release preasure to be your natural creative self
 
  <object data="pressure.svg" type="image/svg+xml">
 </object>
@@ -89,46 +80,44 @@ There is a lot of talk about how to more creative. Most of it discusses how we i
 In workshops we spend some time to release these factors. We schedule a time where we work on the problem. We give ourself time to work on the problem during this alocated time. We have a dedicated space and some nurishments. We try to include humor and create a light harthed mood. We let everyone on in the workshop share something they draw or present some ideas related to something completly different to get everyone in the right mood, and to show that it is safe to share, that there is no judging at this point in the process and certenly not of you for proposing ideas. We try to create a trust in the team, to create a snappyness (find ted talk) where the team build on each others ideas till the resulting idea is a combination of many and it is hard to recognice who contributed what.
 ## Time[presentation-only]
 ### Time
-> todo calendar
+
 <object data="time_calendar.svg" type="image/svg+xml">
 </object>
 
 ## Time[presentation-only]
 ### Time
-> todo clock
+
 
 <object data="time.svg" type="image/svg+xml">
 </object>
 
 ## Space[presentation-only]
 ### Space
-> todo workspace or space or something
 
 <object data="space.svg" type="image/svg+xml">
 </object>
 
 ## Confidence[presentation-only]
 ### Confidence
-> sharing your ideas and getting it back developed
+
 
  <object data="confidence.svg" type="image/svg+xml">
 </object>
 
 ## Humor[presentation-only]
 ### Humor
-> todo image
+
 
  <object data="well_in_that_case.svg" type="image/svg+xml">
 </object>
 
 ## Double diamond[presentation-only]
 ### Double diamond
-> todo image
+
 <object data="double_diamond.svg" type="image/svg+xml">
 </object>
 
 ## Creative thinking tools
-> todo image
 
  <object data="tools.svg" type="image/svg+xml">
 </object>
@@ -143,42 +132,39 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 
 
 ## How do they work?[presentation-only]
-> todo image
 
 <object data="creativity.svg" type="image/svg+xml">
 </object>
 
 ## Random input[presentation-only]
 ### Random input
-> todo image
 
 <object data="die.svg" type="image/svg+xml">
 </object>
 
 ## Provocation[presentation-only]
 ### Provocation
-> todo image
 
 <object data="provocation.svg" type="image/svg+xml">
 </object>
 
 ## Alternatives[presentation-only]
 ### Alternatives
-> todo image
+
 
 <object data="alternatives.svg" type="image/svg+xml">
 </object>
 
 ## Concepts[presentation-only]
 ### Concepts
-> todo image
+
 
 <object data="concepts.svg" type="image/svg+xml">
 </object>
 
 ## Call for action[presentation-only]
 ### Call for action
-> todo image
+
 
 
 
