@@ -20,10 +20,16 @@ To better understand my own creativity and creativity at work, I have read and t
 ## What is creative thinking?
 > TODO brain
 
+<object data="brain.svg" type="image/svg+xml">
+</object>
+
 Creative thinking is typically described as the counter to logical, to find the difference, we first need to know a bit about how the brain works. 
 
 ## What is creative thinking? [presentation-only]
 > TODO locial brain
+
+<object data="low-creativity.svg" type="image/svg+xml">
+</object>
 
 The brain is a self-organizing information system. That is, it collects and organizes information on the fly. Previous knowledge as well and the order of new information affect how this new information is stored.
 
@@ -32,6 +38,9 @@ Knowing this shows that our concept of "logical thinking" is fragile. In logical
 
 ## What is creative thinking? [presentation-only]
 > TODO creative brain
+
+<object data="creativity.svg" type="image/svg+xml">
+</object>
 
 Creative thinking helps us break free from these patterns and navigate our knowledge in different ways. By using techniques such as "random input" and "provocation" we can change where we start our thinking process and therefore end up with other solutions than we could by thinking about the problem in they way we usually do.
 
@@ -136,14 +145,14 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 ## How do they work?[presentation-only]
 > todo image
 
+<object data="creativity.svg" type="image/svg+xml">
+</object>
+
 ## Random input[presentation-only]
 ### Random input
 > todo image
 
 <object data="die.svg" type="image/svg+xml">
-</object>
-
-<object data="random.svg" type="image/svg+xml">
 </object>
 
 ## Provocation[presentation-only]
@@ -164,6 +173,9 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 ### Concepts
 > todo image
 
+<object data="concepts.svg" type="image/svg+xml">
+</object>
+
 ## Call for action[presentation-only]
 ### Call for action
 > todo image
@@ -179,4 +191,7 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
  - Lese i de bono creatvite work
  - hackers and painters
  - 6 thinking hats
+ - edward de bono - john cleese - https://www.youtube.com/watch?v=Pb5oIIPO62g
+ - questlove book https://www.amazon.com/Creative-Quest-Questlove/dp/0062670557
+ - questlove talk - https://www.youtube.com/watch?v=tMmzHvcuCTc
   
