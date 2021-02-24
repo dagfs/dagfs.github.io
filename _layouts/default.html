@@ -68,7 +68,8 @@
 
     <script>
 
-     var presenterWindow = null;
+    
+      var presenterWindow = null;
       function asHTML(node) {
         var wrap = document.createElement('div');
         wrap.appendChild(node.cloneNode(true));
@@ -165,8 +166,14 @@
       }
 
       function gotoSlide(slide) {
-        if(presenterWindow) presenterWindow.location.hash = "slide" + slide;
-        window.location.hash = "slide" + slide;
+        if (presenterWindow) presenterWindow.location.hash = "slide" + slide;
+        setTimeout(
+          () => {
+            window.location.hash = "slide" + slide;
+
+          }
+          , 100
+        )
 
       }
       var secondsLeft = 20;
