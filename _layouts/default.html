@@ -110,9 +110,11 @@
       function keyDownTextField(e) {
         var keyCode = e.keyCode;
         if (keyCode == 33 || keyCode == 37) {
+          e.preventDefault();
           prev()
         }
         if (keyCode == 34 || keyCode == 39) {
+          e.preventDefault();
           next()
         }
 
