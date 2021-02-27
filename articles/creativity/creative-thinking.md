@@ -165,7 +165,8 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 
 ## Call for action[presentation-only]
 ### Call for action
-
+<object data="books.svg" type="image/svg+xml">
+</object>
 
 
 
