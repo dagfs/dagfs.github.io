@@ -1,6 +1,6 @@
-# Creative thinking (for developers)
+# It doesn't hurt to be creative
 
-# Creative thinking <br/>(for developers) [presentation-only]
+# Creative Thinking [presentation-only]
 
 <div class="wip">
   <i class="las la-exclamation-triangle main-icon"></i>
@@ -48,7 +48,9 @@ Knowing this does not make you more creative, but it makes the necesity of creat
 <object data="chair.svg" type="image/svg+xml">
 </object>
 
-## Embrase you creativity
+
+# Creativity's demands [presentation-only]
+## Embrace you creativity
 
 <object data="grow.svg" type="image/svg+xml">
 </object>
@@ -61,7 +63,7 @@ Knowing this does not make you more creative, but it makes the necesity of creat
  - You are not your brain - du er ikke tankene dine
  - frykt for å tape ansikt
 
-## Embrase you creativity [presentation-only]
+## Embrace you creativity [presentation-only]
 
 
 <object data="curtain.svg" type="image/svg+xml">
@@ -117,7 +119,7 @@ In workshops we spend some time to release these factors. We schedule a time whe
 <object data="double_diamond.svg" type="image/svg+xml">
 </object>
 
-## Creative thinking tools
+# Tools [presentation-only]
 
  <object data="tools.svg" type="image/svg+xml">
 </object>
@@ -180,4 +182,6 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
  - edward de bono - john cleese - https://www.youtube.com/watch?v=Pb5oIIPO62g
  - questlove book https://www.amazon.com/Creative-Quest-Questlove/dp/0062670557
  - questlove talk - https://www.youtube.com/watch?v=tMmzHvcuCTc
-  
+  - legge in lekner til en rekke bøker, de bono, adam savage, richard feynman, letters to a young poet,
+  - legge inn lenker til en rekke ted talks, adam grant, sir richard, søk på kreativitet
+  - legge inn lenker til ted radio hour, worklife, design matters, john cleese intervju
