@@ -121,8 +121,7 @@ In workshops we spend some time to release these factors. We schedule a time whe
 
 # Tools [presentation-only]
 
- <object data="tools.svg" type="image/svg+xml">
-</object>
+
 
 snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det å bruke ord hjelper, hvordan det å lage flere ideer hjelper
 
