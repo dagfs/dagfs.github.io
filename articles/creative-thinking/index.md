@@ -48,6 +48,12 @@ Knowing this does not make you more creative, but it makes the necesity of creat
 <object data="chair.svg" type="image/svg+xml">
 </object>
 
+## Double diamond[presentation-only]
+### Double diamond
+
+<object data="double_diamond.svg" type="image/svg+xml">
+</object>
+
 
 # Creativity's demands [presentation-only]
 ## Embrace you creativity
@@ -113,11 +119,7 @@ In workshops we spend some time to release these factors. We schedule a time whe
  <object data="well_in_that_case.svg" type="image/svg+xml">
 </object>
 
-## Double diamond[presentation-only]
-### Double diamond
 
-<object data="double_diamond.svg" type="image/svg+xml">
-</object>
 
 # Tools [presentation-only]
 
@@ -169,6 +171,21 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 </object>
 
 
+## Sources
+
+### TED talks
+
+- https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity
+- https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers
+
+### Podcasts
+
+#### Worklife
+https://www.ted.com/series/worklife_with_adam_grant
+
+#### TED Radio Hour
+
+#### Design Matters 
 
  ## TODO
  
