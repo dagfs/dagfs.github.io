@@ -74,7 +74,7 @@ body.presentation h3, body.presentation h4, body.presentation h5{
       body.presentation object{
         max-width: 50%;
     max-height: 50vh;
-        margin:5% auto;
+        margin:5% 25%;
       }    
       
         body.presentation-mode object{
