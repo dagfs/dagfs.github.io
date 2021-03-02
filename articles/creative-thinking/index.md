@@ -56,7 +56,7 @@ Knowing this does not make you more creative, but it makes the necesity of creat
 
 
 # Creativity's demands [presentation-only]
-## Embrace you creativity
+## Embrace your creativity
 
 <object data="grow.svg" type="image/svg+xml">
 </object>
@@ -69,7 +69,7 @@ Knowing this does not make you more creative, but it makes the necesity of creat
  - You are not your brain - du er ikke tankene dine
  - frykt for å tape ansikt
 
-## Embrace you creativity [presentation-only]
+## Embrace your creativity [presentation-only]
 
 
 <object data="curtain.svg" type="image/svg+xml">
@@ -173,32 +173,38 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 
 ## Sources
 
+### Scientific articles
+
+- Robust prediction of individual creative ability from brain functional connectivity - https://www.pnas.org/content/115/5/1087.short
+
+### Articles
+
+- John Cleese - on creativity - https://genius.com/John-cleese-lecture-on-creativity-annotated
+
+### Books
+
+- Edward De Bono - Serious Creativity
+- Adam Savage - Every tool is a hammer
+- Richard Feynman - Surly you are joking Mr. Feynman
+
 ### TED talks
 
-- https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity
-- https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers
+- Sir Ken Robinson - Do school kill creativity? - https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity
+- Adam Grant - The surprising habit of original thinkers - https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers
 
 ### Podcasts
 
-#### Worklife
-https://www.ted.com/series/worklife_with_adam_grant
+#### Worklife with Adam Grant
+
+- The daily's show secret to creativity - https://www.ted.com/talks/worklife_with_adam_grant_the_daily_show_s_secret_to_creativity
+- The creative power of misfits - https://www.ted.com/talks/worklife_with_adam_grant_the_creative_power_of_misfits
 
 #### TED Radio Hour
 
+- Jumpstarting creativity - https://www.npr.org/programs/ted-radio-hour/719553183/jumpstarting-creativity
+- The source of creativity - https://www.npr.org/programs/ted-radio-hour/351538855/the-source-of-creativity
+
 #### Design Matters 
 
- ## TODO
- 
- - Se igjennom artikkel 
- - Se igjennom postere
- - Se igjennom john cleese 5 faktorer
- - se https://www.ted.com/playlists/20/where_do_ideas_come_from
- - Lese i de bono creatvite work
- - hackers and painters
- - 6 thinking hats
- - edward de bono - john cleese - https://www.youtube.com/watch?v=Pb5oIIPO62g
- - questlove book https://www.amazon.com/Creative-Quest-Questlove/dp/0062670557
- - questlove talk - https://www.youtube.com/watch?v=tMmzHvcuCTc
-  - legge in lekner til en rekke bøker, de bono, adam savage, richard feynman, letters to a young poet,
-  - legge inn lenker til en rekke ted talks, adam grant, sir richard, søk på kreativitet
-  - legge inn lenker til ted radio hour, worklife, design matters, john cleese intervju
+- Seth Godin - The practice - https://www.designmattersmedia.com/podcast/2020/Seth-Godin
+
