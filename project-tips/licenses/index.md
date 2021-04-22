@@ -31,7 +31,7 @@ Run `license-checker --summary` to get an overview.
 Make a licenses.md that descibes the projects stance on license use.
 
 Make a check-license.sh file with
-`license-checker --onlyAllow [<licenses you find well suited for your project>]`
+`license-checker --onlyAllow '<licenses you find well suited for your project - separated by ; as some licenses include ,>'`
 
 Make it part of your build and add it to your package.json.
 
