@@ -39,4 +39,4 @@ If any of the libraries you use voiolates your stance. make a decision and docum
 
 ### Example files:
 - [licenses.md](licenses.md)
-- [check-licenses.sh](check-licenses.md)
+- [check-licenses.sh](check-licenses.sh)
