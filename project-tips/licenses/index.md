@@ -5,7 +5,7 @@
 - If you follow the intention of the creator of the licnsed work you are using your are probably ok. Do not try to avoid paying by using loopholes.
 - Licenses such as ISC, Apache, CC, MIT and BSD, are liberal and prevents you from suing the creator if something goes wrong, but restricts you as a user very little in other regards.
 - If you need a license for your project https://choosealicense.com/ or https://tldrlegal.com/ can help you figure out what you need
-- $ What does no license imply?
+
 
 ## Things to do
 - Use a licence checker and look trough the licenses of the licensed work your project is based on. 
@@ -40,3 +40,21 @@ If any of the libraries you use voiolates your stance. make a decision and docum
 ### Example files:
 - [licenses.md](licenses.md)
 - [check-licenses.sh](check-licenses.sh)
+
+
+### TODO
+Id like to get a better understanding of the licenses available on github so it can be easy to pick a license for a project.
+
+https://ufal.github.io/public-license-selector/
+
+- $ What does no license imply? - Ulisensiert betyr "har ikke fått rettigheter til å bruke til noe formål"
+
+https://opensource.christmas/2019/18
+
+
+contribution
+https://files.slack.com/files-pri/T028UJTLQ-F01V0T4LG13/image.png
+https://files.slack.com/files-pri/T028UJTLQ-F01VA4VJKPW/image.png
+https://files.slack.com/files-pri/T028UJTLQ-F01VA51196Y/screenshot_20210422_120726_no.finn.android.jpg
+
+egen side med: “vi bruker lodash som er MIT lisensiert”

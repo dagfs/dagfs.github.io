@@ -7,14 +7,5 @@ The tips will still require you to do the work as I can sadly not bootstrap ting
 
 
 
-
-
-
-
-
-### TODO
-Id like to get a better understanding of the licenses available on github so it can be easy to pick a license for a project.
-
-
 ## Conceptual model
 
