@@ -1,5 +1,10 @@
 # It doesn't hurt to be creative
 
+# TODO
+1. snakk om iterasjon under double diamond
+2. snakk om at alt er en remix av ideer under hvorfor vi trenger alles input siden vi har konsumert forskjellige ting
+3. start med å si at jobben vår er kreativ og at for å gjøre den godt har vi behov for at alle bidrar i kreative prosesser. Det er ikke ansvaret til design
+
 # Creative Thinking [presentation-only]
 
 <div class="wip">

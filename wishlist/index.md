@@ -19,13 +19,11 @@ Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret h
 - self reliance - ralph waldo
 - tankevirus
 - filesofi
+ - Enten eller - https://www.amazon.com/Either-Fragment-Life-Penguin-Classics-ebook/dp/B002RI9D24/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1615387667&sr=8-3
 
 ## Ting jeg har lyst på
 
-- [Co2 sensor](https://www.banggood.com/no/MH-Z19B-Infrared-CO2-Sensor-For-CO2-Monitor-NDIR-Gas-Sensor-CO2-Gas-Sensor-0-5000PPM-p-1248315.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=NO&utm_content=minha&utm_campaign=minha-no-no-pc&currency=NOK&createTmp=1&utm_source=googleshopping&utm_medium=cpc_union&utm_content=xibei&utm_campaign=xibei-ssc-no-all-0302&ad_id=337428064977&gclid=Cj0KCQiA7qP9BRCLARIsABDaZzgAmqGAow7fTf_A7_RD0_B44c9bZODgpTLQ8chv8WOME9M1-VoeSDQaAlVXEALw_wcB&cur_warehouse=CN) - ~300
-- [Munn til munn duk](https://www.boots.no/product/facemask-munn-til-munn-maske-1-stk-produkt8
-
-
+- sovepose - dun - 187cm - lett - -10 - 0 for bruk på speidertur. har en for plussgrader og en for minus så trenger noe som fungerer godt når det er litt kaldt men ikke veldig
 
 ## Ting jeg kan tenke meg en dag
 - Remarkable - 6000 nok

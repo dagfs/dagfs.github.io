@@ -9,3 +9,4 @@ The tips will still require you to do the work as I can sadly not bootstrap ting
 
 ## Conceptual model
 
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
