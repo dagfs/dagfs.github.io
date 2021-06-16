@@ -1,7 +1,7 @@
 # Ferdigpakket kode i kommersielle prosjekter
 
 <img src="
-https://source.unsplash.com/KV1Co7gZ_VU/800x350" />
+https://source.unsplash.com/KV1Co7gZ_VU/700x350" />
 Bilde av [Inesa Cebanu](https://unsplash.com/photos/KV1Co7gZ_VU) på [Unsplash](https://unsplash.com/)
   
 
@@ -14,7 +14,7 @@ I 2018 tok "left shark" internett med storm. Fenomenet varte en ukes tid før de
 w=1226&h=400&fit=crop&crop=edges
 
 <img src="
-https://source.unsplash.com/Vqg809B-SrE/800x350?fit=crop&crop=edges" />
+https://source.unsplash.com/Vqg809B-SrE/700x350?fit=crop&crop=edges" />
 Bilde av [Jackson Simmer](https://unsplash.com/photos/Vqg809B-SrE) på [Unsplash](https://unsplash.com/)
 
 "left-pad" ble en vekker for mange og det kom mange gode og nyttige diskusjoner ut av hendelsen. 5 år senere prøver jeg fremdeles å tenke på hendelsen når jeg skal ta inn avhengigheter i prosjektene jeg jobber på. Vi skal derfor se på når det gir mening å introdusere nye avhengigheter. Hvilke avhengigheter vi ønsker i prosjektene våre. Og hvordan ta avhengigheter på prosjektet.
@@ -24,7 +24,7 @@ Artikkelen tar for seg JavaScript og NPM, men tankene i artikkelen gjelder uavha
 ## Når skal vi bruke biblioteker og rammeverk?
 
 <img src="
-https://images.unsplash.com/photo-1591588582259-e675bd2e6088?fit=crop&fm=jpg&h=350&w=800&crop=faces" />
+https://images.unsplash.com/photo-1591588582259-e675bd2e6088?fit=crop&fm=jpg&h=350&w=700&crop=faces" />
 Bilde av [Mark Potterton](https://unsplash.com/photos/sNVkn3507Oo) på [Unsplash](https://unsplash.com/)
 
 
@@ -33,23 +33,24 @@ Alle prosjekter kan ha nytte av å ta ibruk biblioteker og rammeverk. Spørsmål
 
 Brukt derfor gjerne tid på starten av et prosjekt. Eller når dere først blir oppmerksomme på det til å tenke igjennom og diskuter når dere skal ta inn nye avhengigheter. Opprett gjerne en seksjon i README eller en egen fil for å beskrive bruken av avhengigheter på prosjektet. Hukommelsen vår er dårligere en vi ønsker. Ting vi besluttet for 2 uker siden kunne ofte vært besluttet av andre. Det kan godt være at det er andre som kommer inn på prosjektet etter at besluttninger er gjort som også trenger å vite hva prosjektet har besluttet.
 
-_Har vi alt løst dette problemet i prosjektet?_, er det neste spørsmålet en bør stille seg selv. Hvem har ikke vært på et prosjekt med 2 PDF biblioteker eller 2 nesten identiske implementasjoner av den samme koden, som egentlig skulle vært den samme koden? Her får en svaret raskest om en spør teamet en jobber med. 
+**Har vi alt løst dette problemet i prosjektet?** Er det neste spørsmålet en bør stille seg selv. Hvem har ikke vært på et prosjekt med 2 PDF biblioteker eller 2 nesten identiske implementasjoner av den samme koden, som egentlig skulle vært den samme koden? Her får en svaret raskest om en spør teamet en jobber med. 
 
-_Hvor stort er problemet?_, eller _Hvor lang tid tar det å løse problemet selv?_ Ofte er problemer vi skal løse større enn vi tenker. Stack Overflow og internett generelt inneholder også utallige forslag til løsninger en kan basere seg på. Hvis det du skal løse er et problem du synes er spennende og du virkelig har lyst til å løse det selv, kan det gi mening å lage løsningen selv. [Paul Graham skriver i en artikkel om hva som motiverer oss på jobb og argumenterer at det gir mening å løse ting selv fra tid til annen hvis det gir økt eierskap og motivasjon i prosjektet](http://www.paulgraham.com/own.html). En time er tross alt ikke en time i programvareutvikling.
-
-
-
-
-_Vil det koste oss mer å løse dette selv, eller koster det mer å prøve å ta ibruk andres kode?_ Det er lett å tenke at jo mer kode en skriver selv desto mer kode er det å vedlikeholde, og at det derfor er bedre å skrive mindre selv og bruke kode andre har skrevet. I noen tilfeller er dette definitivt sant. Biblioteker som har med kart, tid og datoer er etter min mening uunværlige. Det er så mange spesialtilfeller at det vil koste mye å løse alle selv. Men for andre problemer vil arbeidet med å oppgradere pakker, passer på at det ikke er store sårbarheter i avhengighetene en bruker og annet arbeide knyttet til det å vedlikeholde bruk avhengigheter for spise opp mye tid.  
+**Hvor stort er problemet?** Eller 
+**Hvor lang tid tar det å løse problemet selv?** Ofte er problemer vi skal løse større enn vi tenker. Stack Overflow og internett generelt inneholder også utallige forslag til løsninger en kan basere seg på. Hvis det du skal løse er et problem du synes er spennende og du virkelig har lyst til å løse det selv, kan det gi mening å lage løsningen selv. [Paul Graham skriver i en artikkel om hva som motiverer oss på jobb og argumenterer at det gir mening å løse ting selv fra tid til annen hvis det gir økt eierskap og motivasjon i prosjektet](http://www.paulgraham.com/own.html). En time er tross alt ikke en time i programvareutvikling.
 
 
-_Vil det være nyttig for oss å ha kontroll på denne koden?_ Enkelte deler av koden i et prosjekt er så viktige for et prosjekt at det gir mening å utvikle den selv. 
+
+
+**Vil det koste oss mer å løse dette selv, eller koster det mer å prøve å ta ibruk andres kode?** Det er lett å tenke at jo mer kode en skriver selv desto mer kode er det å vedlikeholde, og at det derfor er bedre å skrive mindre selv og bruke kode andre har skrevet. I noen tilfeller er dette definitivt sant. Biblioteker som har med kart, tid og datoer er etter min mening uunværlige. Det er så mange spesialtilfeller at det vil koste mye å løse alle selv. Men for andre problemer vil arbeidet med å oppgradere pakker, passer på at det ikke er store sårbarheter i avhengighetene en bruker og annet arbeide knyttet til det å vedlikeholde bruk avhengigheter for spise opp mye tid.  
+
+
+**Vil det være nyttig for oss å ha kontroll på denne koden?** Enkelte deler av koden i et prosjekt er så viktige for et prosjekt at det gir mening å utvikle den selv. 
 
 <img src="
-https://images.unsplash.com/photo-1516659257916-7be846591235?fit=crop&fm=jpg&h=350&w=800&crop=faces" />
+https://images.unsplash.com/photo-1516659257916-7be846591235?fit=crop&fm=jpg&h=350&w=700&crop=faces" />
 Bilde av [Rupert Britton](https://unsplash.com/photos/l37N7a1lL6w) på [Unsplash](https://unsplash.com/)
 
-_Passer denne koden inn i prosjektet?_ Kodestilen på prosjektet er viktig å tenke på. Hvis alt i prosjeket er skrevet på en synkron måte, vil det å ta inn et usynkront bibliotek rote til flyte i prosjektet. Tenk derfor igjennom om måten en kommunuserer med biblioteket passer med kodestilen i prosjektet eller om det er lett å pakke det inn så det gjør det.
+**Passer denne koden inn i prosjektet?** Kodestilen på prosjektet er viktig å tenke på. Hvis alt i prosjeket er skrevet på en synkron måte, vil det å ta inn et usynkront bibliotek rote til flyte i prosjektet. Tenk derfor igjennom om måten en kommunuserer med biblioteket passer med kodestilen i prosjektet eller om det er lett å pakke det inn så det gjør det.
 
 
 
@@ -58,32 +59,30 @@ _Passer denne koden inn i prosjektet?_ Kodestilen på prosjektet er viktig å te
 Vi har altså kommet frem til at hva enn det er vi skal løse, løses best ved hjelp av en avhengighet. Da er det viktig at vi setter oss kriterier for hvilke avhengigheter vi ønsker å bruke. La oss ser på noen av faktorene det vil være lurt å tenke igjennom.
 
 <img src="
-https://source.unsplash.com/HZrYYi6Orgg/800x350?fit=crop&crop=edges" />
+https://source.unsplash.com/HZrYYi6Orgg/700x350?fit=crop&crop=edges" />
 Bilde av [Alexander Schimmeck](https://unsplash.com/photos/HZrYYi6Orgg) på [Unsplash](https://unsplash.com/)
 
-_Hvor mange bruker den?_ Den enkleste metrikken å se på er hvor mange som bruker et bibliotek. Mange avhengigheter og nedlastninger føles sikkert. Andre bruker det så da er det har det en hvis kvalitet. Denne faktoren er i seg selv ikke nok. "left-pad" har 3,5 millioner ukentlige nedlastninger. Dette er en pakke som skal fases ut. Mange nedlastninger tyder derfor på mange prosjekter som ikke har oversikt over avhengighetene sine og er reaktive fremfor proaktive. Lavt antall ukentlige nedlastninger betyr ikke at pakken er dårlig. Men hvis en har mulighet til å bruke en mye brukt pakke gjør en gjerne det. Utforsk heller i private prosjekter som ikke er like viktige som de prosjektene du sitter på på jobb.
+**Hvor mange bruker den?** Den enkleste metrikken å se på er hvor mange som bruker et bibliotek. Mange avhengigheter og nedlastninger føles sikkert. Andre bruker det så da er det har det en hvis kvalitet. Denne faktoren er i seg selv ikke nok. "left-pad" har 3,5 millioner ukentlige nedlastninger. Dette er en pakke som skal fases ut. Mange nedlastninger tyder derfor på mange prosjekter som ikke har oversikt over avhengighetene sine og er reaktive fremfor proaktive. Lavt antall ukentlige nedlastninger betyr ikke at pakken er dårlig. Men hvis en har mulighet til å bruke en mye brukt pakke gjør en gjerne det. Utforsk heller i private prosjekter som ikke er like viktige som de prosjektene du sitter på på jobb.
 
-_Når ble det oppdatert sist?_ mange nedlastninger betyr lite om pakken ikke blir vedlikeholdt. Noen pakker endrer seg lite over tid, men det er få pakker som ikke kan forbedres ved gjevne mellomrom. Hvis pakken du skal ta inn er veldig retta mot rammeverk eller noe annet som oppdateres hyppig og det er lenge siden pakken ble oppdatert er det et tegn på at pakken ikke vedlikeholdes så godt som det vi ønsker av pakker vi bruker i prosjektene våre. 
+**Når ble det oppdatert sist?** mange nedlastninger betyr lite om pakken ikke blir vedlikeholdt. Noen pakker endrer seg lite over tid, men det er få pakker som ikke kan forbedres ved gjevne mellomrom. Hvis pakken du skal ta inn er veldig retta mot rammeverk eller noe annet som oppdateres hyppig og det er lenge siden pakken ble oppdatert er det et tegn på at pakken ikke vedlikeholdes så godt som det vi ønsker av pakker vi bruker i prosjektene våre. 
 
 
-_Er pakken i beta?_ Se på versjonnummeret. Er pakken i alpha, beta eller er den publisert? Hvis pakken ikke er publisert er det større sansynlighet for store endringer. Det er heller ingen garanti for at pakken kommer til å komme til et sted hvor den er produksjonsklar.
+**Er pakken i beta?** Se på versjonnummeret. Er pakken i alpha, beta eller er den publisert? Hvis pakken ikke er publisert er det større sansynlighet for store endringer. Det er heller ingen garanti for at pakken kommer til å komme til et sted hvor den er produksjonsklar.
 
-_Er det mange issues?_ Det lønner seg å se på antall og typen issues pakken har. Er det merkelige feil brukeren har klart å få i spesialtilfeller eller i deler av pakken du ikke kommer til å bruke? Eller er det issues som er gamle og som treffer ditt bruksområde? Da kan det være det ser ut som pakken skal løse problemet ditt, men at det ikke er en del av det som blir prioritert og det vil koste mye å få det til å fungere. 
+**Er det mange issues?** Det lønner seg å se på antall og typen issues pakken har. Er det merkelige feil brukeren har klart å få i spesialtilfeller eller i deler av pakken du ikke kommer til å bruke? Eller er det issues som er gamle og som treffer ditt bruksområde? Da kan det være det ser ut som pakken skal løse problemet ditt, men at det ikke er en del av det som blir prioritert og det vil koste mye å få det til å fungere. 
 
-_Har pakken mange avhangigheter?_ På samme måte som vi prøver å være kritiske til hvilke pakker vi tar ibruk, er det lurt å se på om pakken er kritisk til hvilke avhengigheter de tar inn. Pakkene vi tar ibruk er utsatt for de samme problemene vi prøver å unngå ved å være kritiske til hvilke avhengigheter vi tar inn. 
+**Har pakken mange avhangigheter?** På samme måte som vi prøver å være kritiske til hvilke pakker vi tar ibruk, er det lurt å se på om pakken er kritisk til hvilke avhengigheter de tar inn. Pakkene vi tar ibruk er utsatt for de samme problemene vi prøver å unngå ved å være kritiske til hvilke avhengigheter vi tar inn. 
 
-_Hvilken lisens er den under?_ Lisensen pakken har påvirker hva du har lov og ikke lov til å gjøre med den. Den kan også påvirke hva du må gjøre med ditt prosjekt. Enkelte lisenser sier at en kun kan bruke en pakke om deler kildekoden til hele prosjektet som bruker pakken. De fleste pakker har lisenser det er greit å forholde seg til, men det er viktig å være klar over å tenke igjennom.
+**Hvilken lisens er den under?** Lisensen pakken har påvirker hva du har lov og ikke lov til å gjøre med den. Den kan også påvirke hva du må gjøre med ditt prosjekt. Enkelte lisenser sier at en kun kan bruke en pakke om deler kildekoden til hele prosjektet som bruker pakken. De fleste pakker har lisenser det er greit å forholde seg til, men det er viktig å være klar over å tenke igjennom.
 
 <img src="
-https://images.unsplash.com/photo-1503643766889-957dc3096721?fit=crop&fm=jpg&h=350&w=800&fp-y=.9" />
+https://images.unsplash.com/photo-1503643766889-957dc3096721?fit=crop&fm=jpg&h=350&w=700&fp-y=.9" />
 Bilde av [Casey Horner](https://unsplash.com/photos/Hv6-X3RGq6Q) på [Unsplash](https://unsplash.com/)
 
-_Er det flere vedlikeholdere?_ Bussfaktoren er en stor faktor på alle prosjekter. Den kan sies å være større i prosjekter med åpen kildekode. Hvis noen på prosjektet du sitter på slutter så har du fremdeles tilgang på koden. Hvis en som har en pakke slutter å jobbe på den blir koden låst og det er mer jobb å få kontroll over koden på en god måte. [Stress og utbrenthet er også vanlig i åpen kildekode miljøene](https://www.semanticscholar.org/paper/Stress-and-Burnout-in-Open-Source%3A-Toward-Finding%2C-Raman-Cao/0060fff9aa22cb35c81d8c071580712769e73f9b). Hvis det kun er en som vet hvordan koden fungerer og vedlikeholder den, så er prosjektet en gjør seg avhengig av sårbart. 
+**Er det flere vedlikeholdere?** Bussfaktoren er en stor faktor på alle prosjekter. Den kan sies å være større i prosjekter med åpen kildekode. Hvis noen på prosjektet du sitter på slutter så har du fremdeles tilgang på koden. Hvis en som har en pakke slutter å jobbe på den blir koden låst og det er mer jobb å få kontroll over koden på en god måte. [Stress og utbrenthet er også vanlig i åpen kildekode miljøene](https://www.semanticscholar.org/paper/Stress-and-Burnout-in-Open-Source%3A-Toward-Finding%2C-Raman-Cao/0060fff9aa22cb35c81d8c071580712769e73f9b). Hvis det kun er en som vet hvordan koden fungerer og vedlikeholder den, så er prosjektet en gjør seg avhengig av sårbart. 
 
 ### Eksempel
 Jeg skulle nylig legge til funksjonaliteten for å lese inn verdier ved hjelp av en QR kode i en app jeg jobbet på. I jakten på et bibliotek jeg kunne bruke var det flere røde flagg som dukket opp og det tok mye lenger tid å undersøke de forskjellige rammeverkene enn jeg hadde sett for meg. La oss se på at par av alternativene og fordelene og ulempene med de ut fra refleksjonene over.
-
-TODO: skriv eksemplene som historie hvor jeg går igjennom hva jeg gjør og tenker og oppdater beskrivelse slik at den stemmer verens med rekkefølge og kontekst
 
 #### react-qr-bardcode-scanner
 ![alt text](./react-qr-bardcode-scanner.png)
@@ -115,7 +114,7 @@ Hvor stort og kritisk er det prosjektet du jobber på? Har det en egen pakkebrø
 Tenk igjennom hvilke lisenser bibliotekene er lisensiert under. Noen lisenser krever at de som bruker arbeidet også legger ut prosjektets kildekode under en åpen kildekodelisens. Det er fort noe en ikke kan akseptere i komersielle prosjekter. Mange lisenser sier også at en skal gi annerkjennelse til biblioteket fordi det brukes i prosjektet.
 
 <img src="
-https://images.unsplash.com/photo-1511885912508-36118d773e55?fit=crop&fm=jpg&h=350&w=800&fp-y=.93" />
+https://images.unsplash.com/photo-1511885912508-36118d773e55?fit=crop&fm=jpg&h=350&w=700&fp-y=.93" />
 Bilde av [Element5 Digital](https://unsplash.com/photos/HnyPuEgW0O8) på [Unsplash](https://unsplash.com/)
 
 Prøv å pakk biblioteket inn i egne komponenter slik at hvis dere må bytte ut rammeverket eller skrive deres egne løsninger på problemet vil det være lett å gjøre uten at det blir en stor kostnad i å endre applikasjonen de stedene biblioteket brukes.
@@ -123,7 +122,7 @@ Prøv å pakk biblioteket inn i egne komponenter slik at hvis dere må bytte ut 
 Bidra tilbake til prosjektet. Rapporter problemer og opprett issues. Hvis det er et bibliotek dere bruker mye som er nyttig, vurder hvordan dere kan bidra til det. Kan prosjektet gi de en sum penger. Kan dere bidra ved å bruke noen timer på å løse issues som påvirker dere? Open Source skal være gi og ta. Vi har også et ansvar for å gi og for å gjøre hverdagen til de som gir oss disse tingene gratis bedre. Det er for vårt felles beste.
 
 <img src="
-https://images.unsplash.com/photo-1556742031-c6961e8560b0?fit=crop&fm=jpg&h=350&w=800&fp-y=.45" />
+https://images.unsplash.com/photo-1556742031-c6961e8560b0?fit=crop&fm=jpg&h=350&w=700&fp-y=.45" />
 Bilde av [Clay Banks](https://unsplash.com/photos/tgquMvhNLc4) på [Unsplash](https://unsplash.com/)
 
 Og imme minst, hvis biblioteket / verktøyet dere bruker på prosjektet har en betalt versjon. Så er det versjonen dere bør bruke på prosjektet. De fleste verktøyene vi bruker er vel verdt de pengene ved at de sparer oss tid og hjelper oss med å lage bedre tjenester. Pengene brukt går tilbake til prosjektet ved at verktøyene holdes i live, videreutvikles og blir bedre. 150kroner i måneden per person er en liten sum for noe som sparer prosjektet for flere timer per person i måneden.
