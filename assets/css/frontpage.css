@@ -1,7 +1,7 @@
 body, html{
     word-wrap: break-word;
-    background: #007;
-    color:#eef;
+    background: #041;
+    color:#efe;
     padding:0;
     margin:0;
     font-family: 'Ubuntu', sans-serif;
@@ -21,7 +21,7 @@ body, html{
 
 
 a{
-  color:#8fd;
+  color:#dab;
 }
 
 h1{
@@ -30,7 +30,7 @@ h1{
   
    h2{
   font-size:2rem;
-  border-bottom: 1px solid #db8;
+  border-bottom: 1px solid #dab;
 }
   
    h3{
@@ -47,9 +47,9 @@ h1{
 }
 
 .front-image-content{
-  background: #007;
+  background: #041;
   padding:5px;
-  box-shadow: 0 0 10px 10px #007;
+  box-shadow: 0 0 10px 10px #041;
   display: inline-block;
   width:60%;
 }
