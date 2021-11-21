@@ -61,9 +61,8 @@
     body.presentation h2{
     margin:0;
     padding:1vh 1vw;
-    border-bottom: 1px solid burlywood;
+    border-bottom: 1px solid #dab;
     }
-      
      
       
 body.presentation h3, body.presentation h4, body.presentation h5{
