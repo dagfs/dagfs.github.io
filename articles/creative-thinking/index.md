@@ -88,6 +88,7 @@ In workshops we spend some time to release these factors. We schedule a time whe
 </object>
 
 
+# Creative thinking [presentation-only]
 
 
 ## What is creative thinking?
