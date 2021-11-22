@@ -10,6 +10,16 @@ Yet I have always had much fun exploring my own ideas and think of myself as cre
 
 To better understand my own creativity and creativity at work, I have read and tought a lot about the topic. In this article I aim to share what I have learned to help you embrase you creativity, learn to use a series of tools to be creative, and learn a bit about how to collaborate creativly. 
 
+## Why is creative thinking important?
+
+<object data="chair.svg" type="image/svg+xml">
+</object>
+
+## Double diamond[presentation-only]
+### Double diamond
+
+<object data="double_diamond.svg" type="image/svg+xml">
+</object>
 
 # Creativity's demands [presentation-only]
 ## Embrace your creativity
@@ -33,11 +43,7 @@ To better understand my own creativity and creativity at work, I have read and t
 
 
 
-
-
-
-
-## creative at work
+# Creative work
 
  <object data="pressure.svg" type="image/svg+xml">
 </object>
@@ -110,17 +116,6 @@ Creative thinking helps us break free from these patterns and navigate our knowl
 
 Knowing this does not make you more creative, but it makes the necesity of creativity aperant. It can also help you understand how and why some of the tools often used in creative processes work and to make it easier to put up with what can feel like nonlogical nonscence. 
 
-## Why is creative thinking important?
-
-<object data="chair.svg" type="image/svg+xml">
-</object>
-
-## Double diamond[presentation-only]
-### Double diamond
-
-<object data="double_diamond.svg" type="image/svg+xml">
-</object>
-
 
 # Tools [presentation-only]
 
@@ -131,9 +126,12 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
  - concepts - we often limit ourself by thinking of the conecept of our solution to narrowly
  - others
 
-## How do they work?[presentation-only]
+## Alternatives[presentation-only]
 
-<object data="creativity.svg" type="image/svg+xml">
+### Alternatives
+
+
+<object data="alternatives.svg" type="image/svg+xml">
 </object>
 
 ## Random input[presentation-only]
@@ -148,12 +146,7 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 <object data="provocation.svg" type="image/svg+xml">
 </object>
 
-## Alternatives[presentation-only]
-### Alternatives
 
-
-<object data="alternatives.svg" type="image/svg+xml">
-</object>
 
 ## Concepts[presentation-only]
 ### Concepts
