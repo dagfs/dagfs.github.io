@@ -1,5 +1,10 @@
 # It doesn't hurt to be creative
 
+# TODO
+1. snakk om iterasjon under double diamond
+2. snakk om at alt er en remix av ideer under hvorfor vi trenger alles input siden vi har konsumert forskjellige ting
+3. start med å si at jobben vår er kreativ og at for å gjøre den godt har vi behov for at alle bidrar i kreative prosesser. Det er ikke ansvaret til design
+
 # Creative Thinking [presentation-only]
 
 <div class="wip">
@@ -16,6 +21,43 @@ I haven't understood them.
 Yet I have always had much fun exploring my own ideas and think of myself as creative. Despite this I regularly meet roadblocks that seems to hinder my creativity when I need it the most. Being demotivated, tired, or stressed is some of the situations that seem to be a big hinderance to generating new ideas and solutions.
 
 To better understand my own creativity and creativity at work, I have read and tought a lot about the topic. In this article I aim to share what I have learned to help you embrase you creativity, learn to use a series of tools to be creative, and learn a bit about how to collaborate creativly. 
+
+## What is creative thinking?
+
+<object data="brain.svg" type="image/svg+xml">
+</object>
+
+Creative thinking is typically described as the counter to logical, to find the difference, we first need to know a bit about how the brain works. 
+
+## What is creative thinking? [presentation-only]
+
+<object data="low-creativity.svg" type="image/svg+xml">
+</object>
+
+The brain is a self-organizing information system. That is, it collects and organizes information on the fly. Previous knowledge as well and the order of new information affect how this new information is stored.
+
+Knowing this shows that our concept of "logical thinking" is fragile. In logical thinking, we start with a problem and navigate the information we have about that problem until we find a solution. This usually is efficient as we have solved similar problems before, but when there are new problems, we might get stuck trying out old solutions or finding no solution at all. 
+
+
+## What is creative thinking? [presentation-only]
+
+<object data="creativity.svg" type="image/svg+xml">
+</object>
+
+Creative thinking helps us break free from these patterns and navigate our knowledge in different ways. By using techniques such as "random input" and "provocation" we can change where we start our thinking process and therefore end up with other solutions than we could by thinking about the problem in they way we usually do.
+
+Knowing this does not make you more creative, but it makes the necesity of creativity aperant. It can also help you understand how and why some of the tools often used in creative processes work and to make it easier to put up with what can feel like nonlogical nonscence. 
+
+## Why is creative thinking important?
+
+<object data="chair.svg" type="image/svg+xml">
+</object>
+
+## Double diamond[presentation-only]
+### Double diamond
+
+<object data="double_diamond.svg" type="image/svg+xml">
+</object>
 
 
 # Creativity's demands [presentation-only]
@@ -37,12 +79,6 @@ To better understand my own creativity and creativity at work, I have read and t
 
 <object data="curtain.svg" type="image/svg+xml">
 </object>
-
-
-
-
-
-
 
 ## creative at work
 
@@ -90,46 +126,9 @@ In workshops we spend some time to release these factors. We schedule a time whe
 
 
 
-
-## What is creative thinking?
-
-<object data="brain.svg" type="image/svg+xml">
-</object>
-
-Creative thinking is typically described as the counter to logical, to find the difference, we first need to know a bit about how the brain works. 
-
-## What is creative thinking? [presentation-only]
-
-<object data="low-creativity.svg" type="image/svg+xml">
-</object>
-
-The brain is a self-organizing information system. That is, it collects and organizes information on the fly. Previous knowledge as well and the order of new information affect how this new information is stored.
-
-Knowing this shows that our concept of "logical thinking" is fragile. In logical thinking, we start with a problem and navigate the information we have about that problem until we find a solution. This usually is efficient as we have solved similar problems before, but when there are new problems, we might get stuck trying out old solutions or finding no solution at all. 
-
-
-## What is creative thinking? [presentation-only]
-
-<object data="creativity.svg" type="image/svg+xml">
-</object>
-
-Creative thinking helps us break free from these patterns and navigate our knowledge in different ways. By using techniques such as "random input" and "provocation" we can change where we start our thinking process and therefore end up with other solutions than we could by thinking about the problem in they way we usually do.
-
-Knowing this does not make you more creative, but it makes the necesity of creativity aperant. It can also help you understand how and why some of the tools often used in creative processes work and to make it easier to put up with what can feel like nonlogical nonscence. 
-
-## Why is creative thinking important?
-
-<object data="chair.svg" type="image/svg+xml">
-</object>
-
-## Double diamond[presentation-only]
-### Double diamond
-
-<object data="double_diamond.svg" type="image/svg+xml">
-</object>
-
-
 # Tools [presentation-only]
+
+
 
 snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det å bruke ord hjelper, hvordan det å lage flere ideer hjelper
 
@@ -137,6 +136,8 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
  - come up with 3  to 5 solutions instead of the two one commonly comes upp with
  - concepts - we often limit ourself by thinking of the conecept of our solution to narrowly
  - others
+
+
 
 ## How do they work?[presentation-only]
 
@@ -212,7 +213,3 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 
 - Seth Godin - The practice - https://www.designmattersmedia.com/podcast/2020/Seth-Godin
 
-# TODO
-1. snakk om iterasjon under double diamond
-2. snakk om at alt er en remix av ideer under hvorfor vi trenger alles input siden vi har konsumert forskjellige ting
-3. start med å si at jobben vår er kreativ og at for å gjøre den godt har vi behov for at alle bidrar i kreative prosesser. Det er ikke ansvaret til design
