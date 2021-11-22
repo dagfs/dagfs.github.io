@@ -58,3 +58,7 @@ https://files.slack.com/files-pri/T028UJTLQ-F01VA4VJKPW/image.png
 https://files.slack.com/files-pri/T028UJTLQ-F01VA51196Y/screenshot_20210422_120726_no.finn.android.jpg
 
 egen side med: “vi bruker lodash som er MIT lisensiert”
+
+https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository#choosing-the-right-license
+
+https://opensource.guide/legal/
