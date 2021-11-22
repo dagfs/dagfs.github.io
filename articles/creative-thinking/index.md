@@ -1,13 +1,6 @@
 # It doesn't hurt to be creative
 
-# Creative Thinking [presentation-only]
 
-<div class="wip">
-  <i class="las la-exclamation-triangle main-icon"></i>
-  <br/>
-  <span class="main"><i class="las la-wrench"></i> This article is under construction.</span> 
-  <br />It's content, structure or url might change without notice or changelog.
-</div>
 
 Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. I have been trough trough more workshops than I can count on two hands and one foot. 
 Each of the workshops has had multiple warmup exercises and a series of steps to helps us ideate. These exercises and steps has not always seemed to make sense and I've hard to embrase them as
