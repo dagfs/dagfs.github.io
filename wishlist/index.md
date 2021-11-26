@@ -38,7 +38,6 @@ Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret h
 - Frakk som den Terese has
 - Ny større ryggsekk til tur
 - Regntøy
-
 - GoPro
 
 <!--
