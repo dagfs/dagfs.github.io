@@ -1,4 +1,4 @@
-# It doesn't hurt to be creative
+# Det skader ikke å tenke kreativt
 
 
 
@@ -10,7 +10,37 @@ Yet I have always had much fun exploring my own ideas and think of myself as cre
 
 To better understand my own creativity and creativity at work, I have read and tought a lot about the topic. In this article I aim to share what I have learned to help you embrase you creativity, learn to use a series of tools to be creative, and learn a bit about how to collaborate creativly. 
 
-## Why is creative thinking important?
+# Om tenking [presentation-only]
+
+
+## Tenking
+
+<object data="brain.svg" type="image/svg+xml">
+</object>
+
+Creative thinking is typically described as the counter to logical, to find the difference, we first need to know a bit about how the brain works. 
+
+## Logisk tenking [presentation-only]
+
+<object data="low-creativity.svg" type="image/svg+xml">
+</object>
+
+The brain is a self-organizing information system. That is, it collects and organizes information on the fly. Previous knowledge as well and the order of new information affect how this new information is stored.
+
+Knowing this shows that our concept of "logical thinking" is fragile. In logical thinking, we start with a problem and navigate the information we have about that problem until we find a solution. This usually is efficient as we have solved similar problems before, but when there are new problems, we might get stuck trying out old solutions or finding no solution at all. 
+
+
+## Kreativ tenking [presentation-only]
+
+<object data="creativity.svg" type="image/svg+xml">
+</object>
+
+Creative thinking helps us break free from these patterns and navigate our knowledge in different ways. By using techniques such as "random input" and "provocation" we can change where we start our thinking process and therefore end up with other solutions than we could by thinking about the problem in they way we usually do.
+
+Knowing this does not make you more creative, but it makes the necesity of creativity aperant. It can also help you understand how and why some of the tools often used in creative processes work and to make it easier to put up with what can feel like nonlogical nonscence. 
+
+
+## Kreativ tenking i programvareprosjekter 
 
 <object data="chair.svg" type="image/svg+xml">
 </object>
@@ -22,7 +52,7 @@ To better understand my own creativity and creativity at work, I have read and t
 </object>
 
 
-# Prerequisites
+# Forutsetninger
 
  <object data="pressure.svg" type="image/svg+xml">
 </object>
@@ -38,27 +68,27 @@ There is a lot of talk about how to more creative. Most of it discusses how we i
 In workshops we spend some time to release these factors. We schedule a time where we work on the problem. We give ourself time to work on the problem during this alocated time. We have a dedicated space and some nurishments. We try to include humor and create a light harthed mood. We let everyone on in the workshop share something they draw or present some ideas related to something completly different to get everyone in the right mood, and to show that it is safe to share, that there is no judging at this point in the process and certenly not of you for proposing ideas. We try to create a trust in the team, to create a snappyness (find ted talk) where the team build on each others ideas till the resulting idea is a combination of many and it is hard to recognice who contributed what.
 
 
-## Time[presentation-only]
-### Time
+## Tid[presentation-only]
+### Tid
 
 <object data="time_calendar.svg" type="image/svg+xml">
 </object>
 
-## Time[presentation-only]
-### Time
+## Tid[presentation-only]
+### Tid
 
 
 <object data="time.svg" type="image/svg+xml">
 </object>
 
-## Space[presentation-only]
-### Space
+## Plass[presentation-only]
+### Plass
 
 <object data="space.svg" type="image/svg+xml">
 </object>
 
-## Confidence[presentation-only]
-### Confidence
+## Mot[presentation-only]
+### Mot
 
 
  <object data="confidence.svg" type="image/svg+xml">
@@ -71,7 +101,7 @@ In workshops we spend some time to release these factors. We schedule a time whe
  <object data="well_in_that_case.svg" type="image/svg+xml">
 </object>
 
-## Embrace your creativity
+## Så dine ideer
 
 <object data="grow.svg" type="image/svg+xml">
 </object>
@@ -84,7 +114,7 @@ In workshops we spend some time to release these factors. We schedule a time whe
  - You are not your brain - du er ikke tankene dine
  - frykt for å tape ansikt
 
-## Embrace your creativity [presentation-only]
+## Tør å gjøre deg sårbar [presentation-only]
 
 
 <object data="curtain.svg" type="image/svg+xml">
@@ -92,39 +122,7 @@ In workshops we spend some time to release these factors. We schedule a time whe
 
 
 
-
-
-# Creative thinking [presentation-only]
-
-
-## What is creative thinking?
-
-<object data="brain.svg" type="image/svg+xml">
-</object>
-
-Creative thinking is typically described as the counter to logical, to find the difference, we first need to know a bit about how the brain works. 
-
-## What is creative thinking? [presentation-only]
-
-<object data="low-creativity.svg" type="image/svg+xml">
-</object>
-
-The brain is a self-organizing information system. That is, it collects and organizes information on the fly. Previous knowledge as well and the order of new information affect how this new information is stored.
-
-Knowing this shows that our concept of "logical thinking" is fragile. In logical thinking, we start with a problem and navigate the information we have about that problem until we find a solution. This usually is efficient as we have solved similar problems before, but when there are new problems, we might get stuck trying out old solutions or finding no solution at all. 
-
-
-## What is creative thinking? [presentation-only]
-
-<object data="creativity.svg" type="image/svg+xml">
-</object>
-
-Creative thinking helps us break free from these patterns and navigate our knowledge in different ways. By using techniques such as "random input" and "provocation" we can change where we start our thinking process and therefore end up with other solutions than we could by thinking about the problem in they way we usually do.
-
-Knowing this does not make you more creative, but it makes the necesity of creativity aperant. It can also help you understand how and why some of the tools often used in creative processes work and to make it easier to put up with what can feel like nonlogical nonscence. 
-
-
-# Tools [presentation-only]
+# Verktøy [presentation-only]
 
 snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det å bruke ord hjelper, hvordan det å lage flere ideer hjelper
 
@@ -133,30 +131,30 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
  - concepts - we often limit ourself by thinking of the conecept of our solution to narrowly
  - others
 
-## Alternatives[presentation-only]
+## Alternativer[presentation-only]
 
-### Alternatives
+### Alternativer
 
 
 <object data="alternatives.svg" type="image/svg+xml">
 </object>
 
-## Random input[presentation-only]
-### Random input
+## Tilfeldig input[presentation-only]
+### Tilfeldig input
 
 <object data="die.svg" type="image/svg+xml">
 </object>
 
-## Provocation[presentation-only]
-### Provocation
+## Provosering[presentation-only]
+### Provosering
 
 <object data="provocation.svg" type="image/svg+xml">
 </object>
 
 
 
-## Concepts[presentation-only]
-### Concepts
+## Konsepter[presentation-only]
+### Konsepter
 
 
 <object data="concepts.svg" type="image/svg+xml">
