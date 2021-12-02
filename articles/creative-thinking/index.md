@@ -1,7 +1,5 @@
 # Det skader ikke å tenke kreativt
 
-
-
 Over the years I've been introduced to Edvard De Bonos 6 thinking hats on half a dozen ocations. I have been trough trough more workshops than I can count on two hands and one foot. 
 Each of the workshops has had multiple warmup exercises and a series of steps to helps us ideate. These exercises and steps has not always seemed to make sense and I've hard to embrase them as
 I haven't understood them.
@@ -9,9 +7,6 @@ I haven't understood them.
 Yet I have always had much fun exploring my own ideas and think of myself as creative. Despite this I regularly meet roadblocks that seems to hinder my creativity when I need it the most. Being demotivated, tired, or stressed is some of the situations that seem to be a big hinderance to generating new ideas and solutions.
 
 To better understand my own creativity and creativity at work, I have read and tought a lot about the topic. In this article I aim to share what I have learned to help you embrase you creativity, learn to use a series of tools to be creative, and learn a bit about how to collaborate creativly. 
-
-# Om tenking [presentation-only]
-
 
 ## Tenking
 
@@ -151,19 +146,7 @@ snakk videre om hvordan vi resonerer og kommer frem til løsninger. Hvordan det 
 <object data="provocation.svg" type="image/svg+xml">
 </object>
 
-
-
-## Konsepter[presentation-only]
-### Konsepter
-
-
-<object data="concepts.svg" type="image/svg+xml">
-</object>
-
-## Call for action[presentation-only]
-### Call for action
-<object data="books.svg" type="image/svg+xml">
-</object>
+# Det skader ikke å tenke kreativt
 
 
 ## Sources
