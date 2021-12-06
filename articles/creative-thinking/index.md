@@ -35,7 +35,7 @@ Creative thinking helps us break free from these patterns and navigate our knowl
 Knowing this does not make you more creative, but it makes the necesity of creativity aperant. It can also help you understand how and why some of the tools often used in creative processes work and to make it easier to put up with what can feel like nonlogical nonscence. 
 
 
-## Kreativ tenking i programvareprosjekter 
+## Programvareprosjekter 
 
 <object data="chair.svg" type="image/svg+xml">
 </object>
@@ -82,7 +82,7 @@ In workshops we spend some time to release these factors. We schedule a time whe
 <object data="space.svg" type="image/svg+xml">
 </object>
 
-## Mot[presentation-only]
+## Selvtillit[presentation-only]
 ### Mot
 
 
@@ -109,7 +109,7 @@ In workshops we spend some time to release these factors. We schedule a time whe
  - You are not your brain - du er ikke tankene dine
  - frykt for å tape ansikt
 
-## Tør å gjøre deg sårbar [presentation-only]
+## Trekk forhenget fra [presentation-only]
 
 
 <object data="curtain.svg" type="image/svg+xml">
