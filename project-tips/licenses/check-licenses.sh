@@ -1,0 +1,1 @@
+license-checker --onlyAllow 'MIT;ISC;BSD-2-Clause;Apache-2.0;BSD-3-Clause;0BSD;CC0-1.0;WTFPL;CC-BY-3.0;CC0-1.0;CC-BY-4.0' --excludePackages 'Test@1.0.0'

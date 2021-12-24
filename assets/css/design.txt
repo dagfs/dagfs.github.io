@@ -1,0 +1,7 @@
+background #007
+contrast #eef
+
+
+for text to stand out #8fd
+
+lines db8
