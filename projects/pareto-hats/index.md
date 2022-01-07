@@ -1,6 +1,6 @@
 # Project Pareto Hats
 
-This project aims to provide 20% of the knowledge for the roles in a modern software development project that are not coding related. As to provide teams in all sizes, but particularly small sizes with the tools needed to 
+This project aims to provide 20% of the knowledge for the common tasks in a modern software development project that are not coding related. As to provide teams in all sizes, but particularly small sizes with the tools needed to 
 
 The project is guided by the **Pareto principle** and **Parkinson's law**
 
@@ -12,6 +12,18 @@ The project is guided by the **Pareto principle** and **Parkinson's law**
 
 [Wikipedia: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 
-##
+## Hats in a modern software development prosject
+- Text writer
+- Grapic design
+- interaction design
+- privacy
+- security
+- accesebility
+- user testing
+- animations
 
-se DIAPER
+
+
+- soft skils
+- se lister andre har laget
+- Hør med folk
