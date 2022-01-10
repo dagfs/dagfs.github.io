@@ -14,6 +14,8 @@ The project is guided by the **Pareto principle** and **Parkinson's law**
 
 The project is guided by Parkinson's law by operating under strict time limits as to get trough the intended material.
 
+This project inspired by Edward de Bono's six thinking hats.
+
 ### Project outline
 The project will spend 4-6 hours a month on a topic trying to summarize and share the most important information about each topic. The first month will be spent gathering topics to explore and materials to read. There will also be a one month vacation. So a total of 10 topics will be explored.
 

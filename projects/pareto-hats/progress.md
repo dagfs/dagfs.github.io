@@ -7,3 +7,4 @@
 
 ### 2021.01.10 - Outline
 - Improving the outline of the project
+- Added sub-page for exploring what hats to explore
