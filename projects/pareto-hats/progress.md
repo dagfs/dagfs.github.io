@@ -4,3 +4,6 @@
 ### 2021.01.07 - Startup
 - Clarified process with mentor
 - Defined first outline of the project
+
+### 2021.01.10 - Outline
+- Improving the outline of the project
