@@ -1,4 +1,4 @@
-## Hats in a modern software development project
+## Hats in software development
 
 This is the working pages for the first month of project Pareto Hats where the different types of tasks on a project (outside of coding-related tasks) along with some resources are collected.
 
@@ -19,6 +19,8 @@ I expect that multiple topics will be explored at the same time as many do overl
 - Security
 - Accessibility
 - User testing
+- Conflict management
+- Culture building
 - Animations
 - Public speaking 
 - Meeting leader 
@@ -29,3 +31,5 @@ I expect that multiple topics will be explored at the same time as many do overl
 - soft skils
 - se lister andre har laget
 - Hør med folk
+- less wrong how to change your mind
+- selbekk om mentoring

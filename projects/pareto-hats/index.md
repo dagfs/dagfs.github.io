@@ -17,7 +17,7 @@ The project is guided by Parkinson's law by operating under strict time limits a
 This project inspired by Edward de Bono's six thinking hats.
 
 ### Project outline
-The project will spend 4-6 hours a month on a topic trying to summarize and share the most important information about each topic. The first month will be spent gathering topics to explore and materials to read. There will also be a one month vacation. So a total of 10 topics will be explored.
+The project will spend 4-6(1.5+3.5) hours a month on a topic trying to summarize and share the most important information about each topic. The first month will be spent gathering topics to explore and materials to read. There will also be a one month vacation. So a total of 10 topics will be explored.
 
 Each topic will receive it's own sub-page where working notes will be collected. It will be a place to go for deeper exploration of each topic. The summary of each topic will be brought back to this page as to provide a singe page resource.  
 
@@ -25,7 +25,7 @@ Each topic will receive it's own sub-page where working notes will be collected.
 *Everything beneath the line is WIP*
 
 ---
-### Hats in a modern software development project (January)
+### Hats in software development (January)
 
 [Working notes](./the-hats)
 
@@ -44,6 +44,7 @@ Each topic will receive it's own sub-page where working notes will be collected.
 ### Hat 7 (September)
 
 ### Hat 8 (October)
-### Hat 9 (November)
+### The Mentor Hat (November)
 
-### Hat 10 (December)
+### The Human Hat (December)
+[Working notes](./the-human-hat)

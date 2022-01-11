@@ -135,3 +135,5 @@ simple made easy
 https://www.youtube.com/watch?v=oytL881p-nQ
 det er lett å ta inn en avhengighet. Og veldig vanskelig å få den bort
 Lett å legge til og vanskelig å fjerne
+
+https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/
