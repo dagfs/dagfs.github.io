@@ -2,7 +2,10 @@
 
 ## January
 
-### 2022.01.10 - Human hat
+### 2022.01.12 - Input from team
+- Added some input from a team discussion
+
+### 2022.01.11 - Human hat
 - Adding sub-page for human hat as I'm listening to podcast of burnout
 ### 2022.01.10 - Outline
 - Improving the outline of the project
