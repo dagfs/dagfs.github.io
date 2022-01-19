@@ -39,13 +39,19 @@ Read articles about others experiences.
 
 #### Questions
 
+- Hva opplever du at prosjektet du sitter på mangler kompetanse på?
+- Hva er en ting du synes alle som jobber i bransjen vår burde kunne litt om?
+
 ### List of possible topics to explore
+
+Noen må eie ansvaret
 
 - Text writer
 - Graphic design
 - Interaction design
-- Privacy
+- Privacy - GDPR
 - Security
+- Brukerinnsikt - hva kan du få som du kan jobbe med
 - SEO
 - Team 
     - leader 
@@ -56,13 +62,19 @@ Read articles about others experiences.
     - ha fokus. mandags mål og fredags feiring 
     - bli kjent runde
     - hvordan fungerer bedriften rundt prosjektet?
+    - team topologies - complicated sub system teams, x system teams
+    - creativity inc
+- Foretningsutvikling 
 - Accessibility
 - User testing
 - Conflict management
 - Culture building
+- logging og monitorering - Jarle holtan
+- hvordan styre produktutvikling - styre stakeholders - planlegging 
 - Animations
 - Public speaking 
 - Meeting leader 
+- Design system - atomene en bygger - selbekk - sergio - 
 - Mentoring (If I am to do this one, it will be a bonus one - I have already made a few resources for this )
 - ops
 - support 
@@ -77,17 +89,39 @@ Read articles about others experiences.
     - suttrepaven - er ofte noe fornuftig under all suttringa
 
 
+Runar
+- produktuvikling
+- lage produkter - effekten av det vi lager. hva skal vi gi til det vi bruker systemet til
+- hvordan jeg finne ut hvilken effekt vi skal skape - hvordan vet vi om vi skaper den effekten
+- hypoteser - 
+- job stories 
 
 
+- to ting vi er dårlige på
+    - testing
+        - hvilke typer
+        - hvordan kjøre det
+        - hvordan ikke lage noe som ikke blir ødelagt underveis
+    - logging 
+        - feilrapport
+        - helsa til systemet
+        - debugge systemer
 
+- bli mer proff - skape mer verdi
+- faget er verktøy for å skape verdi
+- lage de riktige tingene riktig
+- hvordan er organisasjonen?
+- hva trenger folk - vanskelig å kode når du ikke vet
+- forstår du business casen - så er det lett å lage koden
+- kommer inn med den tekniske interessen - det meste er vanskelig pga folk ikke pga teknologi
 
-
-
-- soft skils
 - se lister andre har laget
 - Hør med folk
 - less wrong how to change your mind
 - selbekk om mentoring
+
+
+- G
 
 ### The Topics I ended up selecting
 

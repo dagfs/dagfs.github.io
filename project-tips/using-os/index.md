@@ -126,7 +126,7 @@ Dette er mine tanker rundt det å bruke biblioteker i kommersielle prosjekter. J
 
 TODO
 
-https://github.com/trafikkdata/documentation/tree/main/architecture-decision-records/adr
+architecture-decision-records
 
 > Opprett gjerne en seksjon i README eller en egen fil for å beskrive bruken av avhengigheter på prosjektet.
 > Kjenner du til architecture decision records (ADR)? Lurer på om det kunne vært en fin plass å dokumentere noe sånt! Vi har ikke gjort det selv, men vi bruker ADRer til en del andre ting
