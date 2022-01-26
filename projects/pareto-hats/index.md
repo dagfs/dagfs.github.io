@@ -2,7 +2,7 @@
 
 This project aims to provide 20% of the knowledge for the common tasks in a modern software development project that are not coding related. As to provide teams in all sizes, but particularly small sizes with the tools needed to 
 
-The project is guided by the **Pareto principle** and **Parkinson's law**
+The project is guided by the **Pareto principle**, **Parkinson's law** and the idea of **The Learning pyramid**
 
 >The **Pareto principle** states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few").[1] Other names for this principle are the 80/20 rule, the law of the vital few, or the principle of factor sparsity.
 
@@ -13,6 +13,11 @@ The project is guided by the **Pareto principle** and **Parkinson's law**
 [Wikipedia: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 
 The project is guided by Parkinson's law by operating under strict time limits as to get trough the intended material.
+
+
+>**The Learning Pyramid** is a group of popular learning models and representations relating different degrees of retention induced from various type of learning.
+
+[Wikipedia: Learning Pyramid](https://en.wikipedia.org/wiki/Learning_pyramid)
 
 This project inspired by Edward de Bono's six thinking hats.
 

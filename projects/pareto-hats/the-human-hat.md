@@ -2,6 +2,8 @@
 
 This topic is about being a human in software development projects and in any knowledge work profession in general.
 
+
+Anything you avoid will only grow to be a bigger problem in your life. St. George and facing the dragons.
 ### Stress
 - Circle of control
     - serenity prayer
@@ -12,6 +14,9 @@ This topic is about being a human in software development projects and in any kn
 - base emotions
 - primary / secondary 
 
+Shame VS Guilt -https://www.youtube.com/watch?v=7KepQX1tBvI 
+    - shame is avoiding responsebillity for guilt
+    - Shame is a way to avoid responsibility for things you feel guilty about or facing things you are unhappy about with yourself. It promotes a fixed mindset.
 
 ### Burnout
 

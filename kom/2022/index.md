@@ -5,7 +5,7 @@ Målet mitt for året er å:
   - [ ] De 11 arbeidsdelene
     - [ ] [Januar - utforske hvilke tema å utforske](/projects/pareto-hats/the-hats)
     - [ ] Februar - The Student Hat
-    - [ ] Mars - Hat 2 - 
+    - [ ] Mars - Hat 2 
     - [ ] April - Hat 3 - 
     - [ ] Mai - Hat 4 - 
     - [ ] Juni - Hat 5 - 
@@ -17,5 +17,11 @@ Målet mitt for året er å:
   - [ ] Publisere artikklene som julekallenderartikkler? Medium serie?
   - [ ] Utstilling på fagdagen med de forskjellige type hattene en har på et prosjekt (høsten?)
   - [ ] Drypp? Podcastepisoder?
+  - [ ] Videoer?
 - [ ] Holde et foredrag om mental helse og det å leve livet [Calming Down](/articles/calming-down) (fagdag til sommeren ?)
 - [ ] Veilede / være kunde for prosjekt for IT2901 (gitt noen studenter ønsker å jobbe med faget)
+
+
+- Hvordan jobbe med meg workshop
+- OSS hvordan få kompansere det
+- Design system

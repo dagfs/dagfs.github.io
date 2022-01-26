@@ -64,6 +64,7 @@ Noen må eie ansvaret
     - hvordan fungerer bedriften rundt prosjektet?
     - team topologies - complicated sub system teams, x system teams
     - creativity inc
+    - ops
 - Foretningsutvikling 
 - Accessibility
 - User testing
@@ -121,23 +122,106 @@ Runar
 - selbekk om mentoring
 
 
-- G
+HL
+- Selskapsstrattegi 
+    - bevist forhold 
+    - hva er det store bildet?
+    - OKR
+    - OKR - forlengelse av smidig for å gjelde overornda straggegi for selskap
+
+- Argumentasjonsgrunnlag 
+    - hvordan forankere og selge inn ideer uten å virke som en selger.
+    - Hvordan få med deg forskjellige folk på laget
+
+- DevOps
+    - lære seg ops
+    - filosofien
+        - alle team kan løse de problemene de kommer over
+
+- presentasjonsteknikk
+    - storylining
+    - ted talks
+
+- utarbeide målbilde
+    - kartlegge 
+        - hvilke brukere vet dere om
+        - intervjue brukerne
+        - finne utkjente brukere
+        - sandwitch perspektiv - brukere + kunde
+        - toppmålene for bedriften
+        - målene til avdelingen / teamet
+        - hvilke regelverk må vi følge
+        - oppsummere det vi har funnet
+        - ved hjelp av workshops - brukerhistorier
+        - innsiktsarbied - brukerorienter
+        - gi eierskap til funnene
+        - storylining
+        - tjestedesign
+        - hvordan holde et intervju
+            - hvordan få de viktigste funnene u av mange intervjuer
+    - Møte med takeaway
+
+https://www.kode24.no/artikkel/hva-bor-en-ux-designer-kunne-vi-er-jo-knapt-enige-om-hva-ux-egentlig-innebaerer/75095220?fbclid=IwAR0ELfx1iA5vTvUr0Y4Sr8sP9IAM9jlJFi8Io4sA3P6ePyzsbNW6zKbl0zo
+
+https://www.kode24.no/kodenytt/mener-norge-trenger-flere-ux-utviklere/72871483
+
+J
+- Design system
+    - eksempler basert på kode
+    - bruker komponentene for å lage skisser
+    - kortlevde skisser
+- Kunne grunnlaget til prosessen vi bruker.
+    - Hva er smidig?
+    - forstå prosessen 
+    - hvilken ledestjerne
+- brukerforståelse
+- hvordan finne ifnromajon i en org?
+- hvordan lære å heve blikket
+- organisasjonsforståelse
+- hvordan lede folk 
+    - oppretholde andres motivasjon
+    - skape tryggeht rundt det å lære
+- UU
+- Eierskap til det som ligger i produksjon
+    - logging
+    - monitorering
+    - tilbakemelding
+    - hva fungerer / fungerer ikke?
+    - finner brukeren frem til informasjonen?
+- skape noe som skal leve lenge
+    - vedlikeholdbart
+    - vanskelig å endre
+    - vanskelig å forstå
+
+
+- UU
+- Sikkerhet
+- GDPR
+
+- hvorfor gjør vi det vi gjør?
 
 ### The Topics I ended up selecting
 
 #### 1. The Student Hat
 We are doing knowledge work. Our job is to learn things. But there is such a thing as beginner experts and fixed mindsets. Looking into how to learn and adopt what I learn from this project seems like an obvious place to start. 
 
-#### 2.
+#### 2. Design Systemer
 #### 3.
 #### 4.
 #### 5.
 #### 6.
 #### 7.
-#### 8.
+#### 8. Team dynamikk 
 
 #### 9. The Mentor Hat
 We are all mentors in some capacity. Being a good colleague or partner is important. I hope to learn more about this topic as I talk with people trough the year, that is why I want to do this topic as late as possible to incorporate what I learn into this topic.
 
+- Lærerhatten
+- Fadder
+- Personalleder
+- Tech lead
+
 #### 10. The Human hat
 We are all humans that have to deal with emotions and stress. I put this topic last as it is one I continually learn about even outside of this project so I wanted to tackle it last as it is when I feel like I have to most to share.
+
+Hvordan fungerer jeg?
