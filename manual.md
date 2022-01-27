@@ -73,6 +73,7 @@ Er det noe som gjør at du liker å jobbe med meg?
 Er det noe du synes gjør det vanskelig å jobbe med meg?
 Har du noe du har vurdert å si til meg flere ganger men latt være?
 Når synes du jeg er god på jobb?
+Hva er noe du har missforstått om meg?
 
 
 # TODO
