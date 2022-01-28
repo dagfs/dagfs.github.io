@@ -72,6 +72,8 @@ stresse ned. aktivere the parasympatiske nervesystemet.
 
 chatter - roe den indre stemmen
 
+## Det finnes ingen regler
+Slutt å begrense deg selv
 
 ## Filosofi
 Finn ut hva som er riktig måte for deg å leve på for å redusere indre uro og ubehga. 
@@ -83,6 +85,8 @@ hvilke tema er det som er ubehgalig for deg. Hva lyver du til deg selv om. Hvilk
 
 ## St. Georg
 Ting en ikke utfordrer vokser. Gå mot dragene i livet ditt.
+
+## Søvn
 
 ## Bøker
 
@@ -104,3 +108,8 @@ og mange flere
 ## Ekte post
 
 Finn og snakk rundt noen tema fra #ekte poster
+
+
+## DIV
+
+> You are creating problems in your head agin. Stop that
