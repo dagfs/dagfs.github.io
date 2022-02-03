@@ -4,6 +4,11 @@
 .presentation-only{
     display: none;
     }
+
+    body.presentation{
+      background: #041;
+      color:#efe;
+    }
     
     body.presentation .wip{
       display: none;

@@ -44,14 +44,82 @@ Read articles about others experiences.
 
 ### List of possible topics to explore
 
-Noen må eie ansvaret
+Topics that someone on the team has to "own" or take responsibility for.
 
+- Text writer
+- Graphic design
+- Interaction design
+- Privacy
+- Security
+- User Testing
+- SEO
+- Teams
+- Foretningsutvikling 
+- Accessibility
+- Conflict management
+- Culture building
+- logging 
+- monitorering 
+- productdevelopment
+- Animations
+- Public speaking 
+- Meeting leader 
+- Mentoring 
+- ops
+- support 
+- project planning and managment
+- Testing
+- Organisation transformation
+- Buisniuss
+- OKR
+- Strategy
+- Sales
+- DevOps
+- Public speaking
+- process
+- scrum master
+- leader
+- big picture
+- user feedback
+
+### The Topics I ended up selecting
+
+#### 1. The Student Hat
+We are doing knowledge work. Our job is to learn things. But there is such a thing as beginner experts and fixed mindsets. Looking into how to learn and adopt what I learn from this project seems like an obvious place to start. 
+
+#### 2. The Team Hat
+
+
+#### 3. Brukerinnsikt - Hvilke ord?
+#### 4. Brukerinnsikt - Hvilke ord?
+#### 5. Design
+#### 6. UU
+#### 7. GDPR
+#### 8. Security
+
+#### 9. The Mentor Hat
+We are all mentors in some capacity. Being a good colleague or partner is important. I hope to learn more about this topic as I talk with people trough the year, that is why I want to do this topic as late as possible to incorporate what I learn into this topic.
+
+- Lærerhatten
+- Fadder
+- Personalleder
+- Tech lead
+
+#### 10. The Human hat
+We are all humans that have to deal with emotions and stress. I put this topic last as it is one I continually learn about even outside of this project so I wanted to tackle it last as it is when I feel like I have to most to share.
+
+Hvordan fungerer jeg?
+
+
+
+
+### Notes
 - Text writer
 - Graphic design
 - Interaction design
 - Privacy - GDPR
 - Security
-- Brukerinnsikt - hva kan du få som du kan jobbe med
+- User
 - SEO
 - Team 
     - leader 
@@ -90,7 +158,7 @@ Noen må eie ansvaret
     - suttrepaven - er ofte noe fornuftig under all suttringa
 
 
-Runar
+R
 - produktuvikling
 - lage produkter - effekten av det vi lager. hva skal vi gi til det vi bruker systemet til
 - hvordan jeg finne ut hvilken effekt vi skal skape - hvordan vet vi om vi skaper den effekten
@@ -199,29 +267,3 @@ J
 - GDPR
 
 - hvorfor gjør vi det vi gjør?
-
-### The Topics I ended up selecting
-
-#### 1. The Student Hat
-We are doing knowledge work. Our job is to learn things. But there is such a thing as beginner experts and fixed mindsets. Looking into how to learn and adopt what I learn from this project seems like an obvious place to start. 
-
-#### 2. Design Systemer
-#### 3.
-#### 4.
-#### 5.
-#### 6.
-#### 7.
-#### 8. Team dynamikk 
-
-#### 9. The Mentor Hat
-We are all mentors in some capacity. Being a good colleague or partner is important. I hope to learn more about this topic as I talk with people trough the year, that is why I want to do this topic as late as possible to incorporate what I learn into this topic.
-
-- Lærerhatten
-- Fadder
-- Personalleder
-- Tech lead
-
-#### 10. The Human hat
-We are all humans that have to deal with emotions and stress. I put this topic last as it is one I continually learn about even outside of this project so I wanted to tackle it last as it is when I feel like I have to most to share.
-
-Hvordan fungerer jeg?

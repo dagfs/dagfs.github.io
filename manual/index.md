@@ -71,9 +71,9 @@ I need some time by myself. I usually like to do a bit of reading and have a few
 
 Er det noe som gjør at du liker å jobbe med meg?
 Er det noe du synes gjør det vanskelig å jobbe med meg?
-Har du noe du har vurdert å si til meg flere ganger men latt være?
+Har du noe du har vurdert å si til meg / spørre meg om / utfordre meg på men latt være?
 Når synes du jeg er god på jobb?
-Hva er noe du har missforstått om meg?
+Er det noe du føler du missforstod om meg i starten?
 
 
 # TODO

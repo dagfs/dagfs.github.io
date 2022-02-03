@@ -100,7 +100,7 @@ Bøker er fasinerende. En person har brukt mye tid på å prøve å definere en 
 - klok på følelser
 - mans search for meaning
 - the anatomy of peace - sannheten fryter ikke å bli gransket - self deception
-- how to fail at nearly everything and still winn big.
+- how to fail at nearly everything and still win big.
 - the gita
 
 og mange flere
@@ -113,3 +113,14 @@ Finn og snakk rundt noen tema fra #ekte poster
 ## DIV
 
 > You are creating problems in your head agin. Stop that
+
+
+
+> As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts. There are seven words that will make a person love you. There are ten words that will break a strong man’s will. But a word is nothing but a painting of a fire. A name is the fire itself.
+― Patrick Rothfuss, The Name of the Wind
+
+https://www.amazon.com/Anatomy-Peace-Resolving-Heart-Conflict/dp/1626564310
+
+>ruth Has No Fear... and the Truth will Stand up to Scrutiny - it welcomes it - but that which is not the truth will resist all scrutiny by any means possible - Think about what you believe - does it resist scrutiny, does it threaten you with the loss of your soul if you ask too many questions - does it require you to take something as truth on faith alone... if so, it really isn't the truth, now is it?
+
+https://www.youtube.com/watch?v=LTFNrK_-Ulw

@@ -2,6 +2,23 @@
 
 ## January
 
+### 2022.02.03 - Updated the hats page
+
+
+### 2022.01.26 - Preliminary selected topics
+
+### 2022.01.21 - Chat to get input to topics to explore
+- Added notes
+
+### 2022.01.20 - Chat to get input to topics to explore
+- Added notes
+
+### 2022.01.18 - Chat to get input to topics to explore
+- Added notes
+
+### 2022.01.17 - Chat to get input to topics to explore
+- Added notes
+
 ### 2022.01.12 - Input from team
 - Added some input from a team discussion
 
