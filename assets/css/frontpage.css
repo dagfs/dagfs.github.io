@@ -1,7 +1,5 @@
 body, html{
     word-wrap: break-word;
-    background: #efe;
-    color:#041;
     padding:0;
     margin:0;
     font-family: 'Ubuntu', sans-serif;
@@ -21,20 +19,28 @@ body, html{
 
 
 a{
-  color:#dab;
 }
 
 h1{
+  color:#041;
   font-size:3rem;
 }
   
-   h2{
+   h2{   
+     color:#041;
   font-size:2rem;
   border-bottom: 1px solid #dab;
 }
   
    h3{
+    color:#041;
+
   font-size:1.5rem;
+}
+
+h4, h5,h6{
+  color:#041;
+
 }
 
 /* h1, h2, h3, h4, h5, h6{
