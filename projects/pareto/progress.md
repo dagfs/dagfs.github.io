@@ -1,11 +1,19 @@
-# Progress of project Pareto Hats 
+# Progress of project Pareto  
 
-## January
+
+## February
+
+### 2022.02.04 - Catchup with mentor
+- Going trough ideas for the year
+- Trying to scope the project 
 
 ### 2022.02.03 - Updated the hats page
 
 
 ### 2022.01.26 - Preliminary selected topics
+
+
+## January
 
 ### 2022.01.21 - Chat to get input to topics to explore
 - Added notes

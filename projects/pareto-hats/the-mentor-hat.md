@@ -1,1 +1,0 @@
-set klare realistiske mål med en tidsfrist. Følg opp

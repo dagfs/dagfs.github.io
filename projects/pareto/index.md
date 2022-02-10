@@ -1,4 +1,4 @@
-## Project Pareto Hats
+## Project Pareto 
 
 This project aims to provide 20% of the knowledge for the common tasks in a modern software development project that are not coding related. As to provide teams in all sizes, but particularly small sizes with the tools needed to 
 
@@ -19,7 +19,6 @@ The project is guided by Parkinson's law by operating under strict time limits a
 
 [Wikipedia: Learning Pyramid](https://en.wikipedia.org/wiki/Learning_pyramid)
 
-This project inspired by Edward de Bono's six thinking hats.
 
 ### Project outline
 The project will spend 4-6(1.5+3.5) hours a month on a topic trying to summarize and share the most important information about each topic. The first month will be spent gathering topics to explore and materials to read. There will also be a one month vacation. So a total of 10 topics will be explored.
@@ -30,9 +29,9 @@ Each topic will receive it's own sub-page where working notes will be collected.
 *Everything beneath the line is WIP*
 
 ---
-### Hats in software development (January)
+### Topics in software development (January)
 
-[Working notes](./the-hats)
+[Working notes](./the-topics)
 
 ### Hat 1 (February)
 
@@ -52,4 +51,4 @@ Each topic will receive it's own sub-page where working notes will be collected.
 ### The Mentor Hat (November)
 
 ### The Human Hat (December)
-[Working notes](./the-human-hat)
+[Working notes](./human)

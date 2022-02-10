@@ -91,7 +91,11 @@ We are doing knowledge work. Our job is to learn things. But there is such a thi
 
 
 #### 3. Brukerinnsikt - Hvilke ord?
-#### 4. Brukerinnsikt - Hvilke ord?
+Hva kommer brukeren til å bruke?
+
+#### 4. Kundeforståelse - Hvilke ord?
+Hva blir kunden målt på?
+
 #### 5. Design
 #### 6. UU
 #### 7. GDPR
