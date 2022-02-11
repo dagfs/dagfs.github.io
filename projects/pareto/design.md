@@ -5,9 +5,9 @@ This page tries to sum up the 20% of design knowledge that can give you 80% of t
 For more about the project see the [Project Pareto main page](./projects/pareto/)
 
 TODO
-- [] Write about the principles
-- [] Write about common components
-- [] Find axamples to use for the principlces as it helps people remember.
+-[ ] Write about the principles
+-[ ] Write about common components
+-[ ] Find axamples to use for the principlces as it helps people remember.
 
 ## Why you need to know about UX 
 https://www.kode24.no/artikkel/hva-bor-en-ux-designer-kunne-vi-er-jo-knapt-enige-om-hva-ux-egentlig-innebaerer/75095220?fbclid=IwAR0ELfx1iA5vTvUr0Y4Sr8sP9IAM9jlJFi8Io4sA3P6ePyzsbNW6zKbl0zo
