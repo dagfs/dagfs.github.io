@@ -4,6 +4,7 @@ body, html{
     margin:0;
     font-family: 'Ubuntu', sans-serif;
   scroll-behavior: smooth;
+  background-color: #efe;
 }
 
 #header_wrap, #footer_wrap{
@@ -19,11 +20,15 @@ body, html{
 
 
 a{
-  color:black;
+  color:#041;
 }
 
 #project_title{
   color:#041;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family:monospace;
 }
 
 h1{
