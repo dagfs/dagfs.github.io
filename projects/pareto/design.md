@@ -15,6 +15,11 @@ https://www.kode24.no/artikkel/hva-bor-en-ux-designer-kunne-vi-er-jo-knapt-enige
 
 https://www.kode24.no/kodenytt/mener-norge-trenger-flere-ux-utviklere/72871483
 
+
+mental models - you know what the thing is supposed to do. you already have a mental model of it. people need to build their own mental model based on what you show them and then act upon that model. not upon your model.
+
+your mental models > your design > peoples mental model
+
 ## Design principles
 
 First of, lets look at a few principles that is nice to have in the back of your mind when making anything.
@@ -83,6 +88,7 @@ People do not want to read
 
 - 10 heurustikker - https://www.nngroup.com/articles/ten-usability-heuristics/
 
+### Endringsblindhet
 
 ## Design of common components 
 
