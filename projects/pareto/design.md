@@ -1,4 +1,4 @@
-## Project Pareto - Design
+# Project Pareto - Design
 
 This page tries to sum up the 20% of design knowledge that can give you 80% of the results. This is not meant as a replacement of a designer, but as a knowledgebase to educated software developers about design to mangage by them selves and to provide support for designers on their teams.
 
