@@ -1,8 +1,14 @@
-## The Student Hat
+# 1. Learning
 We are doing knowledge work. Our job is to learn things. But there is such a thing as beginner experts and fixed mindsets. Looking into how to learn and adopt what I learn from this project seems like an obvious place to start. 
 
 - https://news.ycombinator.com/item?id=28482726
 - https://news.ycombinator.com/item?id=29116026
+
+
+
+
+## beginner experts  
+## fixed mindsets.
 
 find some podcasts
 - 
@@ -53,3 +59,4 @@ Read trough exisitng documentation and take notes. Note things you need to explo
 
 
 less wrong how to change your mind
+

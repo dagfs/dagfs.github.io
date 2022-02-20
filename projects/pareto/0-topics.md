@@ -1,8 +1,8 @@
-## Hats in software development
+# Topics to explore
 
-This is the working pages for the first month of project Pareto Hats where the different types of tasks on a project (outside of coding-related tasks) along with some resources are collected.
+This is the working pages for the first month of project Pareto where the different types of topics related to software development.
 
-My strategy for identifying different hats to explore is to look at lists I've compiled before, online lists, ask in groupchats that I am part of and talk with experienced people about important skills that is often overlooked in software development projects. I will also ask about recourses that people have found important to them trough their careerers and see what they are about.
+My strategy for identifying different topics to explore is to look at lists I've compiled before, online lists, ask in groupchats that I am part of and talk with experienced people about important skills that is often overlooked in software development projects. I will also ask about recourses that people have found important to them trough their careerers and see what they are about.
 
 Once the list of possible topics has grown long, I'll look trough and select 10 I find interesting and that I've gotten some good articles to explore. I will then start exploring the material I have, along with material I find by myself, by asking for articles and talking with people experienced in the topic.
 
@@ -10,14 +10,9 @@ Once I've explored each topic for a certain amount of time, I'll summarize what 
 
 I expect that multiple topics will be explored at the same time as many do overlap and I'll make sure to write down what I find for topics I'm not currently working on. But my goal is to focus on exploring one topic at a time as to spend a fixed amount of time exploring it to learn the most important things in a short amount of time.
 
-### Strategy for finding topics to explore
+## Strategy for finding topics to explore
 
 Talk about this project with everyone. To see what ideas they have and what they have learned.
-
-Ask questions in Slack to prompt things learned and topics.
-
-- Hva har vært du lært det siste året som har endret hvordan du tenker?
-- Hva er en ting du har lært på 
 
 Read articles about others experiences.
 - https://www.kode24.no/artikkel/jeg-var-alltid-redd-for-at-folk-skulle-tro-jeg-kunne-mer-enn-jeg-gjorde/75065973
@@ -36,13 +31,7 @@ Read articles about others experiences.
 - https://news.ycombinator.com/item?id=27161901
 - https://news.ycombinator.com/item?id=28797485
 
-
-#### Questions
-
-- Hva opplever du at prosjektet du sitter på mangler kompetanse på?
-- Hva er en ting du synes alle som jobber i bransjen vår burde kunne litt om?
-
-### List of possible topics to explore
+## List of possible topics to explore
 
 Topics that someone on the team has to "own" or take responsibility for.
 
@@ -82,26 +71,37 @@ Topics that someone on the team has to "own" or take responsibility for.
 - big picture
 - user feedback
 
-### The Topics I ended up selecting
+## The Topics I ended up selecting
 
-#### 1. The Student Hat
-We are doing knowledge work. Our job is to learn things. But there is such a thing as beginner experts and fixed mindsets. Looking into how to learn and adopt what I learn from this project seems like an obvious place to start. 
+### 1. Learning
+We are doing knowledge work. Our job is to learn things. But there is such a thing as beginner experts and fixed mindsets. Looking into how to learn and adapt what I learn from this project seems like an obvious place to start. 
 
-#### 2. The Team Hat
+### 2. Free and open-source software - FOSS
+The world is running on FOSS. I want to understand how this works better and see how I can help contribute to make it more sustainable. 
+
+### 3. Teams
+Almost no work is done utterly by yourself. Most work is done in collaborations with multiple people. Exploring team dynamics and how to contribute, and take advantage of teams better seems like a worthwhile endeavor. There are also quite a few books on the topic I would like to read.
 
 
-#### 3. Brukerinnsikt - Hvilke ord?
-Hva kommer brukeren til å bruke?
+### 4. Understanding the users
+As an IT-consultant I usually have to understand both the business goals of the company my contracted by and the needs of their users that I am to serve. Learning more about how to understand the users and the tools used to do so seems crucial to deliver the most value.
 
-#### 4. Kundeforståelse - Hvilke ord?
-Hva blir kunden målt på?
+### 5. Understanding the customer
+As an IT-consultant I usually have to understand both the business goals of the company my contracted by and the needs of their users that I am to serve. Learning more about how to understand the customer and the tools used to do so seems crucial to deliver the most value.
 
-#### 5. Design
-#### 6. UU
-#### 7. GDPR
-#### 8. Security
+### 6. Design
+Understanding users is not enough. We also need to know how to design things that solves their problems. Understanding grapichal design and user experience design to some degree is important. 
 
-#### 9. The Mentor Hat
+### 7. Accessability
+While understanding a bit of design is important. It is vital to understand that to be a fair and inclusive spechies, we need to assure accesability for people all kinds of challenges. Most of us has to some degree some kind of challenge. And temporary conditions requireing some consideration outside of normal is even more common. Taking accessebility into account also improves the experience and gives benefits to thouse not affected by the challenges the guidelines was concerned with.
+
+### 8. Privacy
+Privacy is a human right. "I got nothing to hide" just does not cut it. The information we keep about the users of our services is our responsibility. Losing or sharing it puts our users in harms way. It is vital to understand why and how to do these things properly.
+
+### 9. Security
+To keep our users and customers safe we need to understand a base level of security. I want to learn more about common problems and how to check for vulnerabilities in the projects I work on.
+
+### 10. Mentoring
 We are all mentors in some capacity. Being a good colleague or partner is important. I hope to learn more about this topic as I talk with people trough the year, that is why I want to do this topic as late as possible to incorporate what I learn into this topic.
 
 - Lærerhatten
@@ -109,15 +109,11 @@ We are all mentors in some capacity. Being a good colleague or partner is import
 - Personalleder
 - Tech lead
 
-#### 10. The Human hat
+### 11. Self
 We are all humans that have to deal with emotions and stress. I put this topic last as it is one I continually learn about even outside of this project so I wanted to tackle it last as it is when I feel like I have to most to share.
 
-Hvordan fungerer jeg?
 
-
-
-
-### Notes
+## Notes
 - Text writer
 - Graphic design
 - Interaction design

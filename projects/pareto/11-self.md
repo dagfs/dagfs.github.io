@@ -1,4 +1,4 @@
-## The Human Hat
+# 11. Self
 
 This topic is about being a human in software development projects and in any knowledge work profession in general.
 

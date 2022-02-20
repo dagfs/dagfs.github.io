@@ -1,4 +1,5 @@
-# Project Pareto - Design
+# 6. Design
+Understanding users is not enough. We also need to know how to design things that solves their problems. Understanding grapichal design and user experience design to some degree is important. 
 
 This page tries to sum up the 20% of design knowledge that can give you 80% of the results. This is not meant as a replacement of a designer, but as a knowledgebase to educated software developers about design to mangage by them selves and to provide support for designers on their teams.
 
@@ -22,7 +23,7 @@ your mental models > your design > peoples mental model
 
 ## Design principles
 
-First of, lets look at a few principles that is nice to have in the back of your mind when making anything.
+First, let us look at a few principles that are nice to have in the back of your mind when making anything.
 
 
 ### Affordance
@@ -88,6 +89,8 @@ People do not want to read
 
 - 10 heurustikker - https://www.nngroup.com/articles/ten-usability-heuristics/
 
+- [] Se om det er noen flere ting her: https://dagfs.dev/notes/ux-auditing
+
 ### Endringsblindhet
 
 ## Design of common components 
@@ -103,9 +106,29 @@ https://medium.com/nextux/design-better-forms-96fadca0f49c
 Søkefelt
 https://uxplanet.org/design-a-perfect-search-box-b6baaf9599c
 
-## Reccomended books
+
+## Graphic
+
+### Shapes
+
+https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed
+
+### Color
+
+### Hiarachy
+
+## Recomended books
 
 Bøker
 - 100 ting designerere trenger å vite om folk - https://www.adlibris.com/no/bok/100-things-every-designer-needs-to-know-about-people-9780136746911?gclid=Cj0KCQiAjJOQBhCkARIsAEKMtO2MWv5R7bzDXxSMOMW6aobploKsNHCBKJ0-8OtXFReeSA7Sdx8DRB0aAt1xEALw_wcB
 
 - design of everyday things
+
+## Design systems
+
+## UX auditing
+Is this something that could work?
+
+## Dark Mode
+
+More [on using Dark Mode](/notes/dark-mode)

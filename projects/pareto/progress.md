@@ -3,6 +3,9 @@
 
 ## February
 
+### 2022.02.20 - Finnish topics page
+- Finnish the topics page and start one sub page for each topic
+
 ### 2022.02.04 - Catchup with mentor
 - Going trough ideas for the year
 - Trying to scope the project 
