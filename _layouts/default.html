@@ -1,76 +1,90 @@
 <!DOCTYPE html>
 <html lang="en-US">
-
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <meta name="description" content="Dag's Mind Cabin - Where I collect my thoughts">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="viewport" content="width=device-width,maximum-scale=2" />
+    <meta
+      name="description"
+      content="Dag's Mind Cabin - Where I collect my thoughts"
+    />
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/article.css"> 
-    <link rel="stylesheet" type="text/css" href="/assets/css/frontpage.css"> 
-    <link rel="stylesheet" type="text/css" href="/assets/css/presentation.css"> 
-    <link rel="stylesheet"
-      href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
- 
-    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet"> 
-{% seo %}
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
+    <link
+      rel="stylesheet"
+      href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    {% seo %}
   </head>
 
   <body>
-
     <!-- HEADER -->
-    <div id="header_wrap" >
-      <header >
+    <div id="header_wrap">
+      <header>
         <div id="project_title">DagFS.dev</div>
-</header>
-  </div>
+      </header>
+    </div>
 
     <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" >
+    <div id="main_content_wrap">
       <section id="main_content">
-       {{ content }}
-       <div id="timer">20</div>
+        {{ content }}
+        <div id="timer">20</div>
       </section>
     </div>
 
     <!-- FOOTER  -->
-        <div id="footer_wrap" >
-    <footer >
-
-   
-      </footer>
+    <div id="footer_wrap">
+      <footer></footer>
     </div>
 
-      <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
+    <script type="text/javascript">
+      (function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "//www.google-analytics.com/analytics.js",
+        "ga"
+      );
+      ga("create", "{{ site.google_analytics }}", "auto");
+      ga("send", "pageview");
+    </script>
 
-        <script>
-          var wip = `<div class="wip">
+    <script>
+      var wip = `<div class="wip">
                         <i class="las la-exclamation-triangle main-icon"></i>
                         <br />
                         <span class="main"><i class="las la-wrench"></i> This article is under construction.</span>
                         <br />It's content, structure or url might change without notice or changelog.
             </div>`;
-          if (window.location.href.indexOf("wip") > -1) {
-            var wrap = document.createElement('div');
-            wrap.innerHTML = wip;
-            document.getElementById("main_content").prepend(wrap);
-          }
-        </script>
+      if (window.location.href.indexOf("wip") > -1) {
+        var wrap = document.createElement("div");
+        wrap.innerHTML = wip;
+        document.getElementById("main_content").prepend(wrap);
+      }
+    </script>
 
     <script>
-
-    
       var presenterWindow = null;
       function asHTML(node) {
-        var wrap = document.createElement('div');
+        var wrap = document.createElement("div");
         wrap.appendChild(node.cloneNode(true));
         return wrap.innerHTML;
       }
@@ -84,20 +98,33 @@
 
         if (["H1", "H2"].includes(content.children[i].nodeName)) {
           if (child.innerHTML.indexOf("[presentation-only]") > -1) {
-            console.log(child)
+            console.log(child);
             child.classList.add("presentation-only");
-            child.innerHTML = child.innerHTML.replace("[presentation-only]", "");
+            child.innerHTML = child.innerHTML.replace(
+              "[presentation-only]",
+              ""
+            );
           }
           if (currentSection) {
-            newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
-            slideCount++
+            newContent +=
+              "\n</div>\n<div id='slide" +
+              slideCount +
+              "' class='slide'>\n" +
+              currentSection +
+              "\n</div>\n";
+            slideCount++;
           }
           currentSection = asHTML(child) + '\n<div class="slide-body">\n';
         } else {
           currentSection += asHTML(child);
         }
       }
-      newContent += "\n</div>\n<div id='slide" + slideCount + "' class='slide'>\n" + currentSection + "\n</div>\n";
+      newContent +=
+        "\n</div>\n<div id='slide" +
+        slideCount +
+        "' class='slide'>\n" +
+        currentSection +
+        "\n</div>\n";
 
       content.innerHTML = newContent;
 
@@ -110,11 +137,11 @@
         var keyCode = e.keyCode;
         if (keyCode == 33 || keyCode == 37) {
           e.preventDefault();
-          prev()
+          prev();
         }
         if (keyCode == 34 || keyCode == 39) {
           e.preventDefault();
-          next()
+          next();
         }
 
         if (keyCode == 80) {
@@ -126,13 +153,10 @@
           togglePresentation();
         }
 
-
         if (keyCode == 27) {
           presentation = true;
           togglePresentation();
         }
-
-
 
         if (keyCode == 75 || keyCode == 190) {
           togglePC();
@@ -147,7 +171,6 @@
           document.body.classList.add("presentation");
           if (confirm("Open presenter window?")) {
             openPresenterWindow();
-
           }
         } else {
           document.body.classList.remove("presentation");
@@ -168,21 +191,16 @@
 
       function gotoSlide(slide) {
         if (presenterWindow) presenterWindow.location.hash = "slide" + slide;
-        setTimeout(
-          () => {
-            window.location.hash = "slide" + slide;
-
-          }
-          , 100
-        )
-
+        setTimeout(() => {
+          window.location.hash = "slide" + slide;
+        }, 100);
       }
       var secondsLeft = 20;
       var pcTimeout;
       function togglePC() {
         toggleTimerVisability();
         if (!pcTimeout) {
-          runPC()
+          runPC();
         } else {
           clearTimeout(pcTimeout);
           pcTimeout = undefined;
@@ -203,7 +221,7 @@
               runPC();
             }
           }
-        }, 1000)
+        }, 1000);
       }
 
       function updateTimer() {
@@ -220,23 +238,82 @@
 
       function openPresenterWindow() {
         if (presenterWindow == null || presenterWindow.closed) {
-          presenterWindow = open(window.location.href, '_blank', "width=200,height=100");
+          presenterWindow = open(
+            window.location.href,
+            "_blank",
+            "width=200,height=100"
+          );
           console.log(presenterWindow);
           setTimeout(startPresenterMode, 5000);
-        }
-        else {
+        } else {
           presenterWindow.focus();
-        };
+        }
       }
-
-
 
       function startPresenterMode() {
         presenterWindow.document.body.classList.add("presentation");
         presenterWindow.document.body.classList.add("presenter-mode");
-
       }
-        </script>
-        
+    </script>
+    <script>
+      const setTheme = (theme) => {
+        console.log(theme);
+        localStorage.setItem("theme", theme);
+        document.body.classList.remove("dark");
+        document.body.classList.remove("light");
+        switch (theme) {
+          case State.Dark:
+            return document.body.classList.add("dark");
+          case State.Light:
+            return document.body.classList.add("light");
+        }
+      };
+
+      const State = {
+        Auto: "auto",
+        Light: "light",
+        Dark: "dark",
+      };
+
+      const getNextState = (currentState) => {
+        let systemColorScheme = State.Auto;
+        if (
+          window.matchMedia &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches
+        ) {
+          let systemColorScheme = State.Dark;
+        }
+
+        if (systemColorScheme === State.Dark) {
+          switch (currentState) {
+            case State.Dark:
+              return State.Light;
+            case State.Light:
+              return State.Auto;
+            default:
+              return State.Dark;
+          }
+        }
+
+        switch (currentState) {
+          case State.Light:
+            return State.Dark;
+          case State.Dark:
+            return State.Auto;
+          default:
+            return State.Light;
+        }
+      };
+
+      const themeToggle = document.getElementById("theme-toggle");
+      console.log(themeToggle);
+      themeToggle.onclick = function () {
+        const theme = localStorage.getItem("theme");
+        setTheme(getNextState(theme));
+      };
+
+      const theme = localStorage.getItem("theme");
+      setTheme(theme);
+    </script>
   </body>
 </html>

@@ -1,0 +1,276 @@
+body {
+  --main-green-dark: #041;
+  --main-green-light: #efe;
+  --main-pink: #dab;
+
+  --theme-background: var(--main-green-light);
+  --theme-text: black;
+  --theme-link: var(--main-green-dark);
+  --theme-header: var(--main-green-dark);
+  --theme-header-underline: var(--main-pink);
+  --theme-black-quote-bar: var(--main-pink);
+}
+
+#header_wrap header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#theme-toggle:before{
+  content:"◐";
+  font-size: 64px;
+  color: var(--theme-header);
+}
+
+@media (prefers-color-scheme: dark) {
+  body{
+    --theme-background: var(--main-green-dark);
+    --theme-text: var(--main-green-light);
+    --theme-link: var(--main-pink);
+    --theme-header: var(--main-pink);
+    --theme-header-underline: var(--main-pink);
+    --theme-black-quote-bar: var(--main-pink);
+  }
+}
+
+
+
+
+body.light #theme-toggle:before{
+  content:"◯";
+}
+
+body.dark #theme-toggle:before{
+  content:"●";
+}
+
+body.light{
+  --theme-background: var(--main-green-light);
+  --theme-text: black;
+  --theme-link: var(--main-green-dark);
+  --theme-header: var(--main-green-dark);
+  --theme-header-underline: var(--main-pink);
+  --theme-black-quote-bar: var(--main-pink);
+}
+
+body.dark{
+  --theme-background: var(--main-green-dark);
+  --theme-text: var(--main-green-light);
+  --theme-link: var(--main-pink);
+  --theme-header: var(--main-pink);
+  --theme-header-underline: var(--main-pink);
+  --theme-black-quote-bar: var(--main-pink);
+}
+
+
+
+
+
+body,
+html {
+  word-wrap: break-word;
+  padding: 0;
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+  scroll-behavior: smooth;
+  background-color: var(--theme-background);
+  color:var(--theme-text);
+}
+
+#header_wrap,
+#footer_wrap {
+  width: 100%;
+}
+
+#main_content,
+header,
+footer {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+a {
+  color: var(--theme-link);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#project_title {
+  font-family: monospace;
+  color: var(--theme-header);
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+  border-bottom: 1px solid var(--main-pink);
+}
+h3 {
+  font-size: 1.5rem;
+}
+
+.front-image img {
+  width: 30%;
+  max-width: 200px;
+  display: inline-block;
+}
+
+#project_title {
+  font-size: 3rem;
+}
+
+#project_tagline {
+  font-size: 2rem;
+}
+
+/* ----------------------------- */
+
+blockquote {
+  border-left: 5px solid var(--theme-black-quote-bar);
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 5px 5px 5px 20px;
+  margin: 10px;
+}
+
+.wip {
+  background-color: #db8;
+  color: black;
+  width: 80%;
+  text-align: center;
+  padding: 20px;
+  margin: 10px auto;
+  border: 5px dashed lightcyan;
+}
+
+.wip .main {
+  font-size: 25px;
+}
+
+.main-icon {
+  font-size: 50px;
+}
+
+object {
+  width: 100%;
+  margin: 0 auto;
+  max-height: 200px;
+}
+
+/* --------------------- */
+
+.presentation-only {
+  display: none;
+}
+
+body.presentation {
+  background: var(--main-green-dark);
+  color: var(--main-pink);
+}
+
+body.presentation .wip {
+  display: none;
+}
+body.presentation .presentation-only {
+  display: block;
+}
+
+body.presentation #main_content {
+  max-width: none;
+  padding: 0;
+}
+
+body.presentation .slide {
+  margin: 0;
+  display: inline-block;
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+body.presenter-mode .slide {
+  margin: 0;
+  display: inline-block;
+  width: 50%;
+  height: 50vh;
+  box-sizing: border-box;
+}
+
+body.presentation .slide-body {
+  padding: 1vh 1vw;
+
+  margin-bottom: 0;
+}
+
+body.presentation #header_wrap {
+  display: none;
+}
+
+body.presentation .slide-body > p {
+  display: none;
+}
+
+body.presentation #footer_wrap {
+  display: none;
+}
+
+body.presentation h1 {
+  margin: 10vh auto 0 auto;
+  font-size: 15vh;
+  text-align: center;
+}
+
+body.presentation h2 {
+  margin: 0;
+  padding: 1vh 1vw;
+  border-bottom: 1px solid var(--main-pink);
+}
+
+body.presentation h3,
+body.presentation h4,
+body.presentation h5 {
+  display: none;
+}
+
+body.presentation object {
+  max-width: 50%;
+  max-height: 50vh;
+  margin: 5% 25%;
+}
+
+body.presentation-mode object {
+  margin: 1% 15% 1% 15%;
+}
+
+body.presentation table,
+body.presentation ul {
+  display: none;
+}
+
+#timer {
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+  border-radius: 2em;
+  border: 2px solid black;
+  font-size: 2em;
+  width: 1.3em;
+  height: 1.3em;
+  padding: 0.3em;
+  background: #faa;
+  display: none;
+  text-align: center;
+}
+
+body.show-timer #timer {
+  display: block;
+}
