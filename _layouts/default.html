@@ -258,7 +258,6 @@
     </script>
     <script>
       const setTheme = (theme) => {
-        console.log(theme);
         localStorage.setItem("theme", theme);
         document.body.classList.remove("dark");
         document.body.classList.remove("light");
@@ -307,7 +306,6 @@
       };
 
       const themeToggle = document.getElementById("theme-toggle");
-      console.log(themeToggle);
       themeToggle.onclick = function () {
         const theme = localStorage.getItem("theme");
         setTheme(getNextState(theme));

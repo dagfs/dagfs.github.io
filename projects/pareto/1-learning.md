@@ -5,7 +5,13 @@ We are doing knowledge work. Our job is to learn things. But there is such a thi
 - https://news.ycombinator.com/item?id=29116026
 
 
+- https://www.activelylearn.com/post/metacognition
 
+>Writing about something, even something you know well, usually shows you that you didn't know it as well as you thought. Putting ideas into words is a severe test.
+Paul Graham - [http://www.paulgraham.com/words.html](http://www.paulgraham.com/words.html)
+
+
+https://fs.blog/feynman-technique/
 
 ## beginner experts  
 ## fixed mindsets.

@@ -11,3 +11,8 @@ Pass på tid og oppgaver
 Ikke vær deltager
 
 Vår åpen for at det blir et annet resultat enn du så for deg i forkant
+
+
+listen, advice or involve? https://knoxvillemoms.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-30-at-8.05.42-PM.png
+
+People often have the answers in them.

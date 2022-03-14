@@ -14,7 +14,7 @@ Målet mitt for året er å:
     - [ ] [September - Privacy](/projects/pareto/8-privacy)
     - [ ] [Oktober - Security](/projects/pareto/9-security)
     - [ ] [November - Mentor ](/projects/pareto/10-mentor)
-    - [ ] [Desember - [Self](/projects/pareto/11-self)
+    - [ ] [Desember - Self](/projects/pareto/11-self)
   - [ ] Publisere artikklene som julekallenderartikkler? Medium serie?
   - [ ] Drypp? Podcastepisoder?
   - [ ] Videoer? - Poste på Atlas

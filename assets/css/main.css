@@ -7,6 +7,7 @@ body {
   --theme-text: black;
   --theme-link: var(--main-green-dark);
   --theme-header: var(--main-green-dark);
+  --theme-mode: var(--main-green-dark);
   --theme-header-underline: var(--main-pink);
   --theme-black-quote-bar: var(--main-pink);
 }
@@ -18,32 +19,46 @@ body {
   justify-content: space-between;
 }
 
+#theme-toggle{
+  position: relative;
+}
+
 #theme-toggle:before{
-  content:"◐";
+  content:"⊝";
   font-size: 64px;
   color: var(--theme-header);
+  position: absolute;
+  line-height: 80px;
+  font-size: 38px;
+  top:0;
+  left: 0;
 }
 
 @media (prefers-color-scheme: dark) {
   body{
-    --theme-background: var(--main-green-dark);
+    --theme-background: black;
     --theme-text: var(--main-green-light);
     --theme-link: var(--main-pink);
     --theme-header: var(--main-pink);
+    --theme-header: var(--main-mode);
     --theme-header-underline: var(--main-pink);
     --theme-black-quote-bar: var(--main-pink);
   }
 }
 
 
-
-
 body.light #theme-toggle:before{
-  content:"◯";
+  content:"○";
+  line-height: initial;
+  font-size: 64px;
 }
+
+
 
 body.dark #theme-toggle:before{
   content:"●";
+  line-height: initial;
+  font-size: 64px;
 }
 
 body.light{
@@ -51,15 +66,17 @@ body.light{
   --theme-text: black;
   --theme-link: var(--main-green-dark);
   --theme-header: var(--main-green-dark);
+  --theme-header: var(--main-green-mode);
   --theme-header-underline: var(--main-pink);
   --theme-black-quote-bar: var(--main-pink);
 }
 
 body.dark{
-  --theme-background: var(--main-green-dark);
+  --theme-background: black;
   --theme-text: var(--main-green-light);
   --theme-link: var(--main-pink);
   --theme-header: var(--main-pink);
+  --theme-header: var(--main-mode);
   --theme-header-underline: var(--main-pink);
   --theme-black-quote-bar: var(--main-pink);
 }

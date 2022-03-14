@@ -2,6 +2,7 @@
 
 This topic is about being a human in software development projects and in any knowledge work profession in general.
 
+Stoicism in practice.
 
 Anything you avoid will only grow to be a bigger problem in your life. St. George and facing the dragons.
 ### Stress
@@ -29,3 +30,6 @@ https://www.ted.com/talks/emily_nagoski_and_amelia_nagoski_the_cure_for_burnout_
 - What is this could be easy?
 
 One book, one question
+
+
+https://ideas.ted.com/the-7-types-of-rest-that-every-person-needs/
