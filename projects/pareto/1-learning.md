@@ -66,3 +66,5 @@ Read trough exisitng documentation and take notes. Note things you need to explo
 
 less wrong how to change your mind
 
+
+https://miro.com/app/board/uXjVOGdNX0g=/?invite_link_id=818858975811
