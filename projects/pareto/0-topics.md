@@ -74,7 +74,7 @@ Topics that someone on the team has to "own" or take responsibility for.
 ## The Topics I ended up selecting
 
 ### 1. Learning
-We are doing knowledge work. Our job is to learn things. But there is such a thing as beginner experts and fixed mindsets. Looking into how to learn and adapt what I learn from this project seems like an obvious place to start. 
+We are knowledge workers. So the obvious place to start is to look into how to learn things better and get into new topics faster.
 
 ### 2. Free and open-source software - FOSS
 The world is running on FOSS. I want to understand how this works better and see how I can help contribute to make it more sustainable. 

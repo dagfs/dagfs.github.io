@@ -39,7 +39,7 @@ The first part of Project Pareto was identifying topics to explore. The followin
 
 ---
 
-## 1. Learning (Februry)
+## 1. Learning (February)
 We are doing knowledge work. Our job is to learn things. But there is such a thing as beginner experts and fixed mindsets. Looking into how to learn and adapt what I learn from this project seems like an obvious place to start. 
 
 [Working notes](./1-learning)
