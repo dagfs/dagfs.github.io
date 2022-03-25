@@ -27,6 +27,9 @@ Vi gruer oss også ofte for ting vi ikke hadde trengt å grue oss til.
 
 Vi ender ofte opp med å være forutinntatt og ikke lære i møte med andre mennesker. conformation bias
 
+*Bør bli eget punkt på en eller annen måte*
+Vi begrenser oss selv ofte også ved å sette forventinger til oss selv og hvordan vi skal løse ting som gjør at vi ikke klarer å se de lette løsningene. Effortless. som dokumentet er oppkaldt etter
+
 ### Perspektiv
 
 ## Verktøy for å endre hvordan du tenker
