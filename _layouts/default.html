@@ -44,29 +44,6 @@
       <footer></footer>
     </div>
 
-    <script type="text/javascript">
-      (function (i, s, o, g, r, a, m) {
-        i["GoogleAnalyticsObject"] = r;
-        (i[r] =
-          i[r] ||
-          function () {
-            (i[r].q = i[r].q || []).push(arguments);
-          }),
-          (i[r].l = 1 * new Date());
-        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m);
-      })(
-        window,
-        document,
-        "script",
-        "//www.google-analytics.com/analytics.js",
-        "ga"
-      );
-      ga("create", "{{ site.google_analytics }}", "auto");
-      ga("send", "pageview");
-    </script>
 
     <script>
       var wip = `<div class="wip">
@@ -97,7 +74,7 @@
       for (var i = 0; i < content.children.length; i++) {
         const child = content.children[i];
 
-        if (["H1", "H2"].includes(content.children[i].nodeName)) {
+        if (["H1", "H2", "H3"].includes(content.children[i].nodeName)) {
           if (child.innerHTML.indexOf("[presentation-only]") > -1) {
             console.log(child);
             child.classList.add("presentation-only");
