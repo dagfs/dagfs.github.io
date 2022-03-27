@@ -13,6 +13,9 @@ Vi starter med å se på vanlige vanskelige situasjoner på jobb som passer med 
 
 ### Situasjon som er vanskelig fordi du tolker den negativt
 
+### Situasjoner som er vasnkelige fordi en rettferdiggjør noe overnfor seg selv
+heart at war
+
 
 ## Du gjør det mot deg selv
 Kort intro til sentrale begrep i stoisismen
@@ -32,6 +35,8 @@ Vi begrenser oss selv ofte også ved å sette forventinger til oss selv og hvord
 
 ### Perspektiv
 
+### Hearth at peace
+
 ## Verktøy for å endre hvordan du tenker
 Neuroplastisistet er begrepet som beskriver at vi ha rmulighet til å endre hvordan hjernen vår fungerer
 
@@ -44,6 +49,8 @@ Har tenkt å gi folk en liten eksistensiell krise ved å vise de life week calen
 ### Takknemlighet
 - motvirke iretasjon ved å tenke over 3-5 fordeler ved situasjonen du er i med en gang du tar deg i at du irriterer deg over situasjonen
 
+
+### hva kan jeg kontrollere?
 ## Oppsummering
 
 ### situasjoner på jobb
@@ -53,3 +60,6 @@ Har tenkt å gi folk en liten eksistensiell krise ved å vise de life week calen
 ### Verktøy
 
 Dele ut verktøy som folk kan ta med seg fysisk å prøve å jobbe med
+
+
+hvor mange slides er det nå?
