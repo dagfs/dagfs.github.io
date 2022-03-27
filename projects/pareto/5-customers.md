@@ -3,3 +3,8 @@ As an IT-consultant I usually have to understand both the business goals of the 
 
 TODO
 - [] OKR environment workshop
+
+
+## Miro workshop
+
+https://miro.com/app/board/uXjVOGdNX0g=/?invite_link_id=818858975811
