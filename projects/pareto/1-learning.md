@@ -23,7 +23,7 @@ A growth mindset is simply a mindset where you believe you can grow and improve 
 
 It is really easy to slip into thinking you are a certain way to avoid the uncomfortable feeling of having to learn something you do not particularly like. So try to catch yourself when you think "I can not do this". Try to reframe it to "I can not do this, yet".
 
-For more about growth mindset see the TED talk [The power of believing that you can improve | Carol Dweck](https://www.youtube.com/watch?v=_X0mgOOSpLU)
+For more about growth mindset see the TED talk [The power of believing that you can improve - Carol Dweck](https://www.youtube.com/watch?v=_X0mgOOSpLU)
 
 ### Guided VS unguided learning
 When learning something new it is a good idea to try to use a combination of guided and unguided learning. Unguided learning is a lot of what we do everyday. Looking up random bits of information that we need. Were as guided learning is a more structured approach that gives you a better foundation of a topic.
