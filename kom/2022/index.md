@@ -24,12 +24,15 @@ Målet mitt for året er å:
         - [ ] Video
         - [ ] Lære å bruke innsikt på prosjekt
     - [ ] [Juni - Customers](/projects/pareto/5-customers)
-        - [ ] Mine bærekraftige OKR - workshop for å lære OKR
+        - [ ] Mine bærekraftige OKR - workshop for å lære OKR - sammen med bærekraft faggruppa
         - [ ] Drypp
         - [ ] Artikkel 
         - [ ] Video
         - [ ] Bruke verktøyet til Helene for å sette oss inn i kunden
     - [ ] [July - Design](/projects/pareto/6-design) 
+        - [ ] Design system - set opp og strukturer designsystem
+            - dokumenter strukturen på et format som kan deles
+            - [felles svg fil](/notes/using-svg-icons.md)
         - [ ] Drypp
         - [ ] Artikkel 
         - [ ] Video
@@ -46,6 +49,7 @@ Målet mitt for året er å:
         - [ ] Artikkel 
         - [ ] Video
     - [ ] [November - Mentor ](/projects/pareto/10-mentor)
+        - [x] Veilede / være kunde for prosjekt for IT2901 
         - [ ] Drypp
         - [ ] Artikkel 
         - [ ] Video
@@ -53,28 +57,17 @@ Målet mitt for året er å:
         - [x] Drypp - stoisisme
         - [ ] Artikkel 
         - [ ] Video
-        - [x] Utstilling stoisisme
-        - [ ] Min brukermanual - Workshop for selvrefleksjon
-        - [ ] Foredrag på en ubehagelig fagkveld
+        - [x] Utstilling om stoisisme på fadagen
+        - [ ] Min brukermanual - Workshop for selvrefleksjon - med softskills?
+        - [ ] [Foredrag på en ubehagelig fagkveld](/articles/why-cant-things-be-easy/)
 
 
-  - [ ] Publisere artikklene som julekallenderartikkler? Medium serie?
-  - [ ] Drypp? Podcastepisoder?
-  - [ ] Videoer? - Poste på Atlas
+  
 - [ ] Holde et foredrag om mental helse og det å leve livet [Calming Down](/articles/calming-down)  (fagdag til sommeren ?) eller [På dypt vann](/articles/paa-dypt-vann) ved førstkommende fagdag? Fikk avslag.
-- [x] Veilede / være kunde for prosjekt for IT2901 
-- [ ] "Hvordan jobbe med meg workshop" - omdøpt til "Min manual" sammen med selvutviklende team og softskills
-- [ ] "Mine bærekraftige OKR" sammen med miljøfaggruppa
-- [x] OSS hvordan få kompansere det - samtale på fagdag og litt oppfølging for å se hva som skjer
-- [ ] Design system - prosjektet
-- [ ] ~Utstilling på fagdagen om temaene~ 
-- [x] Utstilling om stoisisme på fadagen
 
 
-TODO:
-- rename to "Project Pareto" -  10 ting å lære mest mulig på på 6 timer.
-- Se over tema og konkretiser de. Se om det er noen tema som skal endre. Lag en liten plan for hvordan angripe de forskjellige temaene.
 
 
-Ting å se:
-- https://vimeo.com/showcase/9189999/video/669150585
+
+
+
