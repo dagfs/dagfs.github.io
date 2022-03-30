@@ -91,3 +91,15 @@ Dele ut verktøy som folk kan ta med seg fysisk å prøve å jobbe med
 
 
 hvor mange slides er det nå?
+
+#### EMDR
+
+Så hva kan en gjøre for å temem elefanten? Hvordnan kan en endre sin initielle følelsemessige reaksjon?
+Jo du skriver den om ved hjelp av EMDR.
+
+Dra opp situasjonen som trigger deg. Beveg øynene fra side til side.
+Observer neste gang du er i situasjonen om det føles like sterk.
+Hvis du følger noe gjør det igjen.
+AM sin metode
+
+https://unn.no/behandlinger/emdr-eye-movement-desensitization-and-reprocessing
