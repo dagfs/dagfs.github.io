@@ -22,6 +22,8 @@ GDPR kurs
 
 https://digitalnorway.com/kurs/innforing-i-gdpr/
 
+https://cloudinary.com/blog/yet_another_gdpr_blog_post
+
 
 TODO
 - [] GDPR kurs
