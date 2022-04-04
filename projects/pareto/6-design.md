@@ -132,3 +132,6 @@ Is this something that could work?
 ## Dark Mode
 
 More [on using Dark Mode](/notes/dark-mode)
+
+
+https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/

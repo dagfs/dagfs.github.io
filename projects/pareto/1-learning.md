@@ -140,3 +140,4 @@ Read trough exisitng documentation and take notes. Note things you need to explo
 
 
 
+ - https://piggsboson.medium.com/5-powerful-study-tips-from-richard-feynman-f7a94dbb35fd
