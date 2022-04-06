@@ -7,3 +7,5 @@ https://www.amazon.com/Design-Systems-Smashing-eBooks-Kholmatova-ebook/dp/B076H4
 Hva bør jeg vite om design systemer?
 
 Hva er vanlige problemer?
+
+https://www.selbekk.io/blog/tips-for-creating-a-component-library
