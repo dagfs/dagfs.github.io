@@ -6,7 +6,7 @@ Målet mitt for året er å:
     - [x] [Januar - utforske hvilke tema å utforske](/projects/pareto/0-topics)
     - [ ] [Februar - Learning](/projects/pareto/1-learning)
         - [x] Drypp
-        - [ ] Artikkel 
+        - [x] Artikkel 
         - [ ] Video
     - [ ] [Mars - FOSS](/projects/pareto/2-foss)
         - [ ] Drypp
