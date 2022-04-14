@@ -20,7 +20,8 @@ The project is guided by Parkinson's law by operating under strict time limits a
 [Wikipedia: Learning Pyramid](https://en.wikipedia.org/wiki/Learning_pyramid)
 
 >Writing about something, even something you know well, usually shows you that you didn't know it as well as you thought. Putting ideas into words is a severe test.
-Paul Graham - [http://www.paulgraham.com/words.html](http://www.paulgraham.com/words.html)
+>
+>Paul Graham - [http://www.paulgraham.com/words.html](http://www.paulgraham.com/words.html)
 
 
 ## Project outline
@@ -40,7 +41,7 @@ The first part of Project Pareto was identifying topics to explore. The followin
 ---
 
 ## 1. Learning (February)
-We are doing knowledge work. Our job is to learn things. But there is such a thing as beginner experts and fixed mindsets. Looking into how to learn and adapt what I learn from this project seems like an obvious place to start. 
+We are knowledge workers. So the obvious place to start is to look into how to learn things better and get into new topics faster.
 
 [Working notes](./1-learning)
 
