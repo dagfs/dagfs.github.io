@@ -9,3 +9,9 @@ Hva bør jeg vite om design systemer?
 Hva er vanlige problemer?
 
 https://www.selbekk.io/blog/tips-for-creating-a-component-library
+
+
+npm install --save-dev plop
+
+
+typescript js docs storybook og plop
