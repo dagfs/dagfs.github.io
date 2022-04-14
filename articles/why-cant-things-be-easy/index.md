@@ -1,24 +1,36 @@
 # Hvorfor kan ikke ting bare være enkelt?
-Åh, hvor mange ganger om dagen går ikke den tanken gjennom hodet?
 
-## Intro
-Fortell hva jeg skal lære folk
+"Hvorfor kan ikke ting bare være enkelt?" er en tanke jeg tror mange av oss har ved gjevne mellomrom. Kanskje til og med flere ganger om dagen? I denne artikkelen vil jeg snakke om måter vi gjør livet vanskelig for oss selv og hvordan vi kan få det litt bedre.
 
-Kjør et kort teater som lager en situasjon hvor jeg gjør alle de tingene vi gjør i hverdagen som gjør ting vanskeligere for oss selv.
+Vi starter med å se på noen vanlige vanskelige situasjoner på jobb. Ser på hvordan vi gjør det vanskelig for oss selv, før vi runder av med noen verktøy som kan gjøre det lettere å jobbe med disse situasjonene.
 
-Gå opp og gjør klar til å holde presentasjonen. Prøv å starte den og få den i fullskjerm. Det går ikke. Bli frustrert og si "Hvorfor kan ikke ting bare være enkelt?". Prøv å få det til å fungere. Knot veldig. Be i forkant om at n eller en annen person kommer opp for å hjelpe. La de være ivverige og prøve selv om jeg viser at jeg ikke vil ha hjelp. Bli irritert på de fordi de ikke hjelper på den måten jeg ønsker.
 
 ## Vanskelige situasjoner på jobb
-Vi starter med å se på vanlige vanskelige situasjoner på jobb som passer med det jeg skal snakke om siden.
 
-Okay, hva skjedde der?
 
-Cut.
+La oss se på noen vanlige vanskelige situasjoner på jobb.
 
-Jeg tror det var en ubehagelig situasjon for de fleste her?
+
+**TODO**
+- restrukturer fra 3 deler med 4 situasjoner. til 4 situasjoner med situasjon og forklaring. rund av med verktøy til slutt? Eller ha det som del av situasjonen?
+
 
 ### Situasjon som er vanskelig fordi en prøver å kontrollere ting en ikke kontrollerer
-Denne situasjonen ble vanskelig fordi jeg prøvde å kontrollere noe jeg tydelighvis ikke hadde kontroll over. Problemet med PCen var den minste biten. Jeg ble irritert på x fordi han hjalp meg på feil måte. En har aldri kontroll over hvordan andre.
+
+Situasjoner som lett kan bli vanskelige, er situasjoner hvor en er avhengig av andre. Det kan være at en venter på at noen skal reviewe en PR og ikke rekker å se på den innen fornuftig tid. Det kan være at en venter på en avklaring og personen ikke kommer tilbake til deg og tar ferie som låser oppgaven for deg i flere uker. Det kan være en bug i programvare du er avhengig av å bruke, men ikke kan endre selv, så du må vente på at noen skal fikse det. 
+
+En har kanskje mulighet til å påvirke ved å følge opp og mase på at personen skal gjøre det du trenger av den. Men du vil ikke kunne gjøre tingen selv. Du har ikke kontroll på arbeidet som skal gjøres, du er bare avhengig av det. Ved å velge å irritere deg over at du ikke får gjort det du skal på grunn av andres handliger, bruker du mye energi på ting du ikke kan kontrollere. Prøv heller å stoppe opp og tenk igjennom hva du faktisk kan gjøre nå. Hva har du kontroll over som vil kunne løse eller fremme arbeidet? Hva kan du gjøre for å redusere sannsynligheten for at dette skjer igjen?
+
+Det å fokusere på det en kan kontrollere og akseptere det en ikke kan kontrollere er et av de sentrale konseptene i Stoisismen. Denne tanken er også sentral i flere av de store religionene. Det er interessant hvordan det å ha motstand mot religion og fokusere på individualisme ser ut til å gjøre ting vanskeligere for oss selv. Religion tilbyr en pakke med verdier og livsfilesofier det er relativt enkelt å adoptere som fjerner mye usikkerhet fra livet. Uten denne pakken må vi finne ut av verdier og filesofier på egenhånd. 
+
+Individualismen ser også ut til å være skadelig. Det er mulig å forutsi en persons sannsynlighet for å utvikle depresjon basert på hvor ofte vedkommende bruker ordet "jeg" i meldingene de deler på Facebook. **Droppe denne tangenten?**
+
+>Gud,  gi meg sinnsro til å akseptere
+>det jeg ikke kan forandre,
+>mot til å forandre det jeg kan,
+>og forstand til å se forskjellen.
+>
+><cite>Sinnsrobønnen</cite>
 
 ### Situasjon som er vanskelig fordi den ikke oppfyller dine forventinger
 Situasjonen ble til fordi jge hadde forventinger om hvordan ting skulle gjøres. Den ble forværret av at jeg var stresset.
@@ -33,7 +45,7 @@ Her slet jeg med å¨få ting i fullscreen. Jeg kunne fint ha fortsatt selv om t
 
 Videre kunne det være en fin ting å bruke i det å snakke om hvordan takle ubehagelige situasjoner på jobb. Sånn for å være litt meta.
 
-### Situasjoner som er vasnkelige fordi en rettferdiggjør noe overnfor seg selv
+### Situasjoner som er vasnkelige fordi en rettferdiggjør noe ovenfor seg selv
 heart at war
 
 Så har vi hele denne biten med n som kommer for å hjelpe meg. Jeg blir irritert på han. Men detstopper ikke der. Jeg rettferdigjør min dårlige oppførsel ovenfor han. Ved å gjøre det endrer jeg verdensbilde mitt til et med løgnen at de ter greit å behandle han på den måten og skaper en konflikt med han ved at jeg når gir han makten til å true verdensbilde mitt som gjør konflikten vår støre. Jeg ender også opp med å distansere han fra meg og objektivisere han i det jeg endrer verdensbilde noe som videre fremmer konflikten og skader relasjonen vår.
@@ -78,7 +90,25 @@ Har tenkt å gi folk en liten eksistensiell krise ved å vise de life week calen
 - motvirke iretasjon ved å tenke over 3-5 fordeler ved situasjonen du er i med en gang du tar deg i at du irriterer deg over situasjonen
 
 
+
 ### hva kan jeg kontrollere?
+
+### EMDR
+
+Så hva kan en gjøre for å temem elefanten? Hvordnan kan en endre sin initielle følelsemessige reaksjon?
+Jo du skriver den om ved hjelp av EMDR.
+
+Dra opp situasjonen som trigger deg. Beveg øynene fra side til side.
+Observer neste gang du er i situasjonen om det føles like sterk.
+Hvis du følger noe gjør det igjen.
+AM sin metode
+
+https://unn.no/behandlinger/emdr-eye-movement-desensitization-and-reprocessing
+
+### Dagbok
+
+### Meditasjon og breath work
+
 ## Oppsummering
 
 ### situasjoner på jobb
@@ -92,14 +122,4 @@ Dele ut verktøy som folk kan ta med seg fysisk å prøve å jobbe med
 
 hvor mange slides er det nå?
 
-#### EMDR
 
-Så hva kan en gjøre for å temem elefanten? Hvordnan kan en endre sin initielle følelsemessige reaksjon?
-Jo du skriver den om ved hjelp av EMDR.
-
-Dra opp situasjonen som trigger deg. Beveg øynene fra side til side.
-Observer neste gang du er i situasjonen om det føles like sterk.
-Hvis du følger noe gjør det igjen.
-AM sin metode
-
-https://unn.no/behandlinger/emdr-eye-movement-desensitization-and-reprocessing
