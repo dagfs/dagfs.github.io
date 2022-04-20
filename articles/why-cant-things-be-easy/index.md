@@ -98,7 +98,7 @@ Overskriften inneholder ordet forventninger. Det er en ting jeg har fått drilla
 
 Generelt legger vi tilrette for skuffelse ved å forvente oss ting. Når vi forventer noe bryr vi oss om noe vi ikke kontrollerer og som ikke finnes enda. 
 
-```
+
 
 uferdig
 
@@ -109,7 +109,7 @@ Vi ender ofte opp med å være forutinntatt og ikke lære i møte med andre menn
 *Bør bli eget punkt på en eller annen måte*
 Vi begrenser oss selv ofte også ved å sette forventinger til oss selv og hvordan vi skal løse ting som gjør at vi ikke klarer å se de lette løsningene. Effortless. som dokumentet er oppkaldt etter
 
-```
+
 
 ### Egne tolkninger av situasjoner
 
