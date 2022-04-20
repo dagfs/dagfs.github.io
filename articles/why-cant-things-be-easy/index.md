@@ -122,9 +122,16 @@ The righteous mind
 ## Verktøy for å endre hvordan du tenker
 Neuroplastisistet er begrepet som beskriver at vi ha rmulighet til å endre hvordan hjernen vår fungerer`
 
+
+
 ### Kontroll
 
 Hva kan du kontrollere? Hva kan du påvirke? Hva bryr du deg om? Hva kan du velge å akseptere å la være å bry deg om?
+
+### Snakke til deg selv i tredjeperson
+
+
+### Dagbok
 
 ### Endre perspektiv
 Se på situasjonen. Hvordan vil den påvirke deg på lengre sikt. Er dette noe du vil huske om 1 månede, 6 måneder, 1 år?
@@ -140,7 +147,6 @@ Har tenkt å gi folk en liten eksistensiell krise ved å vise de life week calen
 
 
 
-### Dagbok
 
 ### Meditasjon og breath work
 
