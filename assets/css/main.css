@@ -243,6 +243,10 @@ body.presentation h1, body.presentation h2 {
   text-align: center;
 }
 
+body.presentation h2{
+  text-decoration: none;
+}
+
 body.presentation h3 {
   margin: 0;
   padding: 1vh 1vw;
