@@ -40,7 +40,6 @@ body {
     --theme-text: var(--main-green-light);
     --theme-link: var(--main-pink);
     --theme-header: var(--main-pink);
-    --theme-header: var(--main-mode);
     --theme-header-underline: var(--main-pink);
     --theme-black-quote-bar: var(--main-pink);
   }
@@ -66,7 +65,6 @@ body.light{
   --theme-text: black;
   --theme-link: var(--main-green-dark);
   --theme-header: var(--main-green-dark);
-  --theme-header: var(--main-green-mode);
   --theme-header-underline: var(--main-pink);
   --theme-black-quote-bar: var(--main-pink);
 }
@@ -76,7 +74,6 @@ body.dark{
   --theme-text: var(--main-green-light);
   --theme-link: var(--main-pink);
   --theme-header: var(--main-pink);
-  --theme-header: var(--main-mode);
   --theme-header-underline: var(--main-pink);
   --theme-black-quote-bar: var(--main-pink);
 }
@@ -189,10 +186,10 @@ object {
   display: none;
 }
 
-body.presentation {
-  background: var(--main-green-dark);
+/* body.presentation {
+  background: black;
   color: var(--main-pink);
-}
+} */
 
 body.presentation .wip {
   display: none;
