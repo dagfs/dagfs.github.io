@@ -220,7 +220,7 @@ body.presenter-mode .slide {
 }
 
 body.presentation .slide-body {
-  padding: 1vh 1vw;
+  padding: 5rem;
 
   margin-bottom: 0;
 }
@@ -238,8 +238,8 @@ body.presentation #footer_wrap {
 }
 
 body.presentation h1, body.presentation h2 {
-  margin: 10vh auto 0 auto;
-  font-size: 15vh;
+  margin: 50rem auto 0 auto;
+  font-size: 75rem;
   text-align: center;
 }
 
@@ -248,8 +248,9 @@ body.presentation h2{
 }
 
 body.presentation h3 {
+  font-size: 15rem;
   margin: 0;
-  padding: 1vh 1vw;
+  padding: 5rem;
 }
 
 body.presentation h4,
