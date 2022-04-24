@@ -241,14 +241,11 @@ body.presentation h1, body.presentation h2 {
   margin: 10vh auto 0 auto;
   font-size: 15vh;
   text-align: center;
-  color: var(--main-pink);
 }
 
 body.presentation h3 {
   margin: 0;
   padding: 1vh 1vw;
-  border-bottom: 1px solid var(--main-pink);
-  color: var(--main-pink);
 }
 
 body.presentation h4,
@@ -268,7 +265,7 @@ body.presentation-mode object {
 }
 
 body.presentation table,
-body.presentation ul {
+body.presentation ul, body.presentation blockquote {
   display: none;
 }
 
