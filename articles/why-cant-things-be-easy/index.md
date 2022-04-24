@@ -164,15 +164,8 @@ https://unn.no/behandlinger/emdr-eye-movement-desensitization-and-reprocessing
 
 ## Oppsummering
 
-### situasjoner på jobb
-
-### Du gjør det mot deg selv
-
-### Verktøy
-
-Dele ut verktøy som folk kan ta med seg fysisk å prøve å jobbe med
 
 
-hvor mange slides er det nå?
+
 
 

@@ -127,7 +127,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  border-bottom: 1px solid var(--main-pink);
+  border-bottom: 1px solid var(--theme-header-underline);
 }
 h3 {
   font-size: 1.5rem;
@@ -238,19 +238,20 @@ body.presentation #footer_wrap {
 }
 
 body.presentation h1, body.presentation h2 {
-  margin: 50rem auto 0 auto;
-  font-size: 75rem;
+  margin: 15rem 5rem;
+  font-size: 7rem;
   text-align: center;
 }
 
 body.presentation h2{
-  text-decoration: none;
+  border-bottom: none;
 }
 
 body.presentation h3 {
-  font-size: 15rem;
+  font-size: 4rem;
   margin: 0;
-  padding: 5rem;
+  padding: 2rem 5rem;
+  border-bottom: .2rem solid var(--theme-header-underline) ;
 }
 
 body.presentation h4,
