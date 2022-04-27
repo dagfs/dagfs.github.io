@@ -127,15 +127,33 @@ Her oogså kan Stoisisme være en nyttig motgift. Ved å være ærlig med seg se
 
 ## Verktøy for å endre hvordan du tenker
 
-Nevroplastisitet er begrepet som beskriver at vi har mulighet til å endre hvordan hjernen vår fungerer. Vi kan endre hvordan hjernen vår fungerer. Er ikke det helt sykt kult? Men det tar tid, det skjer gradvis. For vi endrer oss kontinuerlig, litt etter litt, slik at vi føler oss som oss selv, selv om vi kanskje ikke føler oss som den vi var for 2 eller 5 år siden.
+Nevroplastisitet er begrepet som beskriver at vi har mulighet til å endre hvordan hjernen vår fungerer. **Vi kan endre hvordan hjernen vår fungerer.** Er ikke det helt sykt kult? Men det tar tid, det skjer gradvis. For vi endrer oss kontinuerlig, litt etter litt, slik at vi føler oss som oss selv, selv om vi kanskje ikke føler oss som den vi var for 2 eller 5 år siden.
 
-Vi kan altså endre hvordan vi møter situasjoner som nevnt over ved å gjøre små beviste grep, revurdere egen oppførsel og gjenta. Det gjør at situasjonene blir letter og lettere ....ssd.....
+Vi kan altså endre hvordan vi møter situasjoner som de nevnt over ved å gjøre små beviste grep, vurdere egen oppførsel og prøve på nytt. Det gjør at det blir lettere å lettere å møte situasjonene på den måten vi ønsker.
+
+La oss se på noen konkrete verktøy vi kan bruke for å jobbe med hvordan vi møter livet.
 
 ### Kontroll
 
-Hva kan du kontrollere? Hva kan du påvirke? Hva bryr du deg om? Hva kan du velge å akseptere å la være å bry deg om?
+Vi har snakket en hel del om kontroll alt. Jeg mener det er verdt å nevne igjen. Eventuelt også at det er lurt å gå seg en visuell påminnelse av det hvis en har mulighet til det. Klarer en å stoppe opp å tenke igjennom hva en kan kontrollere og hva en ikke kan kontrollere i en situasjon vil en kunne møte situasjonene mer med adferd og mindre med sterke følelser og tankespinn.
+
+Så, prøv å tenk igjennom:
+
+- Hva kan du kontrollere? 
+- Hva kan du påvirke? 
+- Hva bryr du deg om? 
+- Hva kan du velge å akseptere å la være å bry deg om?
+
 
 ### Tredjeperson
+
+Men det er ofte lettere sagt enn gjort å holde hode kaldt i situasjoner som skaper sterke følelser eller tankespinn. Et verktøy som Ethan Kross skriver om i boken sin "Chatter", som hjelper oss med nettopp dette er å snakke til seg selv i andre eller tredje person. Det gjør at en kan ta en skritt tilbake og få en distanse fra situasjonen. Det er også en god måte å skifte til å snakke til seg selv som en venn. De talemønstrene vi har når vi snakker til oss selv og til andre er veldig forskjellige.
+
+"Du ville ikke sankke til en venn slik du snakker til deg selv", er noe som blir sagt gjevnlig. Så hvorfor ikke rett og slett prøve det ut? Snakke til deg selv som om du skulle være din egen venn? "Du klarer dette". "Dag, du har øvd masse, dette går fint".
+
+Når en snakker til seg elv og reflekterer over eget liv i førsteperson, simulerer en nåværende og fremtidige situasjoner. Vi kan gjennoppleve de gamle ubehagelige situasjonene så ofte vi vil ved å tenke på ting som "Jeg var så dum den gangen...", eller "Jeg får ikke til x...". Som en bonus er hjernen assosiativ. Det vil si at den er snill og hjelper deg med å finne frem til lignende minner. Så hvis en begynner å spille av ubegahelige situasjoner, kommer den flittig opp med mer. Det er ikke rart det fort blir tankespinn.
+
+Så, prøv å snak til deg selv i tredjeperson neste gang du kjenner at du opplever sterke uhagelige følelser eller at tenkespinnet begynner. Det kan være at noe går galt på jobb eller at en skal holde en presentasjon.
 
 
 ### Dagbok
@@ -192,3 +210,5 @@ how to fail at nearly everything and still win big
 
 
 
+Kilder:
+- [The Righteous Mind](/summaries/the-righteous-mind.md)
