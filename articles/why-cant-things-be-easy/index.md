@@ -4,6 +4,8 @@
 
 Vi starter med å se på noen vanlige vanskelige situasjoner på jobb. Ser på hvordan vi gjør det vanskelig for oss selv, før vi runder av med noen verktøy som kan gjøre det lettere å jobbe med disse situasjonene.
 
+Situasjonene nevnt i denne artikkelen er situasjoner jeg har hatt godt av å jobbe med selv og som jeg ser går igjen i andre rundt meg.
+
 
 
 ## Vanskelige ting på jobb
