@@ -76,7 +76,7 @@ Målet mitt for året er å:
 ### April
 - Iterert på de 3d printede delene til persentasjonshanskel v3
 - Sendt inn CFP på 3 talks til JavaZone og NDC (Talk om presentasjonhansken, "Hvorfor kan ikke ting være enkelt" fra ubehagelig fagkveld, og en om utbrenthet og veien tilbake)
-- skrevet presentasjonen "hvorfor kan ikke ting bare være enkelt".
+- skrevet presentasjonen "hvorfor kan ikke ting bare være enkelt". Rolig 3k3 med et par punkter til jeg ønsker å fylle ut.
 - Holdt hvorfor kan ikke ting bare være enkelt PG versjon for studenter som delvis stuntpresentasjon med 5 timer minus visning på å fullføre og øve på presentasjonen en uke før planlagt.
 - Holdt hvorfor kan ikke ting bare være enkelt på den ubehadlige fagkvelden
 - Rerun av utstilling om stoisisme på den ubehagelige fagkvelden
