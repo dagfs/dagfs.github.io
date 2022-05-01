@@ -30,6 +30,7 @@
       <header>
         <div id="project_title">DagFS.dev</div>
         <div id="theme-toggle" title="change theme"></div>
+        <button id="slides" onClick="togglePresentation">View slides</button>
       </header>
     </div>
 
@@ -292,6 +293,14 @@
 
       const theme = localStorage.getItem("theme");
       setTheme(theme);
+    </script>
+    <script>
+      if(document.location.href.contains("articles")){
+
+        document.body.classList.add("article")
+      }
+
+
     </script>
   </body>
 </html>

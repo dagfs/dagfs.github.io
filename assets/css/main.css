@@ -293,3 +293,12 @@ body.presentation ul, body.presentation blockquote {
 body.show-timer #timer {
   display: block;
 }
+
+
+body.article #slides{
+  display:block;
+}
+
+body.presentation #slides, #slides{
+  display:none;
+}
