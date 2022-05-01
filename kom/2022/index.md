@@ -59,7 +59,7 @@ Målet mitt for året er å:
         - [ ] Video
         - [x] Utstilling om stoisisme på fadagen
         - [ ] Min brukermanual - Workshop for selvrefleksjon - med softskills?
-        - [ ] [Foredrag på en ubehagelig fagkveld](/articles/why-cant-things-be-easy/)
+        - [x] [Foredrag på en ubehagelig fagkveld](/articles/why-cant-things-be-easy/)
 
 
   
@@ -71,3 +71,18 @@ Målet mitt for året er å:
 
 
 
+## Aktiviteter månede for månede
+
+### April
+- Iterert på de 3d printede delene til persentasjonshanskel v3
+- Sendt inn CFP på 3 talks til JavaZone og NDC (Talk om presentasjonhansken, "Hvorfor kan ikke ting være enkelt" fra ubehagelig fagkveld, og en om utbrenthet og veien tilbake)
+- skrevet presentasjonen "hvorfor kan ikke ting bare være enkelt".
+- Holdt hvorfor kan ikke ting bare være enkelt PG versjon for studenter som delvis stuntpresentasjon med 5 timer minus visning på å fullføre og øve på presentasjonen en uke før planlagt.
+- Holdt hvorfor kan ikke ting bare være enkelt på den ubehadlige fagkvelden
+- Rerun av utstilling om stoisisme på den ubehagelige fagkvelden
+- Hørt en god den av "the righteous mind"
+- Lest en del av "The four stages of psychological safety"
+- Lest videre i "Chatter"
+- lært om designsystemer
+- jobbet videre med og presentert arbeid rundt komponentbibliotek på prosjekt
+- Oppdatert hvordan det hjemmesnekkra presentasjonsverktøyet mitt fungerer til å støtte flere typer headings slik at en kan ha kapitler i presentasjonen. Endret farge på presentasjonen og bruker heller themeingen på nettsiden slik at en kan ha både dark og light slides.
