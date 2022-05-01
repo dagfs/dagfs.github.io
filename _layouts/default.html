@@ -45,6 +45,8 @@
     <!-- FOOTER  -->
     <div id="footer_wrap">
       <footer></footer>
+     
+      <div id="stats"></div>
     </div>
 
 
@@ -301,6 +303,22 @@
       }
 
 
+    </script>
+    <script>
+       function readingTime() {
+        const text = document.getElementById("main_content").innerText;
+        const wpm = 225;
+        const words = text.trim().split(/\s+/).length;
+        const time = Math.ceil(words / wpm);
+        const wpp = 476;
+        const pages =  Math.ceil(words / wpm);
+        document.getElementById("stats").innerText = `
+        Reading time: ${time}. <br>
+        Words: ${words} <br>
+       Pages: ${pages} <br>
+        `;
+      }
+      readingTime();
     </script>
   </body>
 </html>
