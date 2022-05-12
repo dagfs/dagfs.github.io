@@ -133,6 +133,10 @@ h3 {
   font-size: 1.5rem;
 }
 
+img{
+  max-width: 100%;
+}
+
 .front-image img {
   width: 30%;
   max-width: 200px;
