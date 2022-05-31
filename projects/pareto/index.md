@@ -29,6 +29,8 @@ The project will spend 4-6(1.5+3.5) hours a month on a topic trying to summarize
 
 Each topic will receive it's own sub-page where working notes will be collected. It will be a place to go for deeper exploration of each topic. The summary of each topic will be brought back to this page as to provide a singe page resource.  
 
+What should every team know and do regarding these topics?
+
 ## Topics in software development (January)
 
 The first part of Project Pareto was identifying topics to explore. The following chapters where the identified topics.

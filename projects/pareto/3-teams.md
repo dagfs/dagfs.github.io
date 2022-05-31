@@ -41,18 +41,23 @@ Organisations has great benefit of employing people living by the giving approac
 For more about giving and teaking i reccomend chacking out the game [evolution of trust](https://ncase.me/trust/) witch**** explains game theory.
 
 - link til adam grand ted talks
+- hyggelige givers uhyggelige givers. og hyggelige takers
 
 ## Books
  - team topologies - complicated sub system teams, x system teams
-    - creativity inc
+  - creativity inc
 
-    - kontekstswitching
-    - timeboxing
-    - tidsstruktureing
-    - fullføre ting før du starter ny
+  - kontekstswitching
+  - timeboxing
+  - tidsstruktureing
+  - fullføre ting før du starter ny
 
 
-     soft skills og kommunikkasjon
-    - lytte - forstå behov og grunnlag for valg - la folk snakke
-    - åpne spørsmål - om situasjoner og problemstillinger - hva tror og tenker de andre aktørene. - hvordan tror du den andre personen opplevde situasjonen?
-    - suttrepaven - er ofte noe fornuftig under all suttringa
+   soft skills og kommunikkasjon
+  - lytte - forstå behov og grunnlag for valg - la folk snakke
+  - åpne spørsmål - om situasjoner og problemstillinger - hva tror og tenker de andre aktørene. - hvordan tror du den andre personen opplevde situasjonen?
+  - suttrepaven - er ofte noe fornuftig under all suttringa
+
+## Tuckman's stages of group development
+
+https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development#:~:text=The%20forming%E2%80%93storming%E2%80%93norming%E2%80%93,plan%20work%2C%20and%20deliver%20results.
