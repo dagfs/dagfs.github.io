@@ -8,12 +8,12 @@ Students are welcome to discuss specific areas of interest, both with respect to
 
 ## Resources
 
-- Hvordan velge riktig smidig metode? - https://www.youtube.com/watch?v=fJzJlxpgPxU
-- Derre e itj smidi!! - https://vimeo.com/30517513
-- Agile is Dead • Pragmatic Dave Thomas • GOTO 2015 - https://www.youtube.com/watch?v=a-BOSpxYJ9M
-- Interview with an Agile Coach in 2022 - Sprint1 - (Bad side of agile) - https://www.youtube.com/watch?v=bB340S0tGf8
- - Innovasjonsteam og produktteam — Hvordan overfører man innovasjonsteam til "linja"? (Del 2 av  2) - (podcast som snakker om tilpassningsdyktig) - https://anchor.fm/drypp/episodes/Innovasjonsteam-og-produktteam--Hvordan-overfrer-man-innovasjonsteam-til-linja--Del-2-av-2-e1fcf5u
-- agile then vs agile now - https://twitter.com/agile_memes/status/1508427587546099715
+- [Hvordan velge riktig smidig metode? ](https://www.youtube.com/watch?v=fJzJlxpgPxU)
+- [Derre e itj smidi!!](https://vimeo.com/30517513)
+- [Agile is Dead • Pragmatic Dave Thomas • GOTO 2015](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+- [Interview with an Agile Coach in 2022 - Sprint1 - (Bad side of agile)](https://www.youtube.com/watch?v=bB340S0tGf8)
+- [Innovasjonsteam og produktteam — Hvordan overfører man innovasjonsteam til "linja"? (Del 2 av  2) - (podcast som snakker om tilpassningsdyktig)](https://anchor.fm/drypp/episodes/Innovasjonsteam-og-produktteam--Hvordan-overfrer-man-innovasjonsteam-til-linja--Del-2-av-2-e1fcf5u)
+- [agile then vs agile now(Image)](https://twitter.com/agile_memes/status/1508427587546099715)
 
 
 > Kontekst er konge, målet man har og folkene man jobber sammen med bestemmer hvordan man jobber. Mål -> Folk -> ??? -> Suksess, og ??? er alltid forskjellig fra case til case.
