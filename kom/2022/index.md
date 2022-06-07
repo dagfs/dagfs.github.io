@@ -71,4 +71,5 @@ Målet mitt for året er å:
 ### Mai
 - IT2901 prosjekt avsluttet
 - Pitcha inn 2 læringsspill / digitale verktøy oppgaver som medveileder på Informatikk på NTNU - https://www.idi.ntnu.no/education/fordypningsprosjekt.php?p2_10=1&f54=1&s=2 - 2 studenter er interesserte i å utvikle sammarbeidsspill for å lære om smidig utvikling. [bilde av v2 2 av scrum spill](/assets/images/smidig/spill.jpg)
-- 
+- Deltok på halvdagsseminar om følelser
+- Diskutert mulighet og innhold i foredag på HiOF
