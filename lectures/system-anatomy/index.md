@@ -1,0 +1,16 @@
+## De generelle tekniske problemene er
+- du skal ha en frontend
+    - SPA
+    - Serverside - gir flash wed bytte av side - chrome sticky drawing
+    - server side med litt js
+- kommunikkasjon til bakend
+    - hente data
+    - subitte data
+    - oppdater data
+    - feilmeldinger
+    - feilhåndtering
+- backend
+    - ta i mot data
+    - endre data
+    - feilmeldinger
+    - lagra data
