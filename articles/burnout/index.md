@@ -17,7 +17,19 @@ Så la oss snakke om
 
 ### Definisjon
 
-hva er definisjonen?
+Utbrenthet er en tilstand som blir beskrevet med symptomene utmattelse, kynisme, og redusert effektivitet. Det starter med utmattelse som over tid fører til kynesisme og distansering fra arbeidet og medarbeiderne for å beskytte fra utmattelsen. Tilstanden fører til slutt til redusert effektivitet i arbeidet en gjør.
+
+Utbrenthet er hovedsaklig forursaket av stressfaktorer på jobb, men vi er hele mennesker og faktorer fra live utenfor jobb kan også være med å påvirke oss ved å redusere vår evne til å takle stresset på arbeidet. **må sjekkes: Med stress mener jeg her  ytre faktorer som påvirker oss som kan bli til det vi ofte omtaler som "stress" som er når en har for mye ytre forentinger**
+
+- [ ] Les denne om stess / snakk med R: https://www.researchgate.net/figure/Relationship-between-the-level-of-stress-and-performance-depicted-in-the-form-of-an_fig3_316792214
+
+Det er en del faktorer som kan øke sannsynligheten, som det å være nye i jobben eller arbeidslivet, ha dårlig selvtillit, ha urealistisk høye forventinger og det å ha en tendens til å bruke unvikende stressmestrings strategier
+
+Det vanlige senarioet er at en arbeidstageren kommer inn i arbeidssituasjonen med positive forventniger, begeistring **er begeistring riktig ord?**, og et ønske om å gjøre det bra. Over tid endrer dette seg, og arbeidstageren føler seg utmattet, frustrert, sint, kynisk og inneffektiv. Knisten en kom inn i arbeidssituasjonen er slukket. Dette går utover arbeidsoppgavene og kollegier og bedriften. Noen slutter, andre fortsetter, men gjør så lite de slipper unna med. 
+
+Opprinnelig kom beskrivelsen av utbrenthet fra lærer yrke. I senere tid har modellen for utbrenthet blitt vist til å gjelde for alle yrker.
+
+[bilde: https://www.vecteezy.com/vector-art/6793081-vector-illustration-of-a-burned-matchstick-isolated-on-white-background-a-symbol-of-emotional-burnout-and-depression]
 
 ### Maslach Burnout Inventory
 
@@ -27,6 +39,8 @@ Så hvordan ser bournout ut?
 - depersonalisert
 - effektiviteten
 
+[bilde av MBI]
+
 ### Energilekasjen
 - Individet 
 - Organisasjonen 
@@ -34,6 +48,7 @@ Så hvordan ser bournout ut?
 
 ## AWS
 ### Arbeidsmengde
+
 ### Kontroll
 ### Belønning
 ### Fellesskap
