@@ -12,8 +12,10 @@ Jo mer jeg har lært og hørt fra andre, innser jeg at jeg nok vil bruke resten 
 
 [Bilde av arbeidsgraden min]
 
+I denne artikkelen ønsker jeg å dele det jeg har lært om utbrenthet; hva det er, hvordan det ser ut, hvordan det kan måles, og om hvor det kommer fra. Videre skal vi se på de seks faktorene fra arbeidslivet som bidrar til utbrenthet; følelsen av mangel av kontroll på arbeidsoppgaver og mengde,  Belønning Fellesskap Rettferdighet Verdier **Skriv helt til slutt**
+
 ## Utbrenthet
-Så la oss snakke om 
+Så la oss snakke om hva utbrenhet er, hvordan det ser ut, hvordan måle det og hva som fører til det.
 
 ### Definisjon
 
@@ -25,7 +27,7 @@ Utbrenthet er hovedsaklig forursaket av stressfaktorer på jobb, men vi er hele 
 
 Det er en del faktorer som kan øke sannsynligheten, som det å være nye i jobben eller arbeidslivet, ha dårlig selvtillit, ha urealistisk høye forventinger og det å ha en tendens til å bruke unvikende stressmestrings strategier
 
-Det vanlige senarioet er at en arbeidstageren kommer inn i arbeidssituasjonen med positive forventniger, begeistring **er begeistring riktig ord?**, og et ønske om å gjøre det bra. Over tid endrer dette seg, og arbeidstageren føler seg utmattet, frustrert, sint, kynisk og inneffektiv. Knisten en kom inn i arbeidssituasjonen er slukket. Dette går utover arbeidsoppgavene og kollegier og bedriften. Noen slutter, andre fortsetter, men gjør så lite de slipper unna med. 
+Det vanlige senarioet er at en arbeidstageren kommer inn i arbeidssituasjonen med positive forventniger, engasjement , og et ønske om å gjøre det bra. Over tid endrer dette seg, og arbeidstageren føler seg utmattet, frustrert, sint, kynisk og inneffektiv. Knisten en kom inn i arbeidssituasjonen er slukket. Dette går utover arbeidsoppgavene og kollegier og bedriften. Noen slutter, andre fortsetter, men gjør så lite de slipper unna med. 
 
 Opprinnelig kom beskrivelsen av utbrenthet fra lærer yrke. I senere tid har modellen for utbrenthet blitt vist til å gjelde for alle yrker.
 
@@ -33,23 +35,40 @@ Opprinnelig kom beskrivelsen av utbrenthet fra lærer yrke. I senere tid har mod
 
 ### Maslach Burnout Inventory
 
-Så hvordan ser bournout ut?
+Det var litt om hva utbrenthet er og hvordan det kan se ut. Men det vi har snakket om så langt er veldig subjektivt. Det er en følelse hos den arbeidstagende som er lett å ikke ta seriøst, både for den arbeidstagende og for de som påvirker arbeidssituasjonen. Et verktøy en kan bruke her er [Maslach Burnout Inventory]() **legg til lenke** som kan hjelpe til med å kventifisere følelsen av utbrenthet.
 
-- utslitt
-- depersonalisert
-- effektiviteten
+Maslach Burnout Inventory er modellen som beskriver de tre stadiene av utbrenhet, utmattelse, kynisisme og distansering og redusert effektivitet. Hvis en føler mye på disse følelsene kan det å ta en slik test gi en pekepinn på om en er i risiko for å brenne ut.
+
+En test en kan gjøre online selv er: https://www.mindtools.com/pages/article/newTCS_08.htm **TODO test den og eventuelt finn en annen bedre en**
+
 
 [bilde av MBI]
 
 ### Energilekasjen
-- Individet 
-- Organisasjonen 
 
+Da kommer vi til det sentrale spørsmålet, hva er det som fører til at folk brenner ut? 
+
+Det er så enkelt som at personen og arbeidet ikke passer, og at dette fører til en energilekasje hos personen. Grunnen til at personen og arbeidet ikke passer kan være knyttet til arbeidet eller arbeidsforholdene. Det kan også være knyttet til personens følelse av hvor godt arbeidet passer.
+
+For å ta tak i problemet, må en altså se på ting i arbeidssituasjonen, personen og relasjonen mellom arbeidet og personen. Ofte krever det endring både i jobb og person.
+
+Det kan være ting i arbeidssituasjonen som er ugunstig og som ikke er slik det burde være. Det kan altså være lurt å se på arbeidssituasjonen og forholdene for å se om det er andre som jobber nære personen som opplever det samme. Det kan også være at personen sitter med et bilde av hva som er forventet av dem som ikke stemmer. Her vil det å ta opp og finne ut hvilke forventninger jobben har til en og hvilke forventinger en har til seg selv kunne avdekke problemer.
 
 ## AWS
-### Arbeidsmengde
+
+Ok, så hvis utbrenthet er en energilekasje som tapper personen og som ofte er delvis hos personen og delvis i arbeidssituasjonen, hvordan kan en finne de?
+
+Det er her AWS(Areas of Worklife Scale) kommer inn. Det er en modell som beskriver seks områder av arbeidslivet som påvirker stress og utrenthet på jobb. 
+
+De seks områdene er kontroll, arbeidsmengde, belønning, felleskap, rettferdighet og verdier. 
+
+Her vil jeg minne om at det er personens opplevde grad av hvor godt personen passer med jobben som er det som fører til utrenthet.
 
 ### Kontroll
+
+### Arbeidsmengde
+
+
 ### Belønning
 ### Fellesskap
 ### Rettferdighet
