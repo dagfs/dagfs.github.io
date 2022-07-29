@@ -19,8 +19,7 @@ Så la oss snakke om hva utbrenhet er, hvordan det ser ut, hvordan måle det og 
 
 ### Definisjon
 
-<object  data="images/match.svg" type="image/svg+xml">
-</object>
+<object data="images/match.svg" type="image/svg+xml" />
 
 Utbrenthet er en tilstand som blir beskrevet med symptomene utmattelse, kynisme, og redusert effektivitet. Det starter med utmattelse som over tid fører til kynesisme og distansering fra arbeidet og medarbeiderne for å beskytte fra utmattelsen. Tilstanden fører til slutt til redusert effektivitet i arbeidet en gjør.
 
@@ -37,6 +36,9 @@ Opprinnelig kom beskrivelsen av utbrenthet fra lærer yrke. I senere tid har mod
 [bilde: https://www.vecteezy.com/vector-art/6793081-vector-illustration-of-a-burned-matchstick-isolated-on-white-background-a-symbol-of-emotional-burnout-and-depression]
 
 ### Maslach Burnout Inventory
+
+
+<object data="images/mbi.svg" type="image/svg+xml" />
 
 Det var litt om hva utbrenthet er og hvordan det kan se ut. Men det vi har snakket om så langt er veldig subjektivt. Det er en følelse hos den arbeidstagende som er lett å ikke ta seriøst, både for den arbeidstagende og for de som påvirker arbeidssituasjonen. Et verktøy en kan bruke her er [Maslach Burnout Inventory]() **legg til lenke** som kan hjelpe til med å kventifisere følelsen av utbrenthet.
 
