@@ -60,6 +60,8 @@ body.dark #theme-toggle:before{
   font-size: 64px;
 }
 
+
+
 body.light{
   --theme-background: var(--main-green-light);
   --theme-text: black;
@@ -79,6 +81,13 @@ body.dark{
 }
 
 
+body.dark .dark-icon{
+  display: none;
+}
+
+body.light .light-icon{
+  display: none;
+}
 
 
 
@@ -184,9 +193,7 @@ object {
   max-height: 200px;
 }
 
-.path {
-  fill: var(--theme-header);
-}
+
 
 /* --------------------- */
 
