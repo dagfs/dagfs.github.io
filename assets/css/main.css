@@ -184,7 +184,7 @@ object {
   max-height: 200px;
 }
 
-path{
+.path {
   fill: var(--theme-header);
 }
 
