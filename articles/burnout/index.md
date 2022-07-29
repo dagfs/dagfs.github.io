@@ -19,10 +19,7 @@ Så la oss snakke om hva utbrenhet er, hvordan det ser ut, hvordan måle det og 
 
 ### Definisjon
 
-<object class="dark-icon" data="images/match_dark.svg" type="image/svg+xml">
-</object>
-
-<object class="light-icon" data="images/match_light.svg" type="image/svg+xml">
+<object  data="images/match.svg" type="image/svg+xml">
 </object>
 
 Utbrenthet er en tilstand som blir beskrevet med symptomene utmattelse, kynisme, og redusert effektivitet. Det starter med utmattelse som over tid fører til kynesisme og distansering fra arbeidet og medarbeiderne for å beskytte fra utmattelsen. Tilstanden fører til slutt til redusert effektivitet i arbeidet en gjør.
