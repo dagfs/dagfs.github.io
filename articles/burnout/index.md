@@ -27,11 +27,11 @@ Utbrenthet er hovedsaklig forursaket av stressfaktorer på jobb, men vi er hele 
 
 - [ ] Les denne om stess / snakk med R: https://www.researchgate.net/figure/Relationship-between-the-level-of-stress-and-performance-depicted-in-the-form-of-an_fig3_316792214
 
-Det er en del faktorer som kan øke sannsynligheten, som det å være nye i jobben eller arbeidslivet, ha dårlig selvtillit, ha urealistisk høye forventinger og det å ha en tendens til å bruke unvikende stressmestrings strategier
+Det er en del faktorer som kan øke sannsynligheten, som det å være nye i jobben eller arbeidslivet, ha dårlig selvtillit, ha urealistisk høye forventinger og det å ha en tendens til å bruke unvikende stressmestrings strategier.
 
-Det vanlige senarioet er at en arbeidstageren kommer inn i arbeidssituasjonen med positive forventniger, engasjement , og et ønske om å gjøre det bra. Over tid endrer dette seg, og arbeidstageren føler seg utmattet, frustrert, sint, kynisk og inneffektiv. Knisten en kom inn i arbeidssituasjonen er slukket. Dette går utover arbeidsoppgavene og kollegier og bedriften. Noen slutter, andre fortsetter, men gjør så lite de slipper unna med. 
+Det vanlige senarioet er at en arbeidstageren kommer inn i arbeidssituasjonen med positive forventniger, engasjement, og et ønske om å gjøre det bra. Over tid endrer dette seg, og arbeidstageren føler seg utmattet, frustrert, sint, kynisk og inneffektiv. Knisten en kom inn i arbeidssituasjonen er slukket. Dette går utover arbeidsoppgavene og kollegier og bedriften. Noen slutter, andre fortsetter, men gjør så lite de slipper unna med. 
 
-Opprinnelig kom beskrivelsen av utbrenthet fra lærer yrke. I senere tid har modellen for utbrenthet blitt vist til å gjelde for alle yrker.
+Opprinnelig kom beskrivelsen av utbrenthet fra pleie, service og lærer yrke. I senere tid har modellen for utbrenthet blitt vist til å gjelde for alle yrker.
 
 [bilde: https://www.vecteezy.com/vector-art/6793081-vector-illustration-of-a-burned-matchstick-isolated-on-white-background-a-symbol-of-emotional-burnout-and-depression]
 
@@ -49,7 +49,7 @@ En test en kan gjøre online selv er: https://www.mindtools.com/pages/article/ne
 
 [bilde av MBI]
 
-### Energilekasjen
+## Energilekasjen
 
 Da kommer vi til det sentrale spørsmålet, hva er det som fører til at folk brenner ut? 
 
@@ -59,7 +59,11 @@ For å ta tak i problemet, må en altså se på ting i arbeidssituasjonen, perso
 
 Det kan være ting i arbeidssituasjonen som er ugunstig og som ikke er slik det burde være. Det kan altså være lurt å se på arbeidssituasjonen og forholdene for å se om det er andre som jobber nære personen som opplever det samme. Det kan også være at personen sitter med et bilde av hva som er forventet av dem som ikke stemmer. Her vil det å ta opp og finne ut hvilke forventninger jobben har til en og hvilke forventinger en har til seg selv kunne avdekke problemer.
 
-## AWS
+Det kan også være at arbeidstakeren mangler gode strattegier for å håndtere stress fra jobb. Mange av dagens jobber følger ikke en naturlig stress sykel og gjør at en ofte ikke får noen naturlig slutt på situasjonen som stresser en. Det er derfor ekstra viktig å gjøre ting som reduserer stress i løpet av jobbdagen og etter jobb for å unngå at en går i en permanent stressrespons. Det å gå rundt å være stresset hele tiden tapper energi, og gjøre at en heller ikke har mulighet til å restituere fra en dag til den neste. Og det er fort her en kommer på tynn is. Når en ikke klarer å restituere fra en dag til den neste, eventuelt fra en uke til den neste.
+
+Det fører ofte til snarveier i livet utenfor jobb som kan være med på å forværre situasjonen. Det å ikke få nok tid i solen, ute i naturen, med høy puls, ikke spise sunn mat, nok god søvn, eller tid for seg selv, er faktorer som går utover vår generelle velvære og er viktige faktorer å få på plass.
+
+### AWS
 
 
 <object data="images/aws.svg" type="image/svg+xml" ></object>
