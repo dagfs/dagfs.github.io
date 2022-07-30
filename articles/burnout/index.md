@@ -8,7 +8,7 @@ Jeg prøvde å starte opp igjen i jobb gjentatte ganger og krasjet hver gang. De
 
 Det ble en lang, vond, og nyttig reise. Jeg har fått tatt tak i en del av tingene som førte meg dit jeg var, men har fremdeles et stykke å gå. 
 
-Jo mer jeg har lært og hørt fra andre, innser jeg at jeg nok vil bruke resten av livet på å holde utbrenthet og andre mentale plager i sjakk. Mye på samme måte som jeg ønsker å ta vare kroppen min.
+Jo mer jeg har lært og hørt fra andre, innser jeg at jeg nok vil bruke resten av livet på å holde utbrenthet og andre mentale plager i sjakk. Mye på samme måte som jeg ønsker å ta vare kroppen min. Det er på en måte en overveldene tanke at det er nok en ting en skal gjøre lenge, samtidig er det god støtte at dette er normalt og at det er ting det blir snakket om i for eksempel podcasten [Godt nok for de svina - Selvledelse, hvordan gjør man det?](https://open.spotify.com/episode/0D3tAnM5Fq0bIEhoYFz6bo?si=0d942aa6e3214b0e)
 
 [Bilde av arbeidsgraden min]
 
@@ -78,13 +78,50 @@ Her vil jeg minne om at det er personens opplevde grad av hvor godt personen pas
 
 ### Kontroll
 
+
+<object data="images/aws.svg" type="image/svg+xml" ></object>
+ 
+For å gå mer i detalj i modellen, la oss starte med kontroll. Kontroll i modellen refererer over kontroll av arbeidssituasjonen, som i praksis vil si, kontroll over faktorene arbeidsmengde, belønning, fellesskap og rettferdighet. Det handler også om følellsen av å kunne jobbe autonomt og muligheten til å få tilgang til resurser en trenger for å gjøre jobben sin effektivt. 
+
+Vi ønsker rett og slett å kunne påvirke arbeidsprosessen som skal føre til det resultatet vi blir holdt asnvarlige for.
+
+Et stort problem innen denne faktoren er når en opplever at en er i en situasjon hvor en har en utydelig rolle, eller har motstridenede roller. Hvis en opplever at en har en konflikt i de rollene en skal utføre fører det til mer arbeid, følelsesmessig utmattelse og er en sterk idikator på autoritære problemer på jobb og er noe som bør undersøkes. Det kan være at en sitter mellom to team, får oppgaver som motarbeider langsiktige mål, vet at arbeidet en gjør aldri vil bli brukt, eller opplever at en blir satt til å gjøre oppgaver som bryter etiske rettningslijner.
+
+Behovet for å kunne kontrollere prosessen og arbeidsforholdene som påvirker resultetet av arbeidet en gjør er en av grunenne til at små autonome team har blitt populært de siste årene. Men det er også mulig å gi de ansatte følelsen av kontroll ved å inkludere de i prosesser som påvirker arbeidet de skal gjøre. Dette er nok en god grunn til å holde retrospektiver som en fin måte å la de ansatte påvirke sin egen arbeidssituasjon på en jevn måte.
+
+Det er viktig å huske på at et team endrer seg over tid, og spesielt om det kommer inn nye medlemmer, eller gamle medlemmer forlater teamet.
+
+Problemene i denne faktoren av arbeidslivet er når en føler en ikke kan påvirke arbeidssituasjonen til å stemme overens med verdiene sine. La oss se videre på verdier for å utddype dette.
+
+### Verdier
+
+<object data="images/aws.svg" type="image/svg+xml" ></object>
+
+Vi hopper til slutten av modellen for å da resten av faktorene er tett knyttet til både kontroll faktoren og verdiene faktorene representerer.
+
+I hjertet av ens relasjon med den jobben en gjør, er ens verdier. Vi velger jobber ut fra hvor godt det virker som de passer overends med våre verdier. Hvis en har tatt feil, eller arbeidssituasjonen endrer seg slik at ens verdier ikke stemmer, føles ting raskt feil og følelsen av hvor godt en passer til jobben reduseres.
+
+Hvis ens verdier ikke stemmer overens med de verdiene det blir lagt vekt på i arbeidssituasjonen, falmer rett og slett knisten. Arbeidsmengden en har vil oppleves som større og tyngred.
+
+
+
 ### Arbeidsmengde
 
 
+<object data="images/aws.svg" type="image/svg+xml" ></object>
+
+
 ### Belønning
+
+<object data="images/aws.svg" type="image/svg+xml" ></object>
+
 ### Fellesskap
+
+<object data="images/aws.svg" type="image/svg+xml" ></object>
+
 ### Rettferdighet
-### Verdier
+
+<object data="images/aws.svg" type="image/svg+xml" ></object>
 
 ## Forebygging
 Det er lett å ikke ta seg selv seriøst når en synes noe er kipt. Er det noen flere her enn meg som tar seg selv i å klage over noe, for så å si, men det er egentlig helt greit. Eller det går helt greit?
