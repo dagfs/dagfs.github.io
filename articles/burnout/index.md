@@ -61,6 +61,9 @@ Det kan være ting i arbeidssituasjonen som er ugunstig og som ikke er slik det 
 
 ## AWS
 
+
+<object data="images/aws.svg" type="image/svg+xml" ></object>
+
 Ok, så hvis utbrenthet er en energilekasje som tapper personen og som ofte er delvis hos personen og delvis i arbeidssituasjonen, hvordan kan en finne de?
 
 Det er her AWS(Areas of Worklife Scale) kommer inn. Det er en modell som beskriver seks områder av arbeidslivet som påvirker stress og utrenthet på jobb. 
