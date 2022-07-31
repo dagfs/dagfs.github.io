@@ -23,11 +23,13 @@ Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret h
  - 
 
 ## Ting jeg har lyst på
+- Tøydamper
+- [stormparaply](https://enklereliv.no/paraplyer/gustbuster-sammenleggbar-orkanparaply/) 400,-
+- [Migrenelue](https://smertefri.co/pages/hodepine-terapi-lue)
 - [Svartdalspiggen jumpsuit i ullfrottè](https://www.sparkjop.no/svartdalspiggen-jumpsuit-i-ullfrott-_415292?level_1=61713)
 - Pilot G-2 05 kulepenner med refils
 - [Våtdrakt](https://prisguiden.no/produkt/head-multix-vl-fullsuit-herre-498407)
-- Tøydamper
-- [stormparaply](https://enklereliv.no/paraplyer/gustbuster-sammenleggbar-orkanparaply/) 400,-
+
 
 ## Ting jeg kan tenke meg en dag
 - Remarkable - 6000 nok
