@@ -19,23 +19,23 @@ body {
   justify-content: space-between;
 }
 
-#theme-toggle{
+#theme-toggle {
   position: relative;
 }
 
-#theme-toggle:before{
-  content:"⊝";
+#theme-toggle:before {
+  content: "⊝";
   font-size: 64px;
   color: var(--theme-header);
   position: absolute;
   line-height: 80px;
   font-size: 38px;
-  top:0;
+  top: 0;
   left: 0;
 }
 
 @media (prefers-color-scheme: dark) {
-  body{
+  body {
     --theme-background: black;
     --theme-text: var(--main-green-light);
     --theme-link: var(--main-pink);
@@ -46,23 +46,23 @@ body {
 }
 
 
-body.light #theme-toggle:before{
-  content:"○";
+body.light #theme-toggle:before {
+  content: "○";
   line-height: initial;
   font-size: 64px;
 }
 
 
 
-body.dark #theme-toggle:before{
-  content:"●";
+body.dark #theme-toggle:before {
+  content: "●";
   line-height: initial;
   font-size: 64px;
 }
 
 
 
-body.light{
+body.light {
   --theme-background: var(--main-green-light);
   --theme-text: black;
   --theme-link: var(--main-green-dark);
@@ -71,7 +71,7 @@ body.light{
   --theme-black-quote-bar: var(--main-pink);
 }
 
-body.dark{
+body.dark {
   --theme-background: black;
   --theme-text: var(--main-green-light);
   --theme-link: var(--main-pink);
@@ -81,11 +81,11 @@ body.dark{
 }
 
 
-body.dark .dark-icon{
+body.dark .dark-icon {
   display: none;
 }
 
-body.light .light-icon{
+body.light .light-icon {
   display: none;
 }
 
@@ -99,7 +99,7 @@ html {
   font-family: "Ubuntu", sans-serif;
   scroll-behavior: smooth;
   background-color: var(--theme-background);
-  color:var(--theme-text);
+  color: var(--theme-text);
 }
 
 #header_wrap,
@@ -137,12 +137,15 @@ h1 {
 h2 {
   font-size: 2rem;
   border-bottom: 1px solid var(--theme-header-underline);
-}
-h3 {
-  font-size: 1.5rem;
+  margin-top: 4rem;
 }
 
-img{
+h3 {
+  font-size: 1.5rem;
+  margin-top: 4rem;
+}
+
+img {
   max-width: 100%;
 }
 
@@ -189,7 +192,7 @@ blockquote {
 
 object {
   width: 100%;
-  margin: 0 auto;
+  margin: 2rem auto;
   max-height: 400px;
 }
 
@@ -209,6 +212,7 @@ object {
 body.presentation .wip {
   display: none;
 }
+
 body.presentation .presentation-only {
   display: block;
 }
@@ -244,7 +248,7 @@ body.presentation #header_wrap {
   display: none;
 }
 
-body.presentation .slide-body > p {
+body.presentation .slide-body>p {
   display: none;
 }
 
@@ -252,21 +256,24 @@ body.presentation #footer_wrap {
   display: none;
 }
 
-body.presentation h1, body.presentation h2 {
+body.presentation h1,
+body.presentation h2 {
   margin: 15rem 5rem;
   font-size: 7rem;
   text-align: center;
 }
 
-body.presentation h2{
+body.presentation h2 {
   border-bottom: none;
+  margin-top: 0;
 }
 
 body.presentation h3 {
   font-size: 4rem;
   margin: 0;
+  margin-top: 0;
   padding: 2rem 5rem;
-  border-bottom: .2rem solid var(--theme-header-underline) ;
+  border-bottom: .2rem solid var(--theme-header-underline);
 }
 
 body.presentation h4,
@@ -286,7 +293,8 @@ body.presentation-mode object {
 }
 
 body.presentation table,
-body.presentation ul, body.presentation blockquote {
+body.presentation ul,
+body.presentation blockquote {
   display: none;
 }
 
@@ -310,10 +318,11 @@ body.show-timer #timer {
 }
 
 
-body.article #slides{
-  display:block;
+body.article #slides {
+  display: block;
 }
 
-body.presentation #slides, #slides{
-  display:none;
+body.presentation #slides,
+#slides {
+  display: none;
 }
