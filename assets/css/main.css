@@ -276,9 +276,9 @@ body.presentation h6 {
 }
 
 body.presentation object {
-  max-width: 50%;
+  max-width: 80%;
   max-height: 50vh;
-  margin: 5% 25%;
+  margin: 5% 10%;
 }
 
 body.presentation-mode object {
