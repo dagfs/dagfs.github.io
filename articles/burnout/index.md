@@ -101,19 +101,49 @@ Vi hopper til slutten av modellen for å da resten av faktorene er tett knyttet 
 
 I hjertet av ens relasjon med den jobben en gjør, er ens verdier. Vi velger jobber ut fra hvor godt det virker som de passer overends med våre verdier. Hvis en har tatt feil, eller arbeidssituasjonen endrer seg slik at ens verdier ikke stemmer, føles ting raskt feil og følelsen av hvor godt en passer til jobben reduseres.
 
-Hvis ens verdier ikke stemmer overens med de verdiene det blir lagt vekt på i arbeidssituasjonen, falmer rett og slett knisten. Arbeidsmengden en har vil oppleves som større og tyngred.
+Hvis ens verdier ikke stemmer overens med de verdiene det blir lagt vekt på i arbeidssituasjonen, falmer rett og slett knisten. Arbeidsmengden en har vil oppleves som større og tyngre. Hvis verdiene som blir vegtlagt ikke bare ikke stemmer, men er mottsigende, vil er raskt bli kynisk og distansere seg fra arbeidet for å bekytte seg selv. Vi har alle et behov for å oppleve at vi har en integritet og alt som kan skade den må holdes på avstand.
 
+Hvis det en gjør er motsitridene med egne verdier vil en naturlig nok også bevist eller ubevist være mindre effektiv. En vil jo ikke gå raskt i feil feil rettning.
+
+Vi ser altså at når verdiene våre ikke stemmer overens med verdiene som ser ut til å være viktige i arbeissituasjonen vi er i kan arbeidet bli tyngre, vi kan få behov for å distansere oss, og effektiviteten vår kan reduseres. Så la oss se videre på hvordan de resterende faktorene i modellen påvirkes av kontroll og viser frem hvilke verdier som er viktige i arbeidssituasjonen.
+
+Liten refleksjon om det å bli kjent med egne verdier: 
+> Det interesante med verdier er at det ofte er vanskelig å sette ord på å vite  hvilke verdier som er viktige for en. Det er ofte lettere å finne det ut ved å kjenne på hva en mener er feil. 
+>
+> Her kan det være nyttig å bli kjent med hvordan følelser i kroppen kjennes ut. Det er to vanlige følelser en kan kjenne til situasjoner. Det er hekk yeah! Eller NOPE. Men det finnes også et vagere nei det kan være lurt å bli kjent med. Neiet som sier, det passer egentlig ikke. Eller dette har ikke blitt til det jeg har villet tidligere. Det er ofte situasjoner hvor en kjenner et vagt nei, men rasionaliserer det bort, som e rsituasjoner som ender opp med å ta masse energi over tid. Så stopp gjerne opp og tenk igjennom et par situasjoner som ble kipe, som du viste ville bli kipe, men som du sa ja til, for det kunne jo hende det ikke ble så ille som du fryktet...
 
 
 ### Arbeidsmengde
 
-
 <object data="images/aws.svg" type="image/svg+xml" ></object>
+
+Det området av jobb vi snakker mest om, og så fort gjør at det oppleves stiga rundt hvis man ikke føler er urimlig og en brenner ut, er arbeidsmengde. Det er rett og slett lett å føle skam fordi en er utmattet og en vet at mengden arbeid en har ikke burde være et problem, at den er mindre enn det andre har, mindre enn en selv har hatt tidligere.
+
+Det skal sies at det å ha for mye å gjøre. Ha kronisk korte frister og at overtid og kveldsjobbing er regelen ikke unntaket for kan føre til at en brenner ut. Spesielt hvis en ikke føler en har kontroll over arbeidet eller at arbeidet en gjør ikke stemmer overens med egne verdier. Det som ofte skjer når en brenner ut fra den totale mengden arbeid som skal gjøres er at en ikke klarer å hente seg inn fra dag til dag. 
+
+> Do not do more today than you can completely recover from by tomorrow. Do not do more this week than you can completely recover from before next week.
+> - Effortless By Greg McKeown
+
+Men det er altså fint mulig å brenne ut uten at det er arbeidsmengden i seg selv som er problemet. Her kan det være at en stiller for store krav til seg selv på kvaliteten det er forventet skal leveres. Eller å kan det være knyttet til belønning, fellesskap eller rettferdighet.
 
 
 ### Belønning
 
 <object data="images/aws.svg" type="image/svg+xml" ></object>
+
+Belønning ja, her er det vel bare en ting som gjelder? Bla frem mer gryn for å gjøre det tålbart å sitte med de oppgavene en jobber med, eller? Det viser seg at vi mennesker er flokkdyr som har egne motivasjoner for hva vi gjør. Det viser seg derfor at det å bli annerkjent av kolleager, ledere og andre interesenter er viktig for oss for å styrke vår følelse av effektivitet. Hvis en ikke opplever å få annerkjennelse av det arbeidet en gjør vil arbeidet en gjorde føles uten betydning og en føler rett og slett at en har skapt lite nytt.
+
+> Det blir sagt at det er lettere å unngå å demotivere enn å motivere. Så gå igang og vask opp dritten fremfor å pynte med blomster for å overdøve duften av det dere går å vasser i.
+
+Så har vi den egne motivasjonen, den indre, iboende motivasjonen. Det som driver de fleste av oss er å gjøre godt håndtverk. Arbeid hvor de kan komme i flyt. Arbeid som utfordrer de i passe grad. Arbeid en kan være solt av og som er tilfredstillende. 
+
+Så, står belønningene en opplever i arbeidssituasjonen til arbeidet en legger inn? Når du tar på deg en kip oppgave som ingen på teamet vil ha, blir det satt pris på? Når du føler du må sitte overtid, eller utsette ferie eller planer. Får du den annerkjennelsen dette fortjener? Når andre på teamet gjør en god jobb, passer du på å skryte av de og fortelle de hvor god jobb de gjør? 
+
+Faktorene belønning, felleskap og rettferdighet er i høyeste grad snakk om kultur, og kultur er noe som bygges. Ved å gå forran å gjøre mot andre som en vil andre skal gjøre mot seg kan en bygge en god kultur som støtter. 
+
+> De måtene vi møter alle situasjonene vi er i som påvirker andre i teamet legger vi inn en stemmet i teamet for hvordan vi vil at kulturen skal være.
+>
+> Stemmer du for en oppløftende, inkluderende og støttende kultur? 
 
 ### Fellesskap
 
@@ -122,6 +152,8 @@ Hvis ens verdier ikke stemmer overens med de verdiene det blir lagt vekt på i a
 ### Rettferdighet
 
 <object data="images/aws.svg" type="image/svg+xml" ></object>
+
+
 
 ## Forebygging
 Det er lett å ikke ta seg selv seriøst når en synes noe er kipt. Er det noen flere her enn meg som tar seg selv i å klage over noe, for så å si, men det er egentlig helt greit. Eller det går helt greit?
