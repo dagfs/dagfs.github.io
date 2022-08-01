@@ -185,6 +185,8 @@ Videre viser rammeverket en modell for en arbeidssituasjon en kan jobbe mot, hvo
 
 Jeg innser at denne biten ble litt vel kort, en bør rett og slett prøve å ta til seg faktorene fra modellen og se på hvilken måte arbeidssituasjonen støtter oppunder følelsen av kontroll, bærekraftig arbeidsmengde, rettferdighet, felleskap, belønning og felles verdier. For så å gjøre tiltak for å fjerne faktorer som trekker fra dette og gjøre tiltak for å forbedre det. Det er lettere å demotivere enn å motivere. Det er lettere å ta enn å gi. Reduser det som  tar energi før du prøver å tilføre ny energi.
 
+Boka [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) som presenterer flere år med spørreundersøkelser om devops kommer frem til mye av det samme som er beskrevet av AWS. Mindre autonome team som kan gjøre tiltak for å kontrollere arbeidsmengde og kan påvirke kulturen sin gir engasjerte, innvolverte og effektive annsatte som både gjør at folk har det bedre på jobb og får gjort bedre arbeid.
+
 Et annet forebyggende tiltak en kan gjøre er å bake inn spørsmål fra MBI eller AWS i tempcheker eller medarbeidersamtaler for å plukke opp på risikofaktorer tidlig. Fra egen erfaring og fra ved å ha snakket med andre ser det ut til at det er mange av oss som fort står i mer og tyngre ting enn vi burde alene.
 
 ## Veien tilbake
