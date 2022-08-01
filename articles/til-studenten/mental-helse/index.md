@@ -1,5 +1,7 @@
 # Til studenten - Om mental helse
 
+https://www.healthline.com/health/mental-health/koshas#5-koshas
+
 Jeg er takknemlig for muligheten til å dele dette med dere
 
 ```
