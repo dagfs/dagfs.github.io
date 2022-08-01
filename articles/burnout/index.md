@@ -29,7 +29,7 @@ Utbrenthet er hovedsaklig forursaket av stressfaktorer på jobb, men vi er hele 
 
 Det er en del faktorer som kan øke sannsynligheten, som det å være nye i jobben eller arbeidslivet, ha dårlig selvtillit, ha urealistisk høye forventinger og det å ha en tendens til å bruke unvikende stressmestrings strategier.
 
-Det vanlige senarioet er at en arbeidstageren kommer inn i arbeidssituasjonen med positive forventniger, engasjement, og et ønske om å gjøre det bra. Over tid endrer dette seg, og arbeidstageren føler seg utmattet, frustrert, sint, kynisk og inneffektiv. Knisten en kom inn i arbeidssituasjonen er slukket. Dette går utover arbeidsoppgavene og kollegier og bedriften. Noen slutter, andre fortsetter, men gjør så lite de slipper unna med. 
+Det vanlige senarioet er at en arbeidstageren kommer inn i arbeidssituasjonen med positive forventniger, engasjement, og et ønske om å gjøre det bra. Over tid endrer dette seg, og arbeidstageren føler seg utmattet, frustrert, sint, kynisk og inneffektiv. Gnisten en kom inn i arbeidssituasjonen er slukket. Dette går utover arbeidsoppgavene og kollegier og bedriften. Noen slutter, andre fortsetter, men gjør så lite de slipper unna med. 
 
 Opprinnelig kom beskrivelsen av utbrenthet fra pleie, service og lærer yrke. I senere tid har modellen for utbrenthet blitt vist til å gjelde for alle yrker.
 
@@ -176,20 +176,16 @@ Følelsen av rettferdighet er altså tett knyttet både til fellesskap og beløn
 
 
 ## Forebygging
-Det er lett å ikke ta seg selv seriøst når en synes noe er kipt. Er det noen flere her enn meg som tar seg selv i å klage over noe, for så å si, men det er egentlig helt greit. Eller det går helt greit?
 
-For med en gang en har klaget over noe, får en lettet på trykket og da har en det bedre en liten stund. Så er det jo ubehagelig å endre ting.
+Det var en sjapp introduksjon til rammeverket. La oss se på hva det sier oss og hvordan det kan hjelpe oss med å forebygge utbrenthet.
 
-Og noe av det en må gjøre for å unngå og komme tilbake fra utbrendthet, er å lære seg å sette og holde grenser, samt finne ut av hva en har kapasitet til, behov for og liker å gjøre.
+Det første vi bør vite er at det er lett å ikke ta seg selv seriøst når en synes noe er kipt. Det er lett å tenke at noe er kipt og klage over det, og samtidig tenke at det er ikke så viktig, det vil bli bedre. For med en gang en har klaget over noe, får en lettet på trykket og da har en det bedre en liten stund. Så er det jo ubehagelig å endre ting. Men ting blir ikke bedre av å følge et slikt mønster. Så ta deg selv og de du jobber med på alvor når de tar opp noe de synes er kipt.
 
-### Grenser
+Videre viser rammeverket en modell for en arbeidssituasjon en kan jobbe mot, hvor de ansatte har påvirkningskraft på arbeidsoppgaver, og opplever at de kan påvirke fellesskapet og verdiene i arbeidssituasjonen. Den viser også at det ikke holder hvis de ansatte ikke er klar over eller ikke føler at de kan påvirke disse faktorene. Her spiller måten en møtes når en prøver å påvirke inn.
 
-Fuck yes. Hell no. og helst ikke
+Jeg innser at denne biten ble litt vel kort, en bør rett og slett prøve å ta til seg faktorene fra modellen og se på hvilken måte arbeidssituasjonen støtter oppunder følelsen av kontroll, bærekraftig arbeidsmengde, rettferdighet, felleskap, belønning og felles verdier. For så å gjøre tiltak for å fjerne faktorer som trekker fra dette og gjøre tiltak for å forbedre det. Det er lettere å demotivere enn å motivere. Det er lettere å ta enn å gi. Reduser det som  tar energi før du prøver å tilføre ny energi.
 
-Hva tar energi
-
-### Behov
-hva gir deg energi
+Et annet forebyggende tiltak en kan gjøre er å bake inn spørsmål fra MBI eller AWS i tempcheker eller medarbeidersamtaler for å plukke opp på risikofaktorer tidlig. Fra egen erfaring og fra ved å ha snakket med andre ser det ut til at det er mange av oss som fort står i mer og tyngre ting enn vi burde alene.
 
 ## Veien tilbake
 
@@ -198,6 +194,14 @@ hva gir deg energi
 ### Finn ut hva du har behov for
 sykemelding med faktisk fri og utkobling - lenke til artikkel
 andre oppgaver,
+
+hva gir deg energi
+
+grenser
+
+Fuck yes. Hell no. og helst ikke
+
+Hva tar energi
 
 ### Jobb med faktorene i AWS
 jobbe med forholdene 
