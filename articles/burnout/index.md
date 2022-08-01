@@ -63,7 +63,7 @@ Det kan også være at arbeidstakeren mangler gode strattegier for å håndtere 
 
 Det fører ofte til snarveier i livet utenfor jobb som kan være med på å forværre situasjonen. Det å ikke få nok tid i solen, ute i naturen, med høy puls, ikke spise sunn mat, nok god søvn, eller tid for seg selv, er faktorer som går utover vår generelle velvære og er viktige faktorer å få på plass.
 
-### AWS
+### Areas of Worklife Scale (AWS)
 
 
 <object data="images/aws.svg" type="image/svg+xml" ></object>
@@ -74,7 +74,9 @@ Det er her AWS(Areas of Worklife Scale) kommer inn. Det er en modell som beskriv
 
 De seks områdene er kontroll, arbeidsmengde, belønning, felleskap, rettferdighet og verdier. 
 
-Her vil jeg minne om at det er personens opplevde grad av hvor godt personen passer med jobben som er det som fører til utrenthet.
+Modellen er tegnet med de engelske ordene som er blitt brukt i modellen da det ikke finnes noen offesiell oversettelse jeg er kjent med. Områdene beskrevet over er altså min oversettelse.
+
+Her vil jeg minne om at det er personens **opplevde** grad av hvor godt personen passer med jobben som er det som fører til utrenthet. 
 
 ### Kontroll
 
@@ -145,13 +147,31 @@ Faktorene belønning, felleskap og rettferdighet er i høyeste grad snakk om kul
 >
 > Stemmer du for en oppløftende, inkluderende og støttende kultur? 
 
+Belønnng kan altså være så mangt, ikke minst følelse av tilhørighet og at en blir satt pris på i arbeidsituasjonen, som tar oss finter over til neste tema.
+
+
+
 ### Fellesskap
 
 <object data="images/aws.svg" type="image/svg+xml" ></object>
 
+Med felleskap, mener AWS den overordnede kvaliteten på sosiale interaksoner på jobb. Dette innebærer evne til å jobbe som team, nærhet, gjensidig søtte, og konflikter. Folk har det best på jobb når en har mulighet til å gi hverandre ros, støtte, glede, og humor med andre de liker og respekterer. Det gjør at en føler seg som en del av gruppa og at en har felles verdier.
+
+Jobbsituasjoner hvor en er isolert fra andre arbeidere, eller ikke får muligheten til å bygge sosiale relasjoner med de en jobber med øker sannsyligheten for å brenne ut. Konflikter er også naturlig nok med på å surne til følelsen av fellesskap og fører til frustrasjon, fiendlighet og mindre støtte. Mangel på støtte fra leder er tydelig koblet til følelse av utmattelse, hvor mangel på støtte fra kolleagaer er knyttet til følelse av effektivitet og at en oppnår resultater.
+
+Når en føler seg del av et positivt felleskap vil en være mer engasjert i arbeidet en gjør. Følelsen kan også beskytte mot avvik i de andre dimensjonene i modellen. Fellesskap som er livlig, imøtekommende og responsive er rett og slett kompatible med burnout.
+
+
+
 ### Rettferdighet
 
 <object data="images/aws.svg" type="image/svg+xml" ></object>
+
+For å ha et godt felleskap er den siste faktoren vi skal snakke om viktig. Rettferdighet handler om vi opplever de besluttningene som blir tatt på jobb er retterdige og om folk blir behandlet med respekt.
+
+Situasjoner som oppleves urettferdig handler ofte arbeidsmengde, lønn, at det oppleves som at noen jukser for å få fordeler, eller annsvar eller arbeidsoppgaver blir fordelt på en dårlig måte. Ofte er prosessen rundt hvordan noe blir gjort viktigere enn hva selve resultatet ble. Vi mennesker er sosiale skapninger og vi gjør til en hver tid en vurdering hvor vi står i det sosiale hiriarkiet. Hvis en opplever at prosessen som blir brukt ikke bekrefter denne plassen de opplever de har i hiriarkiet føler en seg fremedgjort fra felleskapet og opplever at ens verdier ikke stemmer overens.
+
+Følelsen av rettferdighet er altså tett knyttet både til fellesskap og belønning. De ansatte har forventninger til at lederne er rettferdige, ser hva de annsatte bidrer med og fordeler resurser og muligheter rettferdig.
 
 
 
