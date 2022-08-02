@@ -1,5 +1,16 @@
 # Utbrenthet - forebygging og veien tilbake
 
+I denne artikkelen ønsker jeg å dele det jeg har lært om utbrenthet; hva det er, hvordan det ser ut, hvordan det kan måles, og om hvor det kommer fra. Videre skal vi se på de seks faktorene fra arbeidslivet som bidrar til utbrenthet; følelsen av mangel av kontroll på arbeidsoppgaver og mengde,  Belønning Fellesskap Rettferdighet Verdier **Skriv helt til slutt**
+
+### Min historie
+
+<figure>
+<object class="dark-icon" data="images/arbeidsgrad-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/arbeidsgrad-light.svg" type="image/svg+xml" ></object>
+<figcaption>Min arbeidsgrad fra mars 2020 til februar 2022</figcaption>
+</figure>
+
+
 I mars 2020 stengte norge verden ned. Med det mistet jeg de aktivitetene og rutinene som hadde holdt meg i balanse. Jeg hadde alt vaklet en stund før verden stengte ned, så det å miste disse aktivitetene og rutinene føltes som å miste bardunene som holdt meg stående.
 
 De neste ukene brandt jeg raskt ut mens jeg prøvde å gjenskape det som hadde holdt meg stående.
@@ -10,9 +21,9 @@ Det ble en lang, vond, og nyttig reise. Jeg har fått tatt tak i en del av tinge
 
 Jo mer jeg har lært og hørt fra andre, innser jeg at jeg nok vil bruke resten av livet på å holde utbrenthet og andre mentale plager i sjakk. Mye på samme måte som jeg ønsker å ta vare kroppen min. Det er på en måte en overveldene tanke at det er nok en ting en skal gjøre lenge, samtidig er det god støtte at dette er normalt og at det er ting det blir snakket om i for eksempel podcasten [Godt nok for de svina - Selvledelse, hvordan gjør man det?](https://open.spotify.com/episode/0D3tAnM5Fq0bIEhoYFz6bo?si=0d942aa6e3214b0e)
 
-[Bilde av arbeidsgraden min]
 
-I denne artikkelen ønsker jeg å dele det jeg har lært om utbrenthet; hva det er, hvordan det ser ut, hvordan det kan måles, og om hvor det kommer fra. Videre skal vi se på de seks faktorene fra arbeidslivet som bidrar til utbrenthet; følelsen av mangel av kontroll på arbeidsoppgaver og mengde,  Belønning Fellesskap Rettferdighet Verdier **Skriv helt til slutt**
+
+
 
 ## Utbrenthet
 Så la oss snakke om hva utbrenhet er, hvordan det ser ut, hvordan måle det og hva som fører til det.
@@ -38,7 +49,8 @@ Opprinnelig kom beskrivelsen av utbrenthet fra pleie, service og lærer yrke. I 
 ### Maslach Burnout Inventory
 
 
-<object data="images/mbi.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/mbi-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/mbi-light.svg" type="image/svg+xml" ></object>
 
 Det var litt om hva utbrenthet er og hvordan det kan se ut. Men det vi har snakket om så langt er veldig subjektivt. Det er en følelse hos den arbeidstagende som er lett å ikke ta seriøst, både for den arbeidstagende og for de som påvirker arbeidssituasjonen. Et verktøy en kan bruke her er [Maslach Burnout Inventory]() **legg til lenke** som kan hjelpe til med å kventifisere følelsen av utbrenthet.
 
