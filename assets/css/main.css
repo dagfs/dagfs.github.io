@@ -80,16 +80,16 @@ body.dark {
   --theme-black-quote-bar: var(--main-pink);
 }
 
-.dark-icon {
+.light-icon {
   display: none;
 }
 
 
-body.dark .dark-icon {
+body.dark .light-icon {
   display: block;
 }
 
-body.dark .light-icon {
+body.dark .dark-icon {
   display: none;
 }
 
