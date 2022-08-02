@@ -298,7 +298,8 @@ body.presentation-mode object {
 
 body.presentation table,
 body.presentation ul,
-body.presentation blockquote {
+body.presentation blockquote,
+body.presentation figcaption {
   display: none;
 }
 
