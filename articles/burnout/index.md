@@ -107,8 +107,8 @@ Her vil jeg minne om at det er personens **opplevde** grad av hvor godt personen
 ### Kontroll
 
 <figure>
-<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/aws-control-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-control-dark.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
  
@@ -127,8 +127,8 @@ Problemene i denne faktoren av arbeidslivet er når en føler en ikke kan påvir
 ### Verdier
 
 <figure>
-<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/aws-value-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-value-dark.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
@@ -151,8 +151,8 @@ Liten refleksjon om det å bli kjent med egne verdier:
 ### Arbeidsmengde
 
 <figure>
-<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/aws-workload-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-workload-dark.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
@@ -169,8 +169,8 @@ Men det er altså fint mulig å brenne ut uten at det er arbeidsmengden i seg se
 ### Belønning
 
 <figure>
-<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/aws-reward-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-reward-dark.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
@@ -195,8 +195,8 @@ Belønnng kan altså være så mangt, ikke minst følelse av tilhørighet og at 
 ### Fellesskap
 
 <figure>
-<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/aws-community-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-community-dark.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
@@ -211,8 +211,8 @@ Når en føler seg del av et positivt felleskap vil en være mer engasjert i arb
 ### Rettferdighet
 
 <figure>
-<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/aws-fairness-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-fairness-dark.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
@@ -242,7 +242,20 @@ Et annet forebyggende tiltak en kan gjøre er å bake inn spørsmål fra MBI ell
 
 ### Hvile
 
+<figure>
+<object class="dark-icon" data="images/rest-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/rest-light.svg" type="image/svg+xml" ></object>
+<figcaption>Hvile</figcaption>
+</figure>
+
 ### Finn ut hva du har behov for
+
+<figure>
+<object class="dark-icon" data="images/needs-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/needs-light.svg" type="image/svg+xml" ></object>
+<figcaption>Behov</figcaption>
+</figure>
+
 sykemelding med faktisk fri og utkobling - lenke til artikkel
 andre oppgaver,
 
@@ -255,6 +268,13 @@ Fuck yes. Hell no. og helst ikke
 Hva tar energi
 
 ### Jobb med faktorene i AWS
+
+<figure>
+<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
+
 jobbe med forholdene 
 som individ med psykolog, coach eller personalleder
 sammen med bedrift for å endre arbeidsforholdene
