@@ -30,7 +30,12 @@ Så la oss snakke om hva utbrenhet er, hvordan det ser ut, hvordan måle det og 
 
 ### Definisjon
 
+
+
+<figure>
 <object data="images/match.svg" type="image/svg+xml" ></object>
+<figcaption>Todo add caption</figcaption>
+</figure>
 
 Utbrenthet er en tilstand som blir beskrevet med symptomene utmattelse, kynisme, og redusert effektivitet. Det starter med utmattelse som over tid fører til kynesisme og distansering fra arbeidet og medarbeiderne for å beskytte fra utmattelsen. Tilstanden fører til slutt til redusert effektivitet i arbeidet en gjør.
 
@@ -49,8 +54,14 @@ Opprinnelig kom beskrivelsen av utbrenthet fra pleie, service og lærer yrke. I 
 ### Maslach Burnout Inventory
 
 
+
+<figure>
 <object class="dark-icon" data="images/mbi-dark.svg" type="image/svg+xml" ></object>
 <object class="light-icon" data="images/mbi-light.svg" type="image/svg+xml" ></object>
+<figcaption>Maslach Burnout Inventory</figcaption>
+</figure>
+
+
 
 Det var litt om hva utbrenthet er og hvordan det kan se ut. Men det vi har snakket om så langt er veldig subjektivt. Det er en følelse hos den arbeidstagende som er lett å ikke ta seriøst, både for den arbeidstagende og for de som påvirker arbeidssituasjonen. Et verktøy en kan bruke her er [Maslach Burnout Inventory]() **legg til lenke** som kan hjelpe til med å kventifisere følelsen av utbrenthet.
 
@@ -59,7 +70,6 @@ Maslach Burnout Inventory er modellen som beskriver de tre stadiene av utbrenhet
 En test en kan gjøre online selv er: https://www.mindtools.com/pages/article/newTCS_08.htm **TODO test den og eventuelt finn en annen bedre en**
 
 
-[bilde av MBI]
 
 ## Energilekasjen
 
@@ -78,7 +88,11 @@ Det fører ofte til snarveier i livet utenfor jobb som kan være med på å forv
 ### Areas of Worklife Scale (AWS)
 
 
-<object data="images/aws.svg" type="image/svg+xml" ></object>
+<figure>
+<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
 
 Ok, så hvis utbrenthet er en energilekasje som tapper personen og som ofte er delvis hos personen og delvis i arbeidssituasjonen, hvordan kan en finne de?
 
@@ -92,8 +106,11 @@ Her vil jeg minne om at det er personens **opplevde** grad av hvor godt personen
 
 ### Kontroll
 
-
-<object data="images/aws.svg" type="image/svg+xml" ></object>
+<figure>
+<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
  
 For å gå mer i detalj i modellen, la oss starte med kontroll. Kontroll i modellen refererer over kontroll av arbeidssituasjonen, som i praksis vil si, kontroll over faktorene arbeidsmengde, belønning, fellesskap og rettferdighet. Det handler også om følellsen av å kunne jobbe autonomt og muligheten til å få tilgang til resurser en trenger for å gjøre jobben sin effektivt. 
 
@@ -109,7 +126,11 @@ Problemene i denne faktoren av arbeidslivet er når en føler en ikke kan påvir
 
 ### Verdier
 
-<object data="images/aws.svg" type="image/svg+xml" ></object>
+<figure>
+<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
 
 Vi hopper til slutten av modellen for å da resten av faktorene er tett knyttet til både kontroll faktoren og verdiene faktorene representerer.
 
@@ -129,7 +150,11 @@ Liten refleksjon om det å bli kjent med egne verdier:
 
 ### Arbeidsmengde
 
-<object data="images/aws.svg" type="image/svg+xml" ></object>
+<figure>
+<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
 
 Det området av jobb vi snakker mest om, og så fort gjør at det oppleves stiga rundt hvis man ikke føler er urimlig og en brenner ut, er arbeidsmengde. Det er rett og slett lett å føle skam fordi en er utmattet og en vet at mengden arbeid en har ikke burde være et problem, at den er mindre enn det andre har, mindre enn en selv har hatt tidligere.
 
@@ -143,7 +168,11 @@ Men det er altså fint mulig å brenne ut uten at det er arbeidsmengden i seg se
 
 ### Belønning
 
-<object data="images/aws.svg" type="image/svg+xml" ></object>
+<figure>
+<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
 
 Belønning ja, her er det vel bare en ting som gjelder? Bla frem mer gryn for å gjøre det tålbart å sitte med de oppgavene en jobber med, eller? Det viser seg at vi mennesker er flokkdyr som har egne motivasjoner for hva vi gjør. Det viser seg derfor at det å bli annerkjent av kolleager, ledere og andre interesenter er viktig for oss for å styrke vår følelse av effektivitet. Hvis en ikke opplever å få annerkjennelse av det arbeidet en gjør vil arbeidet en gjorde føles uten betydning og en føler rett og slett at en har skapt lite nytt.
 
@@ -165,7 +194,11 @@ Belønnng kan altså være så mangt, ikke minst følelse av tilhørighet og at 
 
 ### Fellesskap
 
-<object data="images/aws.svg" type="image/svg+xml" ></object>
+<figure>
+<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
 
 Med felleskap, mener AWS den overordnede kvaliteten på sosiale interaksoner på jobb. Dette innebærer evne til å jobbe som team, nærhet, gjensidig søtte, og konflikter. Folk har det best på jobb når en har mulighet til å gi hverandre ros, støtte, glede, og humor med andre de liker og respekterer. Det gjør at en føler seg som en del av gruppa og at en har felles verdier.
 
@@ -177,7 +210,11 @@ Når en føler seg del av et positivt felleskap vil en være mer engasjert i arb
 
 ### Rettferdighet
 
-<object data="images/aws.svg" type="image/svg+xml" ></object>
+<figure>
+<object class="dark-icon" data="images/aws-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
 
 For å ha et godt felleskap er den siste faktoren vi skal snakke om viktig. Rettferdighet handler om vi opplever de besluttningene som blir tatt på jobb er retterdige og om folk blir behandlet med respekt.
 
