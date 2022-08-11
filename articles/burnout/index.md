@@ -284,7 +284,7 @@ sammen med bedrift for å endre arbeidsforholdene
 
 
 
----
+<!--
 
 Beskrivelse
 > Utbrenthet er et utbrett problem som oppstår når individets og miljøets behov ikke passer. 
@@ -309,3 +309,9 @@ Reason for giving the talk:
 >Utfordringen med utbrenthet er at problemet ligger ikke fult hos individet, eller hos organisasjonen, men det er et delt ansvar som gjør at begge parter må gjøre en innsats for å løse situasjonen.
 >
 >Dette foredraget håper på å gi individet og organisasjonen en innføring i de seks delene av arbeidslivet som påvirker utbrenthet og med dette muligheten til å jobbe med og forbedre liv.
+-->
+<!--
+TODO:
+- rosa farge på mørke ikoner
+
+-->
