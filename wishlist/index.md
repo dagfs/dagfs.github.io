@@ -26,6 +26,7 @@ Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret h
 - Tøydamper
 - [stormparaply](https://enklereliv.no/paraplyer/gustbuster-sammenleggbar-orkanparaply/) 400,-
 - [Migrenelue](https://smertefri.co/pages/hodepine-terapi-lue)
+- [Flex pants 2](https://thebasicshop.no/collections/2for700/products/6138666-robert-chino-forest-green?variant=39344510992463) - [Flepants 1](https://thebasicshop.no/collections/2for700/products/6403549-mark-flex-pant-0209-rosin?variant=39517628366927)
 - [Svartdalspiggen jumpsuit i ullfrottè](https://www.sparkjop.no/svartdalspiggen-jumpsuit-i-ullfrott-_415292?level_1=61713)
 - Pilot G-2 05 kulepenner med refils
 - [Våtdrakt](https://prisguiden.no/produkt/head-multix-vl-fullsuit-herre-498407)
@@ -39,6 +40,7 @@ Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret h
 - Ny større ryggsekk til tur
 - Regntøy
 - GoPro
+- https://vuoriclothing.com/tim - yogabukse og annet treningstøy 20% off med 
 
 <!--
 Onily 
