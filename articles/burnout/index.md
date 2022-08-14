@@ -124,28 +124,6 @@ Det er viktig å huske på at et team endrer seg over tid, og spesielt om det ko
 
 Problemene i denne faktoren av arbeidslivet er når en føler en ikke kan påvirke arbeidssituasjonen til å stemme overens med verdiene sine. La oss se videre på verdier for å utddype dette.
 
-### Verdier
-
-<figure>
-<object class="dark-icon" data="images/aws-value-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-value-dark.svg" type="image/svg+xml" ></object>
-<figcaption>AWS</figcaption>
-</figure>
-
-Vi hopper til slutten av modellen for å da resten av faktorene er tett knyttet til både kontroll faktoren og verdiene faktorene representerer.
-
-I hjertet av ens relasjon med den jobben en gjør, er ens verdier. Vi velger jobber ut fra hvor godt det virker som de passer overends med våre verdier. Hvis en har tatt feil, eller arbeidssituasjonen endrer seg slik at ens verdier ikke stemmer, føles ting raskt feil og følelsen av hvor godt en passer til jobben reduseres.
-
-Hvis ens verdier ikke stemmer overens med de verdiene det blir lagt vekt på i arbeidssituasjonen, falmer rett og slett knisten. Arbeidsmengden en har vil oppleves som større og tyngre. Hvis verdiene som blir vegtlagt ikke bare ikke stemmer, men er mottsigende, vil er raskt bli kynisk og distansere seg fra arbeidet for å bekytte seg selv. Vi har alle et behov for å oppleve at vi har en integritet og alt som kan skade den må holdes på avstand.
-
-Hvis det en gjør er motsitridene med egne verdier vil en naturlig nok også bevist eller ubevist være mindre effektiv. En vil jo ikke gå raskt i feil feil rettning.
-
-Vi ser altså at når verdiene våre ikke stemmer overens med verdiene som ser ut til å være viktige i arbeissituasjonen vi er i kan arbeidet bli tyngre, vi kan få behov for å distansere oss, og effektiviteten vår kan reduseres. Så la oss se videre på hvordan de resterende faktorene i modellen påvirkes av kontroll og viser frem hvilke verdier som er viktige i arbeidssituasjonen.
-
-Liten refleksjon om det å bli kjent med egne verdier: 
-> Det interesante med verdier er at det ofte er vanskelig å sette ord på å vite  hvilke verdier som er viktige for en. Det er ofte lettere å finne det ut ved å kjenne på hva en mener er feil. 
->
-> Her kan det være nyttig å bli kjent med hvordan følelser i kroppen kjennes ut. Det er to vanlige følelser en kan kjenne til situasjoner. Det er hekk yeah! Eller NOPE. Men det finnes også et vagere nei det kan være lurt å bli kjent med. Neiet som sier, det passer egentlig ikke. Eller dette har ikke blitt til det jeg har villet tidligere. Det er ofte situasjoner hvor en kjenner et vagt nei, men rasionaliserer det bort, som e rsituasjoner som ender opp med å ta masse energi over tid. Så stopp gjerne opp og tenk igjennom et par situasjoner som ble kipe, som du viste ville bli kipe, men som du sa ja til, for det kunne jo hende det ikke ble så ille som du fryktet...
 
 
 ### Arbeidsmengde
@@ -221,6 +199,30 @@ For å ha et godt felleskap er den siste faktoren vi skal snakke om viktig. Rett
 Situasjoner som oppleves urettferdig handler ofte arbeidsmengde, lønn, at det oppleves som at noen jukser for å få fordeler, eller annsvar eller arbeidsoppgaver blir fordelt på en dårlig måte. Ofte er prosessen rundt hvordan noe blir gjort viktigere enn hva selve resultatet ble. Vi mennesker er sosiale skapninger og vi gjør til en hver tid en vurdering hvor vi står i det sosiale hiriarkiet. Hvis en opplever at prosessen som blir brukt ikke bekrefter denne plassen de opplever de har i hiriarkiet føler en seg fremedgjort fra felleskapet og opplever at ens verdier ikke stemmer overens.
 
 Følelsen av rettferdighet er altså tett knyttet både til fellesskap og belønning. De ansatte har forventninger til at lederne er rettferdige, ser hva de annsatte bidrer med og fordeler resurser og muligheter rettferdig.
+
+
+### Verdier
+
+<figure>
+<object class="dark-icon" data="images/aws-value-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/aws-value-dark.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
+
+Vi hopper til slutten av modellen for å da resten av faktorene er tett knyttet til både kontroll faktoren og verdiene faktorene representerer.
+
+I hjertet av ens relasjon med den jobben en gjør, er ens verdier. Vi velger jobber ut fra hvor godt det virker som de passer overends med våre verdier. Hvis en har tatt feil, eller arbeidssituasjonen endrer seg slik at ens verdier ikke stemmer, føles ting raskt feil og følelsen av hvor godt en passer til jobben reduseres.
+
+Hvis ens verdier ikke stemmer overens med de verdiene det blir lagt vekt på i arbeidssituasjonen, falmer rett og slett knisten. Arbeidsmengden en har vil oppleves som større og tyngre. Hvis verdiene som blir vegtlagt ikke bare ikke stemmer, men er mottsigende, vil er raskt bli kynisk og distansere seg fra arbeidet for å bekytte seg selv. Vi har alle et behov for å oppleve at vi har en integritet og alt som kan skade den må holdes på avstand.
+
+Hvis det en gjør er motsitridene med egne verdier vil en naturlig nok også bevist eller ubevist være mindre effektiv. En vil jo ikke gå raskt i feil feil rettning.
+
+Vi ser altså at når verdiene våre ikke stemmer overens med verdiene som ser ut til å være viktige i arbeissituasjonen vi er i kan arbeidet bli tyngre, vi kan få behov for å distansere oss, og effektiviteten vår kan reduseres. Så la oss se videre på hvordan de resterende faktorene i modellen påvirkes av kontroll og viser frem hvilke verdier som er viktige i arbeidssituasjonen.
+
+Liten refleksjon om det å bli kjent med egne verdier: 
+> Det interesante med verdier er at det ofte er vanskelig å sette ord på å vite  hvilke verdier som er viktige for en. Det er ofte lettere å finne det ut ved å kjenne på hva en mener er feil. 
+>
+> Her kan det være nyttig å bli kjent med hvordan følelser i kroppen kjennes ut. Det er to vanlige følelser en kan kjenne til situasjoner. Det er hekk yeah! Eller NOPE. Men det finnes også et vagere nei det kan være lurt å bli kjent med. Neiet som sier, det passer egentlig ikke. Eller dette har ikke blitt til det jeg har villet tidligere. Det er ofte situasjoner hvor en kjenner et vagt nei, men rasionaliserer det bort, som e rsituasjoner som ender opp med å ta masse energi over tid. Så stopp gjerne opp og tenk igjennom et par situasjoner som ble kipe, som du viste ville bli kipe, men som du sa ja til, for det kunne jo hende det ikke ble så ille som du fryktet...
 
 
 
@@ -313,5 +315,9 @@ Reason for giving the talk:
 <!--
 TODO:
 - rosa farge på mørke ikoner
+- januar 2021 grafen skal starte her
 
+2 % prosent er til en hver tid utrbent
+1/4 føler på noe grad av utbrenhet
+https://www.healthline.com/health/yerkes-dodson-law
 -->
