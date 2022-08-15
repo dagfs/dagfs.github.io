@@ -176,7 +176,7 @@ Belønnng kan altså være så mangt, ikke minst følelse av tilhørighet og at 
 
 <figure>
 <object class="dark-icon" data="images/community_dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/community_dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/community_light.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
@@ -191,8 +191,8 @@ Når en føler seg del av et positivt felleskap vil en være mer engasjert i arb
 ### Rettferdighet
 
 <figure>
-<object class="dark-icon" data="images/fairness_dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/fairness_light.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/fairnes_dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/fairnes_light.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
