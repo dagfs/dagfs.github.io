@@ -110,7 +110,7 @@ Her vil jeg minne om at det er personens **opplevde** grad av hvor godt personen
 
 <figure>
 <object class="dark-icon" data="images/control_dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/control_light_.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/control_light.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
  
@@ -150,7 +150,7 @@ Men det er altså fint mulig å brenne ut uten at det er arbeidsmengden i seg se
 
 <figure>
 <object class="dark-icon" data="images/reward_dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/reward_light_.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/reward_light.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
