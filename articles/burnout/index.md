@@ -69,7 +69,9 @@ Maslach Burnout Inventory er modellen som beskriver de tre stadiene av utbrenhet
 
 En test en kan gjøre online selv er: https://www.mindtools.com/pages/article/newTCS_08.htm **TODO test den og eventuelt finn en annen bedre en**
 
+### Stress
 
+TODO: Skriv om og teng stress vindue.
 
 ## Energilekasjen
 
@@ -107,8 +109,8 @@ Her vil jeg minne om at det er personens **opplevde** grad av hvor godt personen
 ### Kontroll
 
 <figure>
-<object class="dark-icon" data="images/aws-control-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-control-dark.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/control_dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/control_light_.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
  
@@ -129,8 +131,8 @@ Problemene i denne faktoren av arbeidslivet er når en føler en ikke kan påvir
 ### Arbeidsmengde
 
 <figure>
-<object class="dark-icon" data="images/aws-workload-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-workload-dark.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/workload_dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/workload_light.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
@@ -147,8 +149,8 @@ Men det er altså fint mulig å brenne ut uten at det er arbeidsmengden i seg se
 ### Belønning
 
 <figure>
-<object class="dark-icon" data="images/aws-reward-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-reward-dark.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/reward_dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/reward_light_.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
@@ -173,8 +175,8 @@ Belønnng kan altså være så mangt, ikke minst følelse av tilhørighet og at 
 ### Fellesskap
 
 <figure>
-<object class="dark-icon" data="images/aws-community-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-community-dark.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/community_dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/community_dark.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
@@ -189,8 +191,8 @@ Når en føler seg del av et positivt felleskap vil en være mer engasjert i arb
 ### Rettferdighet
 
 <figure>
-<object class="dark-icon" data="images/aws-fairness-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-fairness-dark.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/fairness_dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/fairness_light.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
@@ -204,8 +206,8 @@ Følelsen av rettferdighet er altså tett knyttet både til fellesskap og beløn
 ### Verdier
 
 <figure>
-<object class="dark-icon" data="images/aws-value-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/aws-value-dark.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/values_dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/values_light.svg" type="image/svg+xml" ></object>
 <figcaption>AWS</figcaption>
 </figure>
 
