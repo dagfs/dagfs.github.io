@@ -71,9 +71,17 @@ En test en kan gjøre online selv er: https://www.mindtools.com/pages/article/ne
 
 ### Stress
 
+<figure>
+<object class="dark-icon" data="images/stress_dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/stress_light.svg" type="image/svg+xml" ></object>
+<figcaption>Yerkes Dodson Law https://www.healthline.com/health/yerkes-dodson-law</figcaption>
+</figure>
+
 TODO: Skriv om og teng stress vindue.
 
-## Energilekasjen
+
+
+## Energilekkasje
 
 Da kommer vi til det sentrale spørsmålet, hva er det som fører til at folk brenner ut? 
 
@@ -316,8 +324,24 @@ Reason for giving the talk:
 -->
 <!--
 TODO:
-- rosa farge på mørke ikoner
-- januar 2021 grafen skal starte her
+- gå over språk for å fikse skrivefeil
+- tegning for stress kurve - https://www.healthline.com/health/yerkes-dodson-law
+- arbeidsgrad - årstall er feil
+
+
+Tilbakemeldinger fra christian:
+- energilekasjen
+- fjerne lysskilt
+- legge til slidenummer x/y
+- si ifra når en går til neste del
+- hva betyr verdier
+- Lenke til kilde. accelerate på slide med AWS
+- jobbe alene
+- Egen slide med accelerate
+- ta deg selv seriøst -> ta problemene dine seriøst
+- 
+
+
 
 2 % prosent er til en hver tid utrbent
 1/4 føler på noe grad av utbrenhet
