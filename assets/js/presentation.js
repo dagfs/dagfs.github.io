@@ -18,27 +18,7 @@ for (var i = 0; i < content.children.length; i++) {
     const child = content.children[i];
 
     if (["H1", "H2", "H3"].includes(content.children[i].nodeName)) {
-        if (content.children[i].nodeName === "H2") {
-            // TODO - gjør om til egen fil og formater
-            // vis index
 
-            newContent += "</div><div id='slide" +
-                slideCount +
-                "' class='slide presentation-only'>\n"
-            newContent += '\n<div class="slide-body">\n'
-            newContent += "<ul class='chapter-list'>"
-            for (var j = 0; j < chapters.length; j++) {
-
-                newContent += "<li class='" + (j < currentChapter ? "seen" : "") + "'>" + chapters[j].innerHTML + "</li>"
-            }
-            newContent += "</ul>"
-            newContent += "</div>"
-            newContent += "<div class='page-number'>" + currentPage + "/" + numberOfPages + "</div>"
-            newContent += "</div>"
-            slideCount++;
-            currentPage++;
-            currentChapter++;
-        }
         if (child.innerHTML.indexOf("[presentation-only]") > -1) {
 
             child.classList.add("presentation-only");
@@ -62,6 +42,27 @@ for (var i = 0; i < content.children.length; i++) {
         currentSection = asHTML(child) + '\n<div class="slide-body">\n';
     } else {
         currentSection += asHTML(child);
+    }
+    if (content.children[i].nodeName === "H2") {
+        // TODO - gjør om til egen fil og formater
+        // vis index
+
+        newContent += "</div><div id='slide" +
+            slideCount +
+            "' class='slide presentation-only'>\n"
+        newContent += '\n<div class="slide-body">\n'
+        newContent += "<ul class='chapter-list'>"
+        for (var j = 0; j < chapters.length; j++) {
+
+            newContent += "<li class='" + (j < currentChapter ? "seen" : "") + "'>" + chapters[j].innerHTML + "</li>"
+        }
+        newContent += "</ul>"
+        newContent += "</div>"
+        newContent += "<div class='page-number'>" + currentPage + "/" + numberOfPages + "</div>"
+        newContent += "</div>"
+        slideCount++;
+        currentPage++;
+        currentChapter++;
     }
 }
 newContent +=

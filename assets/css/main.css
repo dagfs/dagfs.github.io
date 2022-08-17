@@ -233,7 +233,7 @@ body.presentation .wip {
   display: none;
 }
 
-body.presentation .presentation-only, body.presentation .pageNumber {
+body.presentation .presentation-only, body.presentation .page-number {
   display: block;
 }
 
