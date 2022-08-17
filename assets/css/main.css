@@ -101,7 +101,7 @@ html {
   padding: 0;
   margin: 0;
   font-family: "Ubuntu", sans-serif;
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth; */
   background-color: var(--theme-background);
   color: var(--theme-text);
 }
