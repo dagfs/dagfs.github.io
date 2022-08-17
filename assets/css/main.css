@@ -204,8 +204,14 @@ object {
 
 /* --------------------- */
 
-.presentation-only {
+.presentation-only, .page-number {
   display: none;
+}
+
+.page-number{
+  position:absolute;
+  right:20px;
+  bottom:20px;
 }
 
 /* body.presentation {
@@ -213,11 +219,21 @@ object {
   color: var(--main-pink);
 } */
 
+body.presentation .chapter-list{
+  display: block;
+  font-family: monospace;
+  font-size: 3rem;
+}
+
+.chapter-list .seen{
+  opacity: .3;
+}
+
 body.presentation .wip {
   display: none;
 }
 
-body.presentation .presentation-only {
+body.presentation .presentation-only, body.presentation .pageNumber {
   display: block;
 }
 
@@ -232,6 +248,7 @@ body.presentation .slide {
   width: 100%;
   height: 100vh;
   box-sizing: border-box;
+  position: relative;
 }
 
 body.presenter-mode .slide {
