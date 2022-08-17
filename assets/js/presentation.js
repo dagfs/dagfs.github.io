@@ -51,12 +51,12 @@ for (var i = 0; i < content.children.length; i++) {
             slideCount +
             "' class='slide presentation-only'>\n"
         newContent += '\n<div class="slide-body">\n'
-        newContent += "<ul class='chapter-list'>"
+        newContent += "<ol class='chapter-list'>"
         for (var j = 0; j < chapters.length; j++) {
 
             newContent += "<li class='" + (j < currentChapter ? "seen" : "") + "'>" + chapters[j].innerHTML + "</li>"
         }
-        newContent += "</ul>"
+        newContent += "</ol>"
         newContent += "</div>"
         newContent += "<div class='page-number'>" + currentPage + "/" + numberOfPages + "</div>"
         newContent += "</div>"
