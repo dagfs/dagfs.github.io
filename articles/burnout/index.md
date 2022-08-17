@@ -2,6 +2,13 @@
 
 I denne artikkelen ønsker jeg å dele det jeg har lært om utbrenthet; hva det er, hvordan det ser ut, hvordan det kan måles, og om hvor det kommer fra. Videre skal vi se på de seks faktorene fra arbeidslivet som bidrar til utbrenthet; følelsen av mangel av kontroll på arbeidsoppgaver og mengde,  Belønning Fellesskap Rettferdighet Verdier **Skriv helt til slutt**
 
+
+
+
+
+## Utbrenthet
+Så la oss snakke om hva utbrenhet er, hvordan det ser ut, hvordan måle det og hva som fører til det.
+
 ### Min historie
 
 <figure>
@@ -22,11 +29,6 @@ Det ble en lang, vond, og nyttig reise. Jeg har fått tatt tak i en del av tinge
 Jo mer jeg har lært og hørt fra andre, innser jeg at jeg nok vil bruke resten av livet på å holde utbrenthet og andre mentale plager i sjakk. Mye på samme måte som jeg ønsker å ta vare kroppen min. Det er på en måte en overveldene tanke at det er nok en ting en skal gjøre lenge, samtidig er det god støtte at dette er normalt og at det er ting det blir snakket om i for eksempel podcasten [Godt nok for de svina - Selvledelse, hvordan gjør man det?](https://open.spotify.com/episode/0D3tAnM5Fq0bIEhoYFz6bo?si=0d942aa6e3214b0e)
 
 
-
-
-
-## Utbrenthet
-Så la oss snakke om hva utbrenhet er, hvordan det ser ut, hvordan måle det og hva som fører til det.
 
 ### Definisjon
 
@@ -94,6 +96,15 @@ Det kan være ting i arbeidssituasjonen som er ugunstig og som ikke er slik det 
 Det kan også være at arbeidstakeren mangler gode strattegier for å håndtere stress fra jobb. Mange av dagens jobber følger ikke en naturlig stress sykel og gjør at en ofte ikke får noen naturlig slutt på situasjonen som stresser en. Det er derfor ekstra viktig å gjøre ting som reduserer stress i løpet av jobbdagen og etter jobb for å unngå at en går i en permanent stressrespons. Det å gå rundt å være stresset hele tiden tapper energi, og gjøre at en heller ikke har mulighet til å restituere fra en dag til den neste. Og det er fort her en kommer på tynn is. Når en ikke klarer å restituere fra en dag til den neste, eventuelt fra en uke til den neste.
 
 Det fører ofte til snarveier i livet utenfor jobb som kan være med på å forværre situasjonen. Det å ikke få nok tid i solen, ute i naturen, med høy puls, ikke spise sunn mat, nok god søvn, eller tid for seg selv, er faktorer som går utover vår generelle velvære og er viktige faktorer å få på plass.
+
+### Accelerate
+
+
+<figure>
+<object class="dark-icon" data="images/accelerate_dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/accelerate_light.svg" type="image/svg+xml" ></object>
+<figcaption>Accelerate</figcaption>
+</figure>
 
 ### Areas of Worklife Scale (AWS)
 
@@ -330,15 +341,13 @@ TODO:
 
 
 Tilbakemeldinger fra christian:
-- energilekasjen
-- fjerne lysskilt
 - legge til slidenummer x/y
 - si ifra når en går til neste del
-- hva betyr verdier
 - Lenke til kilde. accelerate på slide med AWS
-- jobbe alene
 - Egen slide med accelerate
-- ta deg selv seriøst -> ta problemene dine seriøst
+- må forklares bedre: hva betyr verdier
+- må forklares bedre: jobbe alene
+- må forklares bedre: ta deg selv seriøst -> ta problemene dine seriøst
 - 
 
 
