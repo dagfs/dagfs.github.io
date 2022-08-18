@@ -1,6 +1,65 @@
 # Til studenten - Om mental helse
 
-https://www.healthline.com/health/mental-health/koshas#5-koshas
+## Vedic modell av sinnet
+
+Bhagavadgita
+
+### det fysiske - The physical body (annamaya kosa)
+
+### energi - Energy sheath (pranamaya kosa)
+yoga
+grenser
+pranayama - pusteøvelser
+
+### følelser - Mental sheath (manomaya kosa)
+terapi - snakke om det og reprossesere
+natur
+dagbok
+
+knyttet til pusten
+
+påvirker og er påvirket av tanker
+
+primær og sekkundær
+
+Mange av oss har en kognetiv relasjon med følelsene våre og føler ikke egentlig på de
+
+### tanker - Intellect sheath (vijnanamaya kosa)
+ terapi - cbt
+ lese
+ meditere
+ tenke
+
+ Du er ikke tankene dine
+
+tanker om tanker
+
+### åndelig - Bliss sheath (anandamaya kosa)
+meditere
+
+
+
+## Verktøy
+
+### Meditasjon
+
+### Dagbok
+
+### natur
+
+### Bøker
+#### you are not your brain
+#### chatter
++++
+
+## Pusteøvelse - meditasjon
+
+<!-- TODO
+- lage bilder
+- oppdatere beskrivelsen
+ -->
+
+<!-- https://www.healthline.com/health/mental-health/koshas#5-koshas
 
 Jeg er takknemlig for muligheten til å dele dette med dere
 
@@ -24,4 +83,4 @@ Bruke ideer fra tankespinn
 Jeg har lyst til å si noe som ikke bare er en generell oppsummering av mental helse slik som "alle" har. 
 
 - https://www.youtube.com/c/HealthyGamerGG
-- hvordan gi mer faen
+- hvordan gi mer faen -->
