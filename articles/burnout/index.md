@@ -249,6 +249,29 @@ Liten refleksjon om det å bli kjent med egne verdier:
 
 ## Forebygging
 
+### Ta problemene dine alvorlig
+<figure>
+<object class="dark-icon" data="images/mind-your-problems-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/mind-your-problems-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
+
+
+### Følg opp rundt
+<figure>
+<object class="dark-icon" data="images/culture-problem-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/culture-problem-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
+
+
+### Temp chack / medarbeidersamtaler
+<figure>
+<object class="dark-icon" data="images/temp-check-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/temp-check-light.svg" type="image/svg+xml" ></object>
+<figcaption>AWS</figcaption>
+</figure>
+
 Det var en sjapp introduksjon til rammeverket. La oss se på hva det sier oss og hvordan det kan hjelpe oss med å forebygge utbrenthet.
 
 Det første vi bør vite er at det er lett å ikke ta seg selv seriøst når en synes noe er kipt. Det er lett å tenke at noe er kipt og klage over det, og samtidig tenke at det er ikke så viktig, det vil bli bedre. For med en gang en har klaget over noe, får en lettet på trykket og da har en det bedre en liten stund. Så er det jo ubehagelig å endre ting. Men ting blir ikke bedre av å følge et slikt mønster. Så ta deg selv og de du jobber med på alvor når de tar opp noe de synes er kipt.
