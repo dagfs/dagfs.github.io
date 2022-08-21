@@ -39,9 +39,8 @@ for (var i = 0; i < content.children.length; i++) {
             slideCount++;
             currentPage++;
         }
-        currentSection = asHTML(child.innerHTML = currentChapter + ". " + child.innerHTML) + '\n<div class="slide-body">\n';
-
-        currentChapter++;
+        currentSection = asHTML(child) + '\n<div class="slide-body">\n';
+        
     } else {
         currentSection += asHTML(child);
     }
@@ -62,6 +61,7 @@ for (var i = 0; i < content.children.length; i++) {
         newContent += "</div>"
         slideCount++;
         currentPage++;
+        currentChapter++;
     }
 }
 newContent +=
