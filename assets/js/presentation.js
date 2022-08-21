@@ -39,13 +39,13 @@ for (var i = 0; i < content.children.length; i++) {
             slideCount++;
             currentPage++;
         }
-        currentSection = asHTML(child) + '\n<div class="slide-body">\n';
+        currentSection = asHTML(child.innerHTML = currentChapter + ". " + child.innerHTML) + '\n<div class="slide-body">\n';
+
+        currentChapter++;
     } else {
         currentSection += asHTML(child);
     }
-    if (content.children[i].nodeName === "H2") {
-        // TODO - gjør om til egen fil og formater
-        // vis index
+    if (content.children[i].nodeName === "H2" && currentChapter === 0) {
 
         newContent += "</div><div id='slide" +
             slideCount +
@@ -62,7 +62,6 @@ for (var i = 0; i < content.children.length; i++) {
         newContent += "</div>"
         slideCount++;
         currentPage++;
-        currentChapter++;
     }
 }
 newContent +=
@@ -202,3 +201,6 @@ function startPresenterMode() {
     presenterWindow.document.body.classList.add("presentation");
     presenterWindow.document.body.classList.add("presenter-mode");
 }
+
+// TODO
+// legg til qr kode og lenke til presentasjonen som siste slide
