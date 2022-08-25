@@ -334,8 +334,8 @@ Et annet forebyggende tiltak en kan gjøre er å bake inn spørsmål fra MBI ell
 ### Behov
 
 <figure>
-<object class="dark-icon" data="images/needs-meditate-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/needs-meditate-light.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/needs-meditation-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/needs-meditation-light.svg" type="image/svg+xml" ></object>
 <figcaption>Behov</figcaption>
 </figure>
 
