@@ -286,30 +286,94 @@ Et annet forebyggende tiltak en kan gjøre er å bake inn spørsmål fra MBI ell
 
 ## Veien tilbake
 
-### Hvile
+### Søvn
 
 <figure>
-<object class="dark-icon" data="images/rest-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/rest-light.svg" type="image/svg+xml" ></object>
-<figcaption>Hvile</figcaption>
+<object class="dark-icon" data="images/rest-sleep-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/rest-sleep-light.svg" type="image/svg+xml" ></object>
+<figcaption>Søvn</figcaption>
 </figure>
 
-### Finn ut hva du har behov for
+
+### Natur
 
 <figure>
-<object class="dark-icon" data="images/needs-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/needs-light.svg" type="image/svg+xml" ></object>
+<object class="dark-icon" data="images/rest-nature-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/rest-nature-light.svg" type="image/svg+xml" ></object>
+<figcaption>Søvn</figcaption>
+</figure>
+
+
+### Mestring
+
+<figure>
+<object class="dark-icon" data="images/rest-mastery-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/rest-mastery-light.svg" type="image/svg+xml" ></object>
+<figcaption>Søvn</figcaption>
+</figure>
+
+
+### Trening
+
+<figure>
+<object class="dark-icon" data="images/rest-exercise-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/rest-exercise-light.svg" type="image/svg+xml" ></object>
+<figcaption>Søvn</figcaption>
+</figure>
+
+
+### Signaler
+
+<figure>
+<object class="dark-icon" data="images/needs-signals-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/needs-signals-light.svg" type="image/svg+xml" ></object>
 <figcaption>Behov</figcaption>
 </figure>
 
-sykemelding med faktisk fri og utkobling - lenke til artikkel
-andre oppgaver,
 
-hva gir deg energi
+### Behov
 
-grenser
+<figure>
+<object class="dark-icon" data="images/needs-meditate-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/needs-meditate-light.svg" type="image/svg+xml" ></object>
+<figcaption>Behov</figcaption>
+</figure>
 
-Fuck yes. Hell no. og helst ikke
+### Grenser
+
+<figure>
+<object class="dark-icon" data="images/needs-limits-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/needs-limits-light.svg" type="image/svg+xml" ></object>
+<figcaption>Behov</figcaption>
+</figure>
+
+
+
+### Bekymringskrets
+
+TODO
+
+
+### Påfyll
+
+<figure>
+<object class="dark-icon" data="images/needs-energy-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/needs-energy-light.svg" type="image/svg+xml" ></object>
+<figcaption>Behov</figcaption>
+</figure>
+
+
+### Dagbok
+
+<figure>
+<object class="dark-icon" data="images/needs-journal-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/needs-journal-light.svg" type="image/svg+xml" ></object>
+<figcaption>Behov</figcaption>
+</figure>
+
+
+
+
 
 Hva tar energi
 
