@@ -349,9 +349,13 @@ Et annet forebyggende tiltak en kan gjøre er å bake inn spørsmål fra MBI ell
 
 
 
-### Bekymringskrets
+### Circle of concern
 
-TODO
+<figure>
+<object class="dark-icon" data="images/needs-circle-of-concern-dark.svg" type="image/svg+xml" ></object>
+<object class="light-icon" data="images/needs-circle-of-concern-light.svg" type="image/svg+xml" ></object>
+<figcaption>Behov</figcaption>
+</figure>
 
 
 ### Påfyll
@@ -391,8 +395,11 @@ sammen med bedrift for å endre arbeidsforholdene
 
 ## Oppsummering
 
-
-
+TODO:
+- Lenke til nettisden til slutt
+- skjul bildetekst
+- Lenke til artikkler om hvert tema
+- øve og spill inn video
 
 <!--
 
