@@ -265,7 +265,7 @@ Liten refleksjon om det å bli kjent med egne verdier:
 </figure>
 
 
-### Temp chack / medarbeidersamtaler
+### Temp check / medarbeidersamtaler
 <figure>
 <object class="dark-icon" data="images/temp-check-dark.svg" type="image/svg+xml" ></object>
 <object class="light-icon" data="images/temp-check-light.svg" type="image/svg+xml" ></object>
@@ -300,15 +300,6 @@ Et annet forebyggende tiltak en kan gjøre er å bake inn spørsmål fra MBI ell
 <figure>
 <object class="dark-icon" data="images/rest-nature-dark.svg" type="image/svg+xml" ></object>
 <object class="light-icon" data="images/rest-nature-light.svg" type="image/svg+xml" ></object>
-<figcaption>Søvn</figcaption>
-</figure>
-
-
-### Mestring
-
-<figure>
-<object class="dark-icon" data="images/rest-mastery-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/rest-mastery-light.svg" type="image/svg+xml" ></object>
 <figcaption>Søvn</figcaption>
 </figure>
 
