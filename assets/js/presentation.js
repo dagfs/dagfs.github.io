@@ -9,7 +9,7 @@ var slideCount = 0;
 var currentChapter = 0;
 var chapters = document.getElementsByTagName("H2")
 
-var numberOfPages = [...document.getElementsByTagName("h1"), ...document.getElementsByTagName("h2"), ...document.getElementsByTagName("h3")].length + 1
+var numberOfPages = [...document.getElementsByTagName("h1"), ...document.getElementsByTagName("h2"), ...document.getElementsByTagName("h3")].length 
 var currentPage = 0;
 var content = document.getElementById("main_content");
 var newContent = "";

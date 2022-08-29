@@ -386,9 +386,10 @@ sammen med bedrift for å endre arbeidsforholdene
 
 ## Oppsummering
 
+## https://dagfs.dev/articles/burnout/
+
 TODO:
-- Lenke til nettisden til slutt
-- skjul bildetekst
+
 - Lenke til artikkler om hvert tema
 - øve og spill inn video
 
