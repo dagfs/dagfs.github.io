@@ -386,7 +386,7 @@ sammen med bedrift for å endre arbeidsforholdene
 
 ## Oppsummering
 
-## https://dagfs.dev/articles/burnout/
+### https://dagfs.dev/articles/burnout/
 
 TODO:
 
