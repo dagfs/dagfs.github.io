@@ -6,13 +6,13 @@
 
 - bilde pyramide
 
-## Vedantic modell av sinnet
+## Vedantic modell av sinnet (kosha)
 
 Bhagavadgita
 
 https://en.wikipedia.org/wiki/Kosha#:~:text=A%20kosha%20(also%20kosa%3B%20Sanskrit,onion%20in%20the%20subtle%20body.
 
-### det fysiske - The physical body (annamaya kosa)
+### Fysisk - (Annamaya kosha)
 trening
 kosthold
 puste
@@ -21,16 +21,18 @@ vann
 søvn
 natur
 
-### energi - Energy sheath (pranamaya kosa)
+### Energi -  (Pranamaya kosha)
 yoga
-grenser
-pranayama - pusteøvelser
-finne og gjøre det som gir deg energi
+pust
 
-### følelser - Mental sheath (manomaya kosa)
+### Sinnet - Mental sheath (Manomaya kosha)
 terapi - snakke om det og reprossesere
 natur
 dagbok
+
+
+tanker og følelser
+
 
 knyttet til pusten
 
@@ -40,7 +42,7 @@ primær og sekkundær
 
 Mange av oss har en kognetiv relasjon med følelsene våre og føler ikke egentlig på de
 
-### tanker - Intellect sheath (vijnanamaya kosa)
+### Intelektet - (Vijñānamaya kosha)
  terapi - cbt
  lese
  meditere
@@ -50,12 +52,22 @@ Mange av oss har en kognetiv relasjon med følelsene våre og føler ikke egentl
 
 tanker om tanker
 
-### åndelig - Bliss sheath (anandamaya kosa)
+### Eufori - (Anandamaya kosha)
 meditere
 
 
 
 ## Verktøy
+
+### Følelser
+
+primær og sekundærfølelser
+
+### Tanker
+
+metakognisjon
+
+### Circle of control
 
 ### Natur
 
