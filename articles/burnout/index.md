@@ -83,7 +83,7 @@ TODO: Skriv om og teng stress vindue.
 
 
 
-## Energilekkasje
+## Arbeidsfaktorer
 
 Da kommer vi til det sentrale spørsmålet, hva er det som fører til at folk brenner ut? 
 
