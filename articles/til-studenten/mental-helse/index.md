@@ -1,3 +1,11 @@
+TODO:
+- Gjør gjenstående:
+  - bilde
+  - kilde
+  - tekst jeg skal si
+- Øve
+
+
 # Til studenten - Om mental helse
 
 ## Vestlig VS Østlig medisin
@@ -24,6 +32,9 @@ https://en.wikipedia.org/wiki/Kosha#:~:text=A%20kosha%20(also%20kosa%3B%20Sanskr
 - tekst jeg skal si
 
 [Video: Sadhguru - The 5 Sheaths /Koshas](https://www.youtube.com/watch?v=7b8xNsquWx0)
+
+
+Vi består av fem lag. Hvordan tar vi vare på de?
 
 
 
@@ -79,6 +90,8 @@ meditere
 
 
 ## Verktøy
+
+Flere verktøy har blitt nevnt som del av hvordan ta vare på lagene våre. La oss se nærmere på de.
 
 ### Følelser
 
