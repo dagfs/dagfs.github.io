@@ -4,15 +4,14 @@
 
 ### Vestlig VS Østlig medisin
 
-
-
 <object  data="images/vest-ost.svg" type="image/svg+xml" ></object>
 
 - kilde
 - tekst jeg skal si
 
-## Våre fem lag (kosha)
 
+
+## Våre fem lag - kosha
 
 ### Lagene
 
@@ -24,7 +23,11 @@ https://en.wikipedia.org/wiki/Kosha#:~:text=A%20kosha%20(also%20kosa%3B%20Sanskr
 - kilde
 - tekst jeg skal si
 
-### Fysisk - (Annamaya kosha)
+[Video: Sadhguru - The 5 Sheaths /Koshas](https://www.youtube.com/watch?v=7b8xNsquWx0)
+
+
+
+### Fysisk - Annamaya kosha
 trening
 kosthold
 puste
@@ -34,46 +37,61 @@ søvn
 natur
 
 - bilde
-- kilde
+
 - tekst jeg skal si
 
-### Energi -  (Pranamaya kosha)
-yoga
-pust
 
-- bilde
-- kilde
-- tekst jeg skal si
+
+### Energi -  Pranamaya kosha
 
 <object  data="images/lunger.svg" type="image/svg+xml" ></object>
 
-### Sinnet - Mental sheath (Manomaya kosha)
+yoga
+pust
 
-
-- bilde
-- kilde
 - tekst jeg skal si
 
-### Intelektet - (Vijñānamaya kosha)
 
 
+### Sinnet - Mental sheath Manomaya kosha
 
 - bilde
-- kilde
+
 - tekst jeg skal si
 
-### Eufori - (Anandamaya kosha)
+
+
+### Intelektet - Vijñānamaya kosha
+
+- bilde
+
+- tekst jeg skal si
+
+
+
+### Eufori - Anandamaya kosha
 meditere
 
 - bilde
-- kilde
+
 - tekst jeg skal si
+
+
 
 ## Verktøy
 
 ### Følelser
 
 <object  data="images/folelser.svg" type="image/svg+xml" ></object>
+
+
+[Video: Primary Emotions vs. Secondary Emotions ](https://www.youtube.com/watch?v=Yqi7jp6tKZI)
+[NRK artikkel: «Hvorfor har jeg ikke det bedre, når jeg egentlig har alt?» - Verdens fremste ekspert på følelser hjelper meg å forstå. ](https://www.nrk.no/kultur/xl/njal-engsaeth-intervjuer-paul-ekman_-_hvorfor-har-jeg-ikke-det-bedre_-nar-jeg-egentlig-har-alt__-1.14777613)
+[NRK dokumentarserie: Den følelsen](https://www.nrk.no/video/MKTV60000519)
+[PIXAR animated movie: Inside Out](https://www.imdb.com/title/tt2096673/)
+
+
+- primær og sekundærfølelser
 
 - kognetiver følerser. tenker seg til følelsene - føler seg iekkke til de
 
@@ -82,10 +100,9 @@ meditere
 - tekst jeg skal si
 
 
-primær og sekundærfølelser
+
 
 ### Tanker
-
 
 <object  data="images/tanker.svg" type="image/svg+xml" ></object>
 
@@ -105,7 +122,6 @@ knyttet til pusten
 
 påvirker og er påvirket av tanker
 
-primær og sekkundær
 
 Mange av oss har en kognetiv relasjon med følelsene våre og føler ikke egentlig på de
 
@@ -124,11 +140,15 @@ tanker om tanker
 
 metakognisjon
 
+
 ### Circle of control
+
 <object data="images/kontroll.svg" type="image/svg+xml" ></object>
 
 - kilde
 - tekst jeg skal si
+
+
 
 ### Natur
 
@@ -140,9 +160,9 @@ metakognisjon
 
 - tekst jeg skal si
 
+
+
 ### Trening
-
-
 
 <object  data="images/trening.svg" type="image/svg+xml" ></object>
 
@@ -150,6 +170,17 @@ metakognisjon
 
 
 - tekst jeg skal si
+
+
+
+### Yoga
+
+<object  data="images/yoga.svg" type="image/svg+xml" ></object>
+
+
+- kilde
+- tekst jeg skal si
+
 
 
 ### Meditasjon
@@ -170,6 +201,8 @@ bilder
 
 - kilde
 - tekst jeg skal si
+
+
 
 ### Dagbok
 
@@ -194,7 +227,11 @@ https://dailystoic.com/journaling/
 - tekst jeg skal si
 
 
+
 ## Pusteøvelse - meditasjon
+
+
+### Alternate Nostril Breathing
 
 <object  data="images/anb.svg" type="image/svg+xml" ></object>
 
@@ -202,10 +239,16 @@ https://dailystoic.com/journaling/
 
 [Video: How to Use Your Nerves To Calm Yourself](https://www.youtube.com/watch?v=HKwUx9GNXeA)
 
-
-
-
 - tekst jeg skal si
+
+
+
+## Resurser
+
+- https://www.youtube.com/c/HealthyGamerGG
+- hvordan gi mer faen 
+- therapy in a nutshell
+
 
 
 
@@ -249,4 +292,7 @@ Bruke ideer fra tankespinn
 Jeg har lyst til å si noe som ikke bare er en generell oppsummering av mental helse slik som "alle" har. 
 
 - https://www.youtube.com/c/HealthyGamerGG
-- hvordan gi mer faen -->
+- hvordan gi mer faen 
+- therapy in a nutshell
+
+-->
