@@ -1,12 +1,18 @@
 # Til studenten - Om mental helse
 
-## Kosha modell av sinnet
+## Vestlig VS Østlig medisin
+
+### Vestlig VS Østlig medisin
+
+- bilde pyramide
+
+## Vedantic modell av sinnet
 
 Bhagavadgita
 
 https://en.wikipedia.org/wiki/Kosha#:~:text=A%20kosha%20(also%20kosa%3B%20Sanskrit,onion%20in%20the%20subtle%20body.
 
-## det fysiske - The physical body (annamaya kosa)
+### det fysiske - The physical body (annamaya kosa)
 trening
 kosthold
 puste
@@ -15,13 +21,13 @@ vann
 søvn
 natur
 
-## energi - Energy sheath (pranamaya kosa)
+### energi - Energy sheath (pranamaya kosa)
 yoga
 grenser
 pranayama - pusteøvelser
 finne og gjøre det som gir deg energi
 
-## følelser - Mental sheath (manomaya kosa)
+### følelser - Mental sheath (manomaya kosa)
 terapi - snakke om det og reprossesere
 natur
 dagbok
@@ -34,7 +40,7 @@ primær og sekkundær
 
 Mange av oss har en kognetiv relasjon med følelsene våre og føler ikke egentlig på de
 
-## tanker - Intellect sheath (vijnanamaya kosa)
+### tanker - Intellect sheath (vijnanamaya kosa)
  terapi - cbt
  lese
  meditere
@@ -44,7 +50,7 @@ Mange av oss har en kognetiv relasjon med følelsene våre og føler ikke egentl
 
 tanker om tanker
 
-## åndelig - Bliss sheath (anandamaya kosa)
+### åndelig - Bliss sheath (anandamaya kosa)
 meditere
 
 
@@ -109,7 +115,8 @@ nose with infinite pattern
 - kognetiver følerser. tenker seg til følelsene - føler seg iekkke til de
 - amygdala vs prefrontalcortex
 - circle of control
-- ved å belyse - bli bevist på både tanker og følelser oppløses de ofte. 
+- ved å belyse - bli bevist på både tanker og følelser oppløses de ofte. @
+- fjern index
  -->
 
 <!-- https://www.healthline.com/health/mental-health/koshas#5-koshas
