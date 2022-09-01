@@ -19,15 +19,19 @@ TODO:
 
 
 
-## Våre fem lag - kosha
+## Våre fem lag - Kosha
 
 ### Lagene
+
+<object  data="images/lagene.svg" type="image/svg+xml" ></object>
+
+
+[Artikkel: The 5 Koshas: What They Mean in Eastern Philosophy](https://www.healthline.com/health/mental-health/koshas)
 
 https://www.healthline.com/health/mental-health/koshas#5-koshas
 
 https://en.wikipedia.org/wiki/Kosha#:~:text=A%20kosha%20(also%20kosa%3B%20Sanskrit,onion%20in%20the%20subtle%20body.
 
-- bilde
 - kilde
 - tekst jeg skal si
 
@@ -49,8 +53,8 @@ natur
 
 [Video: What is Annamaya Kosha?](https://www.youtube.com/watch?v=WIBgAsbY21Q)
 
+<object  data="images/kroppen.svg" type="image/svg+xml" ></object>
 
-- bilde
 
 - tekst jeg skal si
 
@@ -69,8 +73,8 @@ pust
 
 
 ### Sinnet - Manomaya kosha
+<object  data="images/sinnet.svg" type="image/svg+xml" ></object>
 
-- bilde
 
 - tekst jeg skal si
 
@@ -80,7 +84,8 @@ pust
 
 ### Intelektet - Vijñānamaya kosha
 
-- bilde
+<object  data="images/intelektet.svg" type="image/svg+xml" ></object>
+
 
 - tekst jeg skal si
 
@@ -88,9 +93,11 @@ pust
 
 
 ### Eufori - Anandamaya kosha
+
+<object  data="images/eufori.svg" type="image/svg+xml" ></object>
+
 meditere
 
-- bilde
 
 - tekst jeg skal si
 
