@@ -21,9 +21,19 @@ vann
 søvn
 natur
 
+[Video: What is Annamaya Kosha?](https://www.youtube.com/watch?v=WIBgAsbY21Q)
+
 ### Energi -  (Pranamaya kosha)
 yoga
 pust
+
+Food
+Breathing
+Environment
+Connecting to higher self
+
+[Video: Pranamaya Kosha – An Introduction to the Five Koshas](https://www.youtube.com/watch?v=YID5LX3Jl6w)
+
 
 ### Sinnet - Mental sheath (Manomaya kosha)
 terapi - snakke om det og reprossesere
@@ -42,6 +52,8 @@ primær og sekkundær
 
 Mange av oss har en kognetiv relasjon med følelsene våre og føler ikke egentlig på de
 
+[Video: What is Manomaya Kosha?](https://www.youtube.com/watch?v=JhDBsJGUjP4)
+
 ### Intelektet - (Vijñānamaya kosha)
  terapi - cbt
  lese
@@ -52,10 +64,12 @@ Mange av oss har en kognetiv relasjon med følelsene våre og føler ikke egentl
 
 tanker om tanker
 
+[What are Vijñãnamaya & Anandamaya Koshas?](https://www.youtube.com/watch?v=mezXv1v-N3o)
+
 ### Eufori - (Anandamaya kosha)
 meditere
 
-
+[What are Vijñãnamaya & Anandamaya Koshas?](https://www.youtube.com/watch?v=mezXv1v-N3o)
 
 ## Verktøy
 
