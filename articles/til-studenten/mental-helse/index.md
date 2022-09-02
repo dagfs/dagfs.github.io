@@ -1,12 +1,13 @@
-TODO:
-- Gjør gjenstående:
-  - bilde
-  - kilde
-  - tekst jeg skal si
-- Øve
-
-
 # Til studenten - Om mental helse
+
+
+Et par anbefalte resurser:
+
+- [Youtube kanal: Healthy gamer](https://www.youtube.com/c/HealthyGamerGG)
+- [Youtube kanal: Therapy in a Nutshell ](https://www.youtube.com/c/TherapyinaNutshell)
+- [Podcast: Gi litt mer faen](https://open.spotify.com/show/4Ux1BTahJOM86lEYPeBU8r?si=28f8523b09f64c16)
+
+
 
 ## Vestlig VS Østlig medisin
 
@@ -43,15 +44,6 @@ Vi består av fem lag. Hvordan tar vi vare på de?
 
 
 ### Fysisk - Annamaya kosha
-trening
-kosthold
-puste
-sol
-vann
-søvn
-natur
-
-[Video: What is Annamaya Kosha?](https://www.youtube.com/watch?v=WIBgAsbY21Q)
 
 <object  data="images/kroppen.svg" type="image/svg+xml" ></object>
 
@@ -64,21 +56,15 @@ natur
 
 <object  data="images/lunger.svg" type="image/svg+xml" ></object>
 
-yoga
-pust
-
 - tekst jeg skal si
 
-[Video: Pranamaya Kosha – An Introduction to the Five Koshas](https://www.youtube.com/watch?v=YID5LX3Jl6w)
 
 
 ### Sinnet - Manomaya kosha
 <object  data="images/sinnet.svg" type="image/svg+xml" ></object>
 
-
 - tekst jeg skal si
 
-[Video: What is Manomaya Kosha?](https://www.youtube.com/watch?v=JhDBsJGUjP4)
 
 
 
@@ -86,22 +72,16 @@ pust
 
 <object  data="images/intelektet.svg" type="image/svg+xml" ></object>
 
-
 - tekst jeg skal si
 
-[Video: What are Vijñãnamaya & Anandamaya Koshas?](https://www.youtube.com/watch?v=mezXv1v-N3o)
 
 
 ### Eufori - Anandamaya kosha
 
 <object  data="images/eufori.svg" type="image/svg+xml" ></object>
 
-meditere
-
-
 - tekst jeg skal si
 
-[Video: What are Vijñãnamaya & Anandamaya Koshas?](https://www.youtube.com/watch?v=mezXv1v-N3o)
 
 
 ## Verktøy
@@ -119,12 +99,6 @@ Flere verktøy har blitt nevnt som del av hvordan ta vare på lagene våre. La o
 [PIXAR animated movie: Inside Out](https://www.imdb.com/title/tt2096673/)
 
 
-- primær og sekundærfølelser
-
-- kognetiver følerser. tenker seg til følelsene - føler seg iekkke til de
-
-
-- kilde
 - tekst jeg skal si
 
 
@@ -273,16 +247,21 @@ https://dailystoic.com/journaling/
 
 
 
-## Resurser
 
-- https://www.youtube.com/c/HealthyGamerGG
-- hvordan gi mer faen 
-- therapy in a nutshell
 
 
 
 
 <!-- TODO
+
+
+
+TODO:
+- Gjør gjenstående:
+  - bilde
+  - kilde
+  - tekst jeg skal si
+- Øve
 
  Kilder
 # you are not your brain
