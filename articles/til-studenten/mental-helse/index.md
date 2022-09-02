@@ -154,36 +154,7 @@ metakognisjon
 
 
 
-### Natur
 
-<object data="images/natur.svg" type="image/svg+xml" ></object>
-
-[Artikkel: Interacting with nature improves cognition and affect for individuals with depression](https://www.sciencedirect.com/science/article/abs/pii/S0165032712002005)
-
-[Bok: Tankespinn](https://www.norli.no/tankespinn-2)
-
-- tekst jeg skal si
-
-
-
-### Trening
-
-<object  data="images/trening.svg" type="image/svg+xml" ></object>
-
-[Video: The Two Day Rule](https://www.youtube.com/watch?v=bfLHTLQZ5nc)
-
-
-- tekst jeg skal si
-
-
-
-### Yoga
-
-<object  data="images/yoga.svg" type="image/svg+xml" ></object>
-
-
-- kilde
-- tekst jeg skal si
 
 
 
