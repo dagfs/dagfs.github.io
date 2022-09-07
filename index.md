@@ -1,3 +1,9 @@
+## Presentasjoner
+
+[Utbrenthet - forebygging og veien tilbake](https://dagfs.dev/articles/burnout/)
+[Til studenten - Om mental helse](https://dagfs.dev/articles/til-studenten/mental-helse/)
+[Hvordan bli veiledet](https://dagfrode.no/articles/hvordan-bli-veiledet/)
+
 ## Artikler
 
 ### [bekk.christmas](https://bekk.christmas/)
@@ -22,9 +28,7 @@ In 2019 we wrote 288 articles for 12 christmas calendars. I somehow ended up wri
 - [Drypp - Hvordan optimaliserer vi hjemmekontoret?](https://open.spotify.com/show/6SVNY97zuPWcVdvE2FSNRL)
 
 
-## Presentasjoner
 
-[Hvordan bli veiledet](https://dagfrode.no/artikler/hvordan-bli-veiledet/)
 
 ## Utstilling
 
