@@ -286,13 +286,7 @@ Et annet forebyggende tiltak en kan gjøre er å bake inn spørsmål fra MBI ell
 
 ## Veien tilbake
 
-### Søvn
 
-<figure>
-<object class="dark-icon" data="images/rest-sleep-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/rest-sleep-light.svg" type="image/svg+xml" ></object>
-<figcaption>Søvn</figcaption>
-</figure>
 
 
 ### Natur
@@ -304,13 +298,7 @@ Et annet forebyggende tiltak en kan gjøre er å bake inn spørsmål fra MBI ell
 </figure>
 
 
-### Trening
 
-<figure>
-<object class="dark-icon" data="images/rest-exercise-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/rest-exercise-light.svg" type="image/svg+xml" ></object>
-<figcaption>Søvn</figcaption>
-</figure>
 
 
 ### Signaler
@@ -358,13 +346,7 @@ Et annet forebyggende tiltak en kan gjøre er å bake inn spørsmål fra MBI ell
 </figure>
 
 
-### Dagbok
 
-<figure>
-<object class="dark-icon" data="images/needs-journal-dark.svg" type="image/svg+xml" ></object>
-<object class="light-icon" data="images/needs-journal-light.svg" type="image/svg+xml" ></object>
-<figcaption>Behov</figcaption>
-</figure>
 
 
 
