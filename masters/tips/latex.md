@@ -28,4 +28,4 @@ It can be used like this:
 ```
 
 and will look like this:
-!()[./img/todo.png]
+![](./img/todo.png)
