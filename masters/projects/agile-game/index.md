@@ -14,6 +14,7 @@ Students are welcome to discuss specific areas of interest, both with respect to
 - [Interview with an Agile Coach in 2022 - Sprint1 - (Bad side of agile)](https://www.youtube.com/watch?v=bB340S0tGf8)
 - [Innovasjonsteam og produktteam — Hvordan overfører man innovasjonsteam til "linja"? (Del 2 av  2) - (podcast som snakker om tilpassningsdyktig)](https://anchor.fm/drypp/episodes/Innovasjonsteam-og-produktteam--Hvordan-overfrer-man-innovasjonsteam-til-linja--Del-2-av-2-e1fcf5u)
 - [agile then vs agile now(Image)](https://twitter.com/agile_memes/status/1508427587546099715)
+- [Minst mulig prosess](https://blogg.bekk.no/slutt-%C3%A5-resirkulere-avst%C3%A5-fra-scrum-675b064fb1d0)
 
 
 > Kontekst er konge, målet man har og folkene man jobber sammen med bestemmer hvordan man jobber. Mål -> Folk -> ??? -> Suksess, og ??? er alltid forskjellig fra case til case.
