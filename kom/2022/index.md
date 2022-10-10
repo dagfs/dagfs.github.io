@@ -78,3 +78,25 @@ Målet mitt for året er å:
 
 ### Juni
 - Prøvekjøring av OKR workshop
+
+
+### Juli
+
+### August
+
+- Lage, øve og få tilbakemeldinger på burnout foredrag 2 ganger til
+- Arrangerte øvingskveld JZ
+
+### September
+
+- Holdt foredraget [Til studenten - Om mental helse](/articles/til-studenten/mental-helse/) på PING for rundt 50 studenter. Fikk mange posetive tilbakemeldinger fra de som hørte på.
+- Foreslo innhold til Bedpress
+- Holdt foredraget [Utbrenthet - forebygging og veien tilbake](/articles/burnout/) på JavaZone. 87g 0y 0r. Flere som kom opp og takket. Ble gitt kudos internt og hos kunde.
+- Veiledning master Agile, burnout
+
+### Oktober
+- AI-stand - org, trykk forberedelser, kollasjer
+- Oppdrift - pensum, undervisningsmetoder
+- Veiledning master Agile, burnout
+- frisket opp latex
+- cfp for frontend fagkveld [icons](/cfp/Fagkveld-Fremtidens-frontend/icons.md) og [back to basics](/cfp/Fagkveld-Fremtidens-frontend/back-to-basics.md) 
