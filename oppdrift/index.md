@@ -57,7 +57,6 @@ Litt bråk jeg vil dra frem:
 
 ## Pensum
 
-
 Mitt forslag til pensum i dette kurset.
 
 - Samling 1 - The basics - 1980-2000 tallet
@@ -94,7 +93,7 @@ Det jeg ikke har sett tenk så mye på er eksisterende resurser en kan bruke. He
 
 Vi var inne på det med å snakke med de som startet opp og høre med hva de skulle ønske de hadde kunnet / mener en burde lære. Jeg tenker det vil gi verdi å høre med mer erfarne også slik at en kan se litt lenger frem enn det første året. Det er jo også noe med dette med at trender kommer og går og pendelen svinger fra side til side.
 
-Jeg tenker også at det å bruke flere konsepter fra ![læringspyramiden](https://www.educationcorner.com/the-learning-pyramid.html) vil være lurt. La de som er med lære noe bort til andre i gruppa. Kanskje også på den måten gi et lavterskel push mot å dele samt være med på å ufarligjør det å dele. 
+Jeg tenker også at det å bruke flere konsepter fra [læringspyramiden](https://www.educationcorner.com/the-learning-pyramid.html) vil være lurt. La de som er med lære noe bort til andre i gruppa. Kanskje også på den måten gi et lavterskel push mot å dele samt være med på å ufarligjør det å dele. 
 
 
 ![](https://media.giphy.com/media/J1WyRIJrTeKs6R6VHL/giphy.gif)
