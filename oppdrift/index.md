@@ -38,6 +38,12 @@ Jeg vil påstå at jeg har hatt god kok de siste årene!
 - [Weeding the Grid](https://css.christmas/2019/18)
 
 
+#### Artikkler som ikke er ferdigstilte
+
+- [Validering av inputs med plain HTML, CSS, JS](https://dagfs.dev/utvikling-utenfor-skissene/vanlige-utfordringer/validering-av-input)
+- [Ferdigpakket kode i kommersielle prosjekter](https://dagfs.dev/project-tips/using-os/)
+
+
 ### Podcasts
 - [Drypp - Hvordan optimaliserer vi hjemmekontoret?](https://open.spotify.com/show/6SVNY97zuPWcVdvE2FSNRL)
   
@@ -67,6 +73,7 @@ Mitt forslag til pensum i dette kurset.
   - CSS
     - hvordan ikke skyte seg selv i foten med css
   - JavaScript
+  - Universiell Utforming
 - Samling 2 - 2010 tallet
   - webpack
     - hva er det?
@@ -74,14 +81,22 @@ Mitt forslag til pensum i dette kurset.
   - React 
     - struktur av kode
   - Typescript
+  - Testing
+    - Enhetstester 
+    - Selenium ende til ende
 - Samling 3 - 2020 tallet
   - Komponenter
     - Designsystem
   - Universiell utforming
 - Samling 4 - tidløst
   - fetch
+    - react query
   - API design
   - feilhåndtering
+
+Regner med store endringer basert på tilbakemeldinger, undersøkelser og innspill.
+Tenker at vi tar utgangspunktet i noe som skal lages og gjennom workshoppen introduserer mer og mer av frontend for å så det til.
+En tar det fra forrige samling og jobber vidrere på det, men et forslag til hvor en skal komme fra hver samling så hvis noen ikke er med så kan de ta utgangspunkt i det. Men også legge opp til at en kan gjøre det selv mellom samlingene.
 
 Jeg ser for meg et format som minner om "Make your own lisp" workshopen som bled holdt ved noen anledninger. Altså en serie med oppgaver en jobber selvstendig eller sammen i grupper om. Med avbrekk med gjennomganger av teori i plenum. Med ekstraoppgaver for de som er raske.
 
