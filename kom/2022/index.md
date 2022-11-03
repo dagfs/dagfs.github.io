@@ -100,3 +100,22 @@ Målet mitt for året er å:
 - Veiledning master Agile, burnout
 - frisket opp latex
 - cfp for frontend fagkveld [icons](/cfp/Fagkveld-Fremtidens-frontend/icons.md) og [back to basics](/cfp/Fagkveld-Fremtidens-frontend/back-to-basics.md) 
+
+### Oktober del 2
+- AI-stand
+- Foredrag utbrenthet på fagdagen
+- Veilledning master
+- Prøvde på å dra igjen noen Drypp episoder men fikk det ikke i gang
+- Pushet mer på OKR på det vi har startet på
+- Mye backendoppgaver
+- Mye produksjonsfeil og kommunikkasjons og retting av det
+
+
+### Fremmover
+Usikker på hva fremmover. Nå er det litt tomt og det er vel egentlig ganske godt.
+
+- Kanskje flikke på oppskriftsside?
+- Kanskje skrive noe om ikoner som kan være i julekallenderen
+- Kanskje noe om bærekraft på en eller anne måte?
+- Blir 3 x 45 min forelesninger til våren det sikkert er lurt å starte på
+- Har lyst til å holde foredrag utenlands, så blir noen timer til uka på å lage CFP på det.
