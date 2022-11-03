@@ -11,9 +11,7 @@
         <circle cx="32" cy="32" r="31" stroke="black" stroke-width="2" />
     </symbol>
 </defs>
-</svg>
-
-<!-- <symbol id="mode-auto">
+<symbol id="mode-auto">
     <g filter="url(#filter0_d_2_9)">
         <circle cx="36" cy="32" r="31" fill="black" stroke="black" stroke-width="2" />
     </g>
@@ -28,4 +26,5 @@
             <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_9" result="shape" />
         </filter>
     </defs>
-</symbol> -->
+</symbol> 
+</svg>
