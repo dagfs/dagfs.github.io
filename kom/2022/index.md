@@ -109,6 +109,8 @@ Målet mitt for året er å:
 - Pushet mer på OKR på det vi har startet på
 - Mye backendoppgaver
 - Mye produksjonsfeil og kommunikkasjons og retting av det
+- Utkast til julekallenderartikkel om hvordan bruke en notatbok effektivt på jobb: https://docs.google.com/document/d/16E0tO9berr09-PKuIUB_NfqIjLpKByd-hGXE2bBugJI/edit?usp=sharing
+
 
 
 ### Fremmover
