@@ -24,11 +24,11 @@ Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret h
 
 ## Ting jeg har lyst på
 - Tøydamper
-- [stormparaply](https://enklereliv.no/paraplyer/gustbuster-sammenleggbar-orkanparaply/) 400,-
-- [Migrenelue](https://smertefri.co/pages/hodepine-terapi-lue)
-- [Flex pants 2](https://thebasicshop.no/collections/2for700/products/6138666-robert-chino-forest-green?variant=39344510992463) - [Flepants 1](https://thebasicshop.no/collections/2for700/products/6403549-mark-flex-pant-0209-rosin?variant=39517628366927)
+- [Migrenelue](https://prisguiden.no/produkt/v/FCl-nznB5fA) 220 kr
+- Ting til klokka:
+    - [POLAR ERSTATNINGS KLOKKEREM GRIT X LÆR M/L BRUN](https://prisguiden.no/produkt/polar-grit-x-leather-489988) - 580 kr
+    - [POLAR VANTAGE OG IGNITE USB LADELEDNING](https://prisguiden.no/produkt/v/pUJ3Re5USsw) - 250 kr
 - [Svartdalspiggen jumpsuit i ullfrottè](https://www.sparkjop.no/svartdalspiggen-jumpsuit-i-ullfrott-_415292?level_1=61713)
-- Pilot G-2 05 kulepenner med refils
 - [Våtdrakt](https://prisguiden.no/produkt/head-multix-vl-fullsuit-herre-498407)
 
 
