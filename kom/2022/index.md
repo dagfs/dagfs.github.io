@@ -112,6 +112,12 @@ Målet mitt for året er å:
 - Utkast til julekallenderartikkel om hvordan bruke en notatbok effektivt på jobb: https://docs.google.com/document/d/16E0tO9berr09-PKuIUB_NfqIjLpKByd-hGXE2bBugJI/edit?usp=sharing
 
 
+### November
+- Artikkel til julekallender - https://www.bekk.christmas/post/2022/25/notatboken-min
+- Oppfølging masteroppgaver
+- Universiell utforming - tilgjengelighetserklæring
+- Oppgradere node pakker
+- Tilgangsstyring med AD og .NET polecies
 
 ### Fremmover
 Usikker på hva fremmover. Nå er det litt tomt og det er vel egentlig ganske godt.
