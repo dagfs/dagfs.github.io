@@ -8,3 +8,11 @@ The task will start with a literature review and interviews with IT students and
 Students are welcome to discuss specific areas of interest, with respect to both topic and supporting tool.
 
 https://www.idi.ntnu.no/education/oppgaveforslag.php?oid=3364
+
+
+## Related news articles
+- https://www.nrk.no/dokumentar/xl/ingvild-har-ikke-tid-til-a-mote-veggen-1.16184501
+
+## Related learning games
+- [How are you doing?](https://pudding.cool/2022/12/emotion-wheel/) - an interactive story where you get to explore how you feel using different tools.
+- [Evolution of trust](https://ncase.me/trust/) - a interactive learning tool where you get to explore game theory
