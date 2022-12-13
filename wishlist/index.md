@@ -13,6 +13,8 @@
 
 ## Bøker
 Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret hvordan du tenker og bøker du ofte har gitt bort.
+- [The inner game of tennis - 107,-](https://prisguiden.no/sok?q=the+inner+game+of+tennis)
+- [Zen and the art of motorcycle maintiance 107 ,-](https://prisguiden.no/produkt/v/uMip_TfokdU?g=1)
 - The design of everyday things
 - The inner game of tennis
 - 100 years of solidtude
@@ -24,12 +26,15 @@ Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret h
 
 ## Ting jeg har lyst på
 - Tøydamper
-- [Migrenelue](https://prisguiden.no/produkt/v/FCl-nznB5fA) 220 kr
-- Ting til klokka:
+<!-- - [Migrenelue](https://prisguiden.no/produkt/v/FCl-nznB5fA) 220 kr -->
+<!-- - Ting til klokka:
     - [POLAR ERSTATNINGS KLOKKEREM GRIT X LÆR M/L BRUN](https://prisguiden.no/produkt/polar-grit-x-leather-489988) - 580 kr
-    - [POLAR VANTAGE OG IGNITE USB LADELEDNING](https://prisguiden.no/produkt/v/pUJ3Re5USsw) - 250 kr
+    - [POLAR VANTAGE OG IGNITE USB LADELEDNING](https://prisguiden.no/produkt/v/pUJ3Re5USsw) - 250 kr -->
 - [Svartdalspiggen jumpsuit i ullfrottè](https://www.sparkjop.no/svartdalspiggen-jumpsuit-i-ullfrott-_415292?level_1=61713)
-- [Våtdrakt](https://prisguiden.no/produkt/head-multix-vl-fullsuit-herre-498407)
+<!-- - [Våtdrakt](https://prisguiden.no/produkt/head-multix-vl-fullsuit-herre-498407) - nedp -->
+<!-- - toalettmappe -->
+- spisepinner tre store
+- spisepinnertree små
 
 
 ## Ting jeg kan tenke meg en dag
