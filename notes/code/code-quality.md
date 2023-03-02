@@ -25,3 +25,6 @@
 
 ## writing good code
 * make good abstractions early vs when neccesarry - refactoring
+
+
+Best practices rundt linting, formatering, kodestil og universell utforming
