@@ -133,7 +133,9 @@ Kontinuerlige leverasner reduserer mange av disse faktorene for de involverte.
 
 ## Rutiner og ritualer
 
-- Feiring - episode med linda
+Jeg leste en artikkel for noen år siden som snakket om hvordan en trenger både ritualer og rutiner. en stor mengde av hva en gjør er vaner. rutiner er i følge boka "The power of Habit" vaner i organissasjoner. Forskjellen mellom runter og ritualer er holdningen bak det en gjør. Ved et rituale er en ofte mer tilstede i det en gjør mens rutiner er mer mekaniske. Fordelen med rutiner er at det standariserer jobben en gjør. Kan formaliseres og effektiviseres. Fordelen med ritualer er at det bringer en til nuet, handler om folka og relasjonene. Et team bør ha begge deler. Det å feire at en har nådd mål med kake er et rituale. Det å ta en luftetur sammen eller en kaffe er et rituale.
+
+Pass på at teamet bygger begge deler.
 
 
 ## teamcanvas
