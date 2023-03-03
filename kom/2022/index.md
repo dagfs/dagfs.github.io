@@ -122,8 +122,6 @@ Målet mitt for året er å:
 ### Fremmover
 Usikker på hva fremmover. Nå er det litt tomt og det er vel egentlig ganske godt.
 
-- Kanskje flikke på oppskriftsside?
-- Kanskje skrive noe om ikoner som kan være i julekallenderen
-- Kanskje noe om bærekraft på en eller anne måte?
+
 - Blir 3 x 45 min forelesninger til våren det sikkert er lurt å starte på
 - Har lyst til å holde foredrag utenlands, så blir noen timer til uka på å lage CFP på det.
