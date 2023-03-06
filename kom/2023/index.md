@@ -16,7 +16,7 @@ Mål:
 ## Aktiviteter månede per månede
 
 ### Mars
-
+- CFP react submit (snek inn 2 CFP etter stengetid) [You are now thinking with design systems](/cfp/react-summit/2023/design-systems.md) [Language, plain and simple](/cfp/react-summit/2023/plain-language.md)
 - Lest om kreativ intuisjon [artikkel](https://www.sciencedirect.com/science/article/pii/S2713374521000066) fra Melkepletten
 - Vært på fagkveld om teamledelse [notater og refleksjoner](/notes/teamledelse/)
 - [Hva er god kodekvalitet i frontend?](https://dagfs.dev/notes/kodekvalitet-frontend)
