@@ -131,6 +131,17 @@ Hva er det du driver med? Hvorfor fjerner du styling fra elementet dette element
 Bruk variabler for farger og faste størrelser. Enten CSS custom properties eller en annen form for variabler. Finn gode navn på farger med designer slik at en ikke ender opp med de 12 forskjellige gråtonene de fleste prosjekter har.
 
 
+### Set viewport
+
+Det første du gjør i det du kommer inn på et prosjekt er å sjekke at viewport
+er satt. Og setter det hvis ikke.
+
+`<meta name="viewport" content="width=device-width, initial-scale=1" />`
+
+Men dette er HTML? Jupp, men påvirker all styling i stor grad for små enheter.
+Denne linja gjør livet enklere og nettsiden mer responsiv.
+
+
 ## God kodekvalitet i JS / TS
 
 Bare fordi du kan gjøre noe i JS betyr ikke at du burde.
