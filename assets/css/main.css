@@ -347,3 +347,15 @@ body.presentation #slides,
 #slides {
   display: none;
 }
+
+th{
+  text-align: left;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid;
+}
