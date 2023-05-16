@@ -353,9 +353,11 @@ th{
 }
 
 table{
+  border: 1px solid;
   border-collapse: collapse;
 }
 
-table, th, td {
+th, td {
   border: 1px solid;
+  padding:5px;
 }
