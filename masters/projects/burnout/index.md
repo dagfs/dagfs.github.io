@@ -16,3 +16,6 @@ https://www.idi.ntnu.no/education/oppgaveforslag.php?oid=3364
 ## Related learning games
 - [How are you doing?](https://pudding.cool/2022/12/emotion-wheel/) - an interactive story where you get to explore how you feel using different tools.
 - [Evolution of trust](https://ncase.me/trust/) - a interactive learning tool where you get to explore game theory
+
+## scenario framework
+[suggestion for scenario-framework](./scenario-framework)
