@@ -2,10 +2,11 @@
 
 ## Summary
 
-This talk is looking into the ideas and processes at the core of design systems and how understanding them will benefit you. 
+This talk will look into the ideas and processes at the core of design systems and how understanding them will benefit you and your team. 
 
-This talk is for the teams that have a design system, want's to create one or think it is a waste of time.
+The core idea of design systems is to have a framework for making and documenting decisions. The truth this talk will present is that no framework will replace collaboration and ownership, not even design systems.
 
+This talk is for the teams that have a design system, want's to create one or think they are waste of time. 
 
 ## abstract
 
@@ -61,3 +62,5 @@ The root of many of our problems with code and UX is that did not think through 
 
 Fra B:
 > det er for å samkjøre folk og avgjørelser, sørge for at man har gode og gjennomtenkte diskusjoner, og lagre valgene slik at de er lette å finne igjen på et senere tidspunkt.
+
+https://github.com/siiron/norwegian-design-systems

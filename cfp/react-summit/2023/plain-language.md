@@ -35,4 +35,7 @@ We do not interact with the world directly. We interact with the model of the wo
 
 Plain language is saving companies lots of money by reducing unnecessary work as a result of misunderstandings.
 
-https://youtu.be/yP-1WTZ2cWs
+
+## Resources
+- https://youtu.be/yP-1WTZ2cWs
+- https://developer.apple.com/design/human-interface-guidelines/foundations/writing/
