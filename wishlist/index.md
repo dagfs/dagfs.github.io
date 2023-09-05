@@ -28,26 +28,25 @@ Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret h
  - 
 
 ## Ting jeg har lyst på
-- Tøydamper
 - [Svartdalspiggen jumpsuit i ullfrottè](https://www.sparkjop.no/svartdalspiggen-jumpsuit-i-ullfrott-_415292?level_1=61713)
-<!-- - [Våtdrakt](https://prisguiden.no/produkt/head-multix-vl-fullsuit-herre-498407) - nedp -->
-- 
+- Brukt Lenovo thinkpad
 
 
 ## Ting jeg kan tenke meg en dag
-- Remarkable - 6000 nok
 - [PC kabinett - 700nok](https://www.komplett.no/product/863350/datautstyr/pc-komponenter/kabinetterbarebone/minimicronano-tower/fractal-design-core-500-mini-itx-sort)
 - Vest som den black widow has with
 - Frakk som den Terese has
 - Ny større ryggsekk til tur
 - Regntøy
-- GoPro
 - https://vuoriclothing.com/tim - yogabukse og annet treningstøy 20% off med 
 
 <!--
 Onily 
 - nike weare - pink and blue https://www.nike.com/no/en/t/air-force-1-fontanka-shoes-VrVC6t/DO6719-100
 https://www.boozt.com/no/no/vagabond/cosmo-2-0_29609286/223595784?navId=60323&group=brandwall&position=1400000
+iPad
+
+har smykker og parfyme
 -->
 
 
