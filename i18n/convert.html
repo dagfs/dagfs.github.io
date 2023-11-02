@@ -40,6 +40,23 @@
             return keys;
         }
 
+
+        function extractType(prefix, data) {
+
+            // console.log(data)
+            const entries = Object.entries(data)
+            let keys = {}
+            for ([key, value] of entries) {
+                const k = `${prefix}${key}`
+                if (typeof value === "string") {
+                    keys[key] = k
+                } else {
+                    keys[key] = { ...extractType(`${k}.`, value) }
+                }
+            }
+            return keys;
+        }
+
         function jsonToExcel(value) {
             const data = JSON.parse(value)
 
@@ -53,13 +70,12 @@
             const keys = entries.reduce((acc, ent) => {
                 const [key, { translation }] = ent
                 acc[key] = extractTranslationKey("", translation)
-
-
-
                 return acc
             }, {})
 
-            console.log("keys", keys)
+            const type = extractType("", data.en.translation)
+
+            typeElement.innerHTML = JSON.stringify(type, null, 2);
 
             let val = "key"
             for (var l = 0; l < languages.length; l++) {
@@ -76,9 +92,6 @@
                 }
                 val += "\n"
             }
-
-
-
 
             excel.innerHTML = val
 
@@ -132,6 +145,11 @@
 }
             </textarea>
         </div>
+        <div class="textarea">
+
+            <h2>JSON type</h2>
+            <textarea id="type"></textarea>
+        </div>
     </div>
 
 
@@ -139,6 +157,7 @@
     <script>
         const excel = document.querySelector("#excel");
         const json = document.querySelector("#json");
+        const typeElement = document.querySelector("#type");
         jsonToExcel(json.value)
     </script>
 </body>
