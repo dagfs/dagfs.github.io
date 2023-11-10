@@ -29,8 +29,9 @@ Jeg er alltid åpen for bøker du mener alle burde lese, bøker som har endret h
 
 ## Ting jeg har lyst på
 - [Svartdalspiggen jumpsuit i ullfrottè](https://www.sparkjop.no/svartdalspiggen-jumpsuit-i-ullfrott-_415292?level_1=61713)
-- Brukt Lenovo thinkpad
-
+- [steketermometer](https://www.kjell.com//no/produkter/hjem-fritid/termometer-og-hygrometere/matlagingtermometrer/grilltermometrer/rubicson-tradlost-steketermometer-med-to-sensorer-p40737?gclid=CjwKCAiAxreqBhAxEiwAfGfndHWhpyoL-KYVxvqlMhxT3Z4sHNhALa9Mk5zRK2cmHKthQPUt2UVULBoClFsQAvD_BwE)
+- [trådløs mikrofon](https://www.scandinavianphoto.no/saramonic/blink-900-b2-wireless-microphone-system-2-tx1-rx-1054760)
+- [samsong galaxy xcover 6](https://www.power.no/mobil-og-foto/mobiltelefon/samsung-galaxy-xcover6-pro-enterprise-edition-128-gb-svart/p-1596293/#description)
 
 ## Ting jeg kan tenke meg en dag
 - [PC kabinett - 700nok](https://www.komplett.no/product/863350/datautstyr/pc-komponenter/kabinetterbarebone/minimicronano-tower/fractal-design-core-500-mini-itx-sort)
