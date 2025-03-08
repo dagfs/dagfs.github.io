@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Smith;John;;Mr.;
+FN:John Smith
+ORG:Acme Corporation
+TITLE:Sales Manager
+TEL;TYPE=WORK,VOICE:(123) 456-7890
+ADR;TYPE=WORK:;;123 Main St.;Anytown;CA;12345;USA
+EMAIL:john.smith@example.com
+END:VCARD
